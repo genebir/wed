@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { galleryImageUrl } from '../lib/assets'
+import { assetUrl, galleryImageUrl } from '../lib/assets'
 import type { GalleryItem } from '../types'
 
 interface GalleryImageProps {
@@ -24,9 +24,15 @@ export function GalleryImage({ item, className = '', variant = 'thumb' }: Galler
     )
   }
 
+  // 그리드는 자체 호스팅 썸네일 우선 (외부 CDN 왕복 제거), 라이트박스는 원본급
+  const src =
+    variant === 'thumb' && item.thumb
+      ? assetUrl(item.thumb)
+      : galleryImageUrl(item.image, variant)
+
   return (
     <img
-      src={galleryImageUrl(item.image, variant)}
+      src={src}
       alt={item.memo ?? item.moods.join(', ')}
       width={item.w}
       height={item.h}

@@ -39,6 +39,8 @@ export interface GalleryItem {
   /** 원본 픽셀 크기 — 그리드 공간 예약(lazy loading 최적화)용 */
   w?: number
   h?: number
+  /** 자체 호스팅 400px 썸네일 (그리드용 — CDN 왕복 없이 로드) */
+  thumb?: string
 }
 
 export interface BudgetItem {
