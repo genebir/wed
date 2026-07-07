@@ -1,4 +1,5 @@
 import { DEFAULT_SPACE_ID, SUPABASE_ANON_KEY, SUPABASE_URL } from './syncConfig'
+import { supabase } from './supabase'
 
 /**
  * 아주 작은 key-value 동기화 레이어.
@@ -46,19 +47,11 @@ const listeners = new Map<string, Set<Listener>>()
 const pendingPush = new Set<string>()
 const lastSeen = new Map<string, string>()
 
-async function rpc(fn: string, body: object): Promise<unknown> {
-  const res = await fetch(`${SUPABASE_URL}/rest/v1/rpc/${fn}`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      apikey: SUPABASE_ANON_KEY,
-      Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
-    },
-    body: JSON.stringify(body),
-  })
-  if (!res.ok) throw new Error(`sync rpc ${fn}: ${res.status}`)
-  const text = await res.text()
-  return text ? JSON.parse(text) : null
+// supabase-js 경유 — 로그인 세션의 액세스 토큰으로 호출된다 (RPC는 authenticated 전용)
+async function rpc(fn: string, body: Record<string, unknown>): Promise<unknown> {
+  const { data, error } = await supabase.rpc(fn, body)
+  if (error) throw new Error(`sync rpc ${fn}: ${error.message}`)
+  return data
 }
 
 export async function pullAll(): Promise<void> {

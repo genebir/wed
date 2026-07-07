@@ -43,17 +43,17 @@ npm run build    # 타입체크 + 프로덕션 빌드
 `refs-inbox/`는 gitignore라 원본은 커밋되지 않고, 변환된 webp만 올라간다.
 공개 리포이므로 저작권 있는 타인의 사진(인스타/핀터레스트 저장본 등)은 넣지 말 것.
 
-## 둘이 동기화 켜기 (선택)
+## 로그인 & 동기화 (Supabase)
 
-체크리스트·찜·장비체크·예산 입력은 기본적으로 기기별 localStorage 저장. 두 사람 기기 간 공유하려면:
+- **로그인 게이트**: Supabase Auth 계정 2개(부부)만 입장. 세션은 sessionStorage라 앱을 닫으면 다시 로그인.
+- **동기화**: 체크리스트·찜·샷리스트·장비체크·예산·업체가 두 기기 간 공유 (20초 폴링 + 디바운스 push).
 
-1. [supabase.com](https://supabase.com)에서 무료 프로젝트 생성 (리전: Northeast Asia 추천)
-2. 대시보드 → SQL Editor에 `supabase/setup.sql` 내용 붙여넣고 Run
-3. 대시보드 → Settings → API에서 **Project URL**과 **anon public key** 복사
-4. `src/lib/syncConfig.ts`에 두 값 채우고 커밋 & push
-5. 배포된 사이트 우상단 구름 아이콘 → "새 코드 만들기" → 코드를 상대에게 보내 같은 코드로 연결
+셋업 절차 (최초 1회):
 
-anon key는 공개용 키라 커밋해도 된다. 데이터 접근은 공유 코드(UUID)를 아는 사람만 가능 (RPC 전용, 테이블 직접 접근 차단).
+1. [supabase.com](https://supabase.com) 무료 프로젝트 생성 → Settings → API의 URL/publishable key를 `src/lib/syncConfig.ts`에
+2. SQL Editor에서 `supabase/setup.sql` 실행 (테이블 + RPC)
+3. Authentication → Users에서 계정 2개 생성, Sign In/Up에서 **"Allow new users to sign up" 끄기**
+4. SQL Editor에서 `supabase/setup-auth.sql` 실행 (RPC를 로그인 사용자 전용으로 잠금)
 
 ## 폰에 앱처럼 설치 (PWA)
 
