@@ -14,7 +14,6 @@ function won(n: number): string {
 }
 
 export function Budget() {
-  const totalPlanned = budget.reduce((sum, b) => sum + b.planned, 0)
   const totalSpent = budget.reduce((sum, b) => sum + b.spent, 0)
   const remaining = wedding.totalBudget - totalSpent
   const spentPercent = Math.round((totalSpent / wedding.totalBudget) * 100)
