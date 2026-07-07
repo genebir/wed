@@ -2,11 +2,83 @@
   "locations": [
     {
       "id": "loc001",
-      "name": "한강공원 (후보)",
-      "address": "",
+      "name": "여의도·반포 한강공원",
+      "address": "서울 영등포구 여의동로 330 일대",
       "permitRequired": false,
-      "goldenHourNote": "서향 — 일몰 1시간 전부터 좋음",
-      "memo": "답사 필요"
+      "goldenHourNote": "서향 강변 — 일몰 1시간 전 역광 실루엣이 베스트",
+      "memo": "개인 비상업 촬영은 허가 불필요 (업체 동반 상업촬영만 한강사업본부 예약제). 주말 저녁은 인파 — 평일 추천"
+    },
+    {
+      "id": "loc002",
+      "name": "노들섬",
+      "address": "서울 용산구 양녕로 445",
+      "permitRequired": false,
+      "goldenHourNote": "한강대교 남단 방향 노을 스팟, 잔디마당 서향",
+      "memo": "일몰 명소. 잔디마당·글라스하우스·계단 등 배경 다양, 9호선 노들역 도보"
+    },
+    {
+      "id": "loc003",
+      "name": "하늘공원 (억새)",
+      "address": "서울 마포구 하늘공원로 95",
+      "permitRequired": false,
+      "goldenHourNote": "억새 역광은 일몰 1~2시간 전이 절정",
+      "memo": "10월 중순 서울억새축제 시기에 억새 만개 — 2026-10 촬영 일정과 딱 맞음. 인파 피하려면 축제 직전 평일. 오르막은 맹꽁이차 이용 가능"
+    },
+    {
+      "id": "loc004",
+      "name": "서울숲",
+      "address": "서울 성동구 뚝섬로 273",
+      "permitRequired": false,
+      "goldenHourNote": "은행나무길·거울연못, 늦은 오후 사선광",
+      "memo": "정책브리핑 추천 셀프웨딩 명소. 개인 셀프는 자유, 대형 장비·상업촬영은 공원 문의(02-460-2901)"
+    },
+    {
+      "id": "loc005",
+      "name": "올림픽공원 나홀로나무·들꽃마루",
+      "address": "서울 송파구 올림픽로 424",
+      "permitRequired": false,
+      "goldenHourNote": "넓은 잔디 서향 — 골든아워 롱샷",
+      "memo": "가을 들꽃마루 핑크뮬리·댑싸리. 나홀로나무 앞은 대기줄 생길 수 있음"
+    },
+    {
+      "id": "loc006",
+      "name": "남산골한옥마을",
+      "address": "서울 중구 퇴계로34길 28",
+      "permitRequired": false,
+      "goldenHourNote": "한옥 처마 그늘 + 오후 사선광",
+      "memo": "무료 입장, 한복 무드와 찰떡. 혼잡 시간 피해 오전 일찍 추천"
+    },
+    {
+      "id": "loc007",
+      "name": "덕수궁 돌담길·정동길",
+      "address": "서울 중구 정동길 일대",
+      "permitRequired": false,
+      "goldenHourNote": "가로수 단풍, 늦은 오후 골목으로 떨어지는 빛",
+      "memo": "도심 골목 무드. 단풍 절정은 11월 초 — 10월 보완 컷 후보"
+    },
+    {
+      "id": "loc008",
+      "name": "국립중앙박물관 거울못·계단",
+      "address": "서울 용산구 서빙고로 137",
+      "permitRequired": false,
+      "goldenHourNote": "미니멀 건축 배경 — 흐린 날도 OK",
+      "memo": "우천 대체 플랜 겸용(실내 전시동). 상업촬영·대형 장비는 허가 대상이니 셀프 소규모로"
+    },
+    {
+      "id": "loc009",
+      "name": "선유도공원",
+      "address": "서울 영등포구 선유로 343",
+      "permitRequired": false,
+      "goldenHourNote": "온실·콘크리트 구조물 — 시네마틱 무드",
+      "memo": "이끼·식물 + 콘크리트 질감. 흐린 날 오히려 무드 좋음"
+    },
+    {
+      "id": "loc010",
+      "name": "창덕궁 후원",
+      "address": "서울 종로구 율곡로 99",
+      "permitRequired": true,
+      "goldenHourNote": "고궁 가을 단풍",
+      "memo": "후원은 시간제 예약 관람 + 촬영허가(궁능유적본부) 필요 — 제약이 많아 참고용 후보"
     }
   ],
   "gear": [
@@ -20,12 +92,40 @@
   "shots": [
     {
       "id": "shot001",
-      "title": "골든아워 역광 컷",
+      "title": "골든아워 역광 실루엣 컷",
       "galleryRef": "g001",
-      "location": "한강공원 (후보)",
-      "note": "일몰 시간 확인 후 30분 전 도착"
+      "location": "여의도·반포 한강공원",
+      "note": "일몰 시간 확인 후 1시간 전 도착"
+    },
+    {
+      "id": "shot002",
+      "title": "억새밭 노을 포옹 컷",
+      "galleryRef": "g002",
+      "location": "하늘공원 (억새)",
+      "note": "10월 중순 억새 절정, 일몰 1~2시간 전"
+    },
+    {
+      "id": "shot003",
+      "title": "가을 단풍길 워킹 컷",
+      "galleryRef": "g011",
+      "location": "서울숲",
+      "note": "은행나무길, 늦은 오후 사선광"
+    },
+    {
+      "id": "shot004",
+      "title": "야경 시네마틱 뒷모습 컷",
+      "galleryRef": "g005",
+      "location": "노들섬",
+      "note": "블루아워~야간, 삼각대 필수"
+    },
+    {
+      "id": "shot005",
+      "title": "반지·손 클로즈업 컷",
+      "galleryRef": "g007",
+      "location": "카페 or 실내",
+      "note": "우천 대체 플랜 — 창가 자연광이면 충분"
     }
   ],
   "sunsetLink": "https://www.timeanddate.com/sun/south-korea/seoul",
-  "rainPlan": "우천 시 실내(카페/스튜디오) 대체 — 후보 정리 필요"
+  "rainPlan": "우천 시 국립중앙박물관(실내 전시동·거울못 처마) 또는 카페/스튜디오 대여로 대체"
 }

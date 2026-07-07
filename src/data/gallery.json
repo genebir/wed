@@ -1,62 +1,122 @@
 [
   {
     "id": "g001",
-    "image": "/gallery/placeholder-01.webp",
+    "image": "/gallery/golden-hour-silhouette-01.webp",
     "moods": ["따뜻한", "필름감성"],
-    "locations": ["한강", "야외"],
+    "locations": ["야외"],
     "season": "가을",
     "timeOfDay": "골든아워",
-    "sourceUrl": "",
-    "memo": "역광 + 85mm 느낌 (placeholder)"
+    "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-facing-each-other-during-golden-hour--CaJIE1MiA4",
+    "memo": "골든아워 역광 속 마주 보는 커플 실루엣 — 한강에서 재현"
   },
   {
     "id": "g002",
-    "image": "/gallery/placeholder-02.webp",
-    "moods": ["청량한", "미니멀"],
-    "locations": ["바다"],
-    "season": "여름",
-    "timeOfDay": "낮",
-    "sourceUrl": "",
-    "memo": "수평선 배경 와이드샷 (placeholder)"
+    "image": "/gallery/golden-hour-hug-01.webp",
+    "moods": ["따뜻한", "러블리"],
+    "locations": ["야외"],
+    "season": "가을",
+    "timeOfDay": "골든아워",
+    "sourceUrl": "https://unsplash.com/photos/couple-embracing-during-golden-hour-sunset-WHNWkO1lBKU",
+    "memo": "노을빛 아래 포옹 — 하늘공원 억새밭에서 시도"
   },
   {
     "id": "g003",
-    "image": "/gallery/placeholder-03.webp",
-    "moods": ["러블리"],
-    "locations": ["카페"],
-    "season": "사계절",
-    "timeOfDay": "낮",
-    "sourceUrl": "",
-    "memo": "창가 자연광 (placeholder)"
+    "image": "/gallery/beach-walk-film-01.webp",
+    "moods": ["따뜻한", "필름감성"],
+    "locations": ["바다"],
+    "season": "가을",
+    "timeOfDay": "골든아워",
+    "sourceUrl": "https://unsplash.com/photos/couple-walking-on-shore-during-golden-hour-U4xJJSJ221M",
+    "memo": "골든아워 해변 워킹 컷, 필름 무드"
   },
   {
     "id": "g004",
-    "image": "/gallery/placeholder-04.webp",
-    "moods": ["시네마틱"],
-    "locations": ["골목·도심"],
-    "season": "겨울",
-    "timeOfDay": "야간",
-    "sourceUrl": "",
-    "memo": "네온 불빛 보케 (placeholder)"
+    "image": "/gallery/beach-bright-01.webp",
+    "moods": ["청량한"],
+    "locations": ["바다"],
+    "season": "여름",
+    "timeOfDay": "낮",
+    "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-sandy-beach-V2DHPTleHTA",
+    "memo": "밝은 자연광 해변, 청량한 와이드샷"
   },
   {
     "id": "g005",
-    "image": "/gallery/placeholder-05.webp",
-    "moods": ["따뜻한", "러블리"],
-    "locations": ["공원·수목원"],
-    "season": "봄",
-    "timeOfDay": "골든아워",
-    "sourceUrl": "",
-    "memo": "잔디밭 피크닉 무드 (placeholder)"
+    "image": "/gallery/city-night-cinematic-01.webp",
+    "moods": ["시네마틱"],
+    "locations": ["골목·도심"],
+    "season": "사계절",
+    "timeOfDay": "야간",
+    "sourceUrl": "https://unsplash.com/photos/a-couple-enjoys-a-city-night-view-_xPUFxEKNGI",
+    "memo": "도심 야경을 바라보는 뒷모습 — 노들섬 야경으로 재현 가능"
   },
   {
     "id": "g006",
-    "image": "/gallery/placeholder-06.webp",
-    "moods": ["미니멀", "시네마틱"],
+    "image": "/gallery/city-night-bw-01.webp",
+    "moods": ["시네마틱", "미니멀"],
+    "locations": ["골목·도심"],
+    "season": "사계절",
+    "timeOfDay": "야간",
+    "sourceUrl": "https://unsplash.com/photos/two-people-stand-on-a-city-street-at-night-64mJ_XF9WWg",
+    "memo": "밤거리 조명 아래 흑백 시네마틱"
+  },
+  {
+    "id": "g007",
+    "image": "/gallery/rings-exchange-01.webp",
+    "moods": ["미니멀"],
     "locations": ["스튜디오·실내"],
     "season": "사계절",
+    "timeOfDay": "실내",
+    "sourceUrl": "https://unsplash.com/photos/a-close-up-of-hands-exchanging-wedding-rings-IsESwCm9b4Y",
+    "memo": "반지 교환 손 클로즈업 — 우천 대체 플랜용 실내 컷"
+  },
+  {
+    "id": "g008",
+    "image": "/gallery/hands-rings-01.webp",
+    "moods": ["미니멀", "러블리"],
+    "locations": ["야외"],
+    "season": "사계절",
     "timeOfDay": "낮",
-    "sourceUrl": "",
-    "memo": "화이트 배경 클로즈업 (placeholder)"
+    "sourceUrl": "https://unsplash.com/photos/close-up-photo-of-man-holding-womans-hand-qHjwSGv2p8c",
+    "memo": "반지 낀 맞잡은 손 클로즈업"
+  },
+  {
+    "id": "g009",
+    "image": "/gallery/bouquet-bride-01.webp",
+    "moods": ["러블리", "미니멀"],
+    "locations": ["스튜디오·실내"],
+    "season": "사계절",
+    "timeOfDay": "실내",
+    "sourceUrl": "https://unsplash.com/photos/bride-holding-bouquet-of-white-and-pink-flowers-0cfLnX9Tdlc",
+    "memo": "화이트·핑크 부케 컷 — 부케 결정할 때도 참고"
+  },
+  {
+    "id": "g010",
+    "image": "/gallery/cafe-window-film-01.webp",
+    "moods": ["러블리", "필름감성"],
+    "locations": ["카페"],
+    "season": "사계절",
+    "timeOfDay": "낮",
+    "sourceUrl": "https://unsplash.com/photos/people-inside-a-cafe-are-seen-through-the-window-qnZqkVjB4qg",
+    "memo": "카페 창문 너머 구도 — 우천 대체 플랜 후보"
+  },
+  {
+    "id": "g011",
+    "image": "/gallery/autumn-walk-film-01.webp",
+    "moods": ["따뜻한", "필름감성"],
+    "locations": ["공원·수목원"],
+    "season": "가을",
+    "timeOfDay": "낮",
+    "sourceUrl": "https://unsplash.com/photos/couple-walks-through-autumn-trees-and-leaves-k_uCcAt4_U4",
+    "memo": "가을 단풍길 워킹 — 서울숲 은행나무길로 재현"
+  },
+  {
+    "id": "g012",
+    "image": "/gallery/autumn-forest-walk-01.webp",
+    "moods": ["따뜻한"],
+    "locations": ["공원·수목원"],
+    "season": "가을",
+    "timeOfDay": "낮",
+    "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-walking-through-a-park-pj0JVooMZ8U",
+    "memo": "낙엽 쌓인 숲길 롱샷 — 올림픽공원 후보"
   }
 ]
