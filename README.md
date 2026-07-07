@@ -43,4 +43,21 @@ npm run build    # 타입체크 + 프로덕션 빌드
 `refs-inbox/`는 gitignore라 원본은 커밋되지 않고, 변환된 webp만 올라간다.
 공개 리포이므로 저작권 있는 타인의 사진(인스타/핀터레스트 저장본 등)은 넣지 말 것.
 
+## 둘이 동기화 켜기 (선택)
+
+체크리스트·찜·장비체크·예산 입력은 기본적으로 기기별 localStorage 저장. 두 사람 기기 간 공유하려면:
+
+1. [supabase.com](https://supabase.com)에서 무료 프로젝트 생성 (리전: Northeast Asia 추천)
+2. 대시보드 → SQL Editor에 `supabase/setup.sql` 내용 붙여넣고 Run
+3. 대시보드 → Settings → API에서 **Project URL**과 **anon public key** 복사
+4. `src/lib/syncConfig.ts`에 두 값 채우고 커밋 & push
+5. 배포된 사이트 우상단 구름 아이콘 → "새 코드 만들기" → 코드를 상대에게 보내 같은 코드로 연결
+
+anon key는 공개용 키라 커밋해도 된다. 데이터 접근은 공유 코드(UUID)를 아는 사람만 가능 (RPC 전용, 테이블 직접 접근 차단).
+
+## 폰에 앱처럼 설치 (PWA)
+
+- iOS Safari: 공유 → 홈 화면에 추가
+- Android Chrome: 메뉴 → 앱 설치
+
 ⚠️ 개인정보(실명, 연락처, 계좌, 상세 계약금액)는 커밋하지 않는다.

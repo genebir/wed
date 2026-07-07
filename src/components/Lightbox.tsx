@@ -1,14 +1,18 @@
 import { useEffect } from 'react'
-import { Camera, ExternalLink, X } from 'lucide-react'
+import { Camera, Clapperboard, ExternalLink, Heart, X } from 'lucide-react'
 import { GalleryImage } from './GalleryImage'
 import type { GalleryItem } from '../types'
 
 interface LightboxProps {
   item: GalleryItem
   onClose: () => void
+  isFav?: boolean
+  onToggleFav?: () => void
+  inShots?: boolean
+  onToggleShot?: () => void
 }
 
-export function Lightbox({ item, onClose }: LightboxProps) {
+export function Lightbox({ item, onClose, isFav, onToggleFav, inShots, onToggleShot }: LightboxProps) {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose()
@@ -43,6 +47,34 @@ export function Lightbox({ item, onClose }: LightboxProps) {
         </div>
 
         <div className="space-y-3 p-5">
+          {(onToggleFav || onToggleShot) && (
+            <div className="flex gap-2">
+              {onToggleFav && (
+                <button
+                  type="button"
+                  onClick={onToggleFav}
+                  className={`flex items-center gap-1.5 rounded-full px-4 py-2 text-sm transition-colors ${
+                    isFav ? 'bg-blush-100 font-semibold text-blush-400' : 'bg-beige-100 text-muted hover:text-ink'
+                  }`}
+                >
+                  <Heart size={15} fill={isFav ? 'currentColor' : 'none'} />
+                  {isFav ? '찜함' : '찜'}
+                </button>
+              )}
+              {onToggleShot && (
+                <button
+                  type="button"
+                  onClick={onToggleShot}
+                  className={`flex items-center gap-1.5 rounded-full px-4 py-2 text-sm transition-colors ${
+                    inShots ? 'bg-ink font-semibold text-white' : 'bg-beige-100 text-muted hover:text-ink'
+                  }`}
+                >
+                  <Clapperboard size={15} />
+                  {inShots ? '샷 리스트에 있음 ✓' : '샷 리스트에 추가'}
+                </button>
+              )}
+            </div>
+          )}
           <div className="flex flex-wrap gap-1.5">
             {[...item.moods, ...item.locations].map((tag) => (
               <span key={tag} className="rounded-full bg-beige-100 px-2.5 py-1 text-xs text-muted">

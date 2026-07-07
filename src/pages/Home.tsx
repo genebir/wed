@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { ArrowRight, Camera, CircleCheck, Sparkles } from 'lucide-react'
 import { checklist, gallery, timeline, wedding } from '../data'
 import { useDday } from '../hooks/useDday'
-import { useLocalStorage } from '../hooks/useLocalStorage'
+import { useSharedState } from '../hooks/useSharedState'
 import { currentMonthKey, formatDateKo, formatMonthKo } from '../lib/date'
 import { isItemDone, progressOf, type DoneState } from '../lib/progress'
 import { Card } from '../components/Card'
@@ -12,7 +12,7 @@ import { GalleryImage } from '../components/GalleryImage'
 
 export function Home() {
   const dday = useDday(wedding.weddingDate)
-  const [doneState] = useLocalStorage<DoneState>('checklist-state', {})
+  const [doneState] = useSharedState<DoneState>('checklist-state', {})
   const month = currentMonthKey()
 
   const overallProgress = progressOf(checklist, doneState)

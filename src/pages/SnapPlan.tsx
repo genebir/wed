@@ -1,29 +1,35 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
+import { format } from 'date-fns'
 import {
   Camera,
   Check,
+  Clapperboard,
   CloudRain,
   ExternalLink,
   MapPin,
   Sunset,
+  X,
 } from 'lucide-react'
 import { gallery, snapPlan } from '../data'
-import { useLocalStorage } from '../hooks/useLocalStorage'
+import { useSharedState } from '../hooks/useSharedState'
 import { Card } from '../components/Card'
 import { FadeUp } from '../components/FadeUp'
 import { Lightbox } from '../components/Lightbox'
 import { GalleryImage } from '../components/GalleryImage'
-import type { GalleryItem } from '../types'
+import type { GalleryItem, SnapShot } from '../types'
 
 export function SnapPlan() {
-  const [gearState, setGearState] = useLocalStorage<Record<string, boolean>>(
+  const [gearState, setGearState] = useSharedState<Record<string, boolean>>(
     'snap-gear-state',
     {},
   )
-  const [dayMemo, setDayMemo] = useLocalStorage<string>('snap-day-memo', '')
+  const [dayMemo, setDayMemo] = useSharedState<string>('snap-day-memo', '')
+  const [customShots, setCustomShots] = useSharedState<SnapShot[]>('custom-shots', [])
   const [previewRef, setPreviewRef] = useState<GalleryItem | null>(null)
 
   const gearDone = snapPlan.gear.filter((g) => gearState[g.id]).length
+  const shots = [...snapPlan.shots, ...customShots]
+  const customIds = new Set(customShots.map((s) => s.id))
 
   return (
     <div className="space-y-16 py-20">
@@ -58,7 +64,7 @@ export function SnapPlan() {
                 {loc.address && <p className="text-sm text-muted">{loc.address}</p>}
                 {loc.goldenHourNote && (
                   <p className="mt-2 flex items-center gap-1.5 text-sm text-muted">
-                    <Sunset size={14} className="text-blush-400" /> {loc.goldenHourNote}
+                    <Sunset size={14} className="shrink-0 text-blush-400" /> {loc.goldenHourNote}
                   </p>
                 )}
                 {loc.memo && <p className="mt-2 text-sm text-muted">{loc.memo}</p>}
@@ -165,10 +171,14 @@ export function SnapPlan() {
       {/* 샷 리스트 */}
       <FadeUp delay={160}>
         <section>
-          <h2 className="mb-5 text-xl font-bold tracking-tight">🎬 샷 리스트</h2>
+          <h2 className="mb-5 flex items-center gap-2 text-xl font-bold tracking-tight">
+            <Clapperboard size={20} className="text-blush-400" /> 샷 리스트
+            <span className="text-sm font-normal text-muted">{shots.length}컷</span>
+          </h2>
           <div className="space-y-3">
-            {snapPlan.shots.map((shot) => {
+            {shots.map((shot) => {
               const ref = gallery.find((g) => g.id === shot.galleryRef)
+              const isCustom = customIds.has(shot.id)
               return (
                 <Card key={shot.id} className="flex items-center gap-4 p-4">
                   {ref && (
@@ -180,20 +190,31 @@ export function SnapPlan() {
                       <GalleryImage item={ref} />
                     </button>
                   )}
-                  <div className="min-w-0">
+                  <div className="min-w-0 flex-1">
                     <p className="font-medium">{shot.title}</p>
                     {shot.location && (
                       <p className="text-xs text-muted">📍 {shot.location}</p>
                     )}
                     {shot.note && <p className="mt-1 text-sm text-muted">{shot.note}</p>}
                   </div>
+                  {isCustom && (
+                    <button
+                      type="button"
+                      onClick={() =>
+                        setCustomShots((prev) => prev.filter((s) => s.id !== shot.id))
+                      }
+                      aria-label="샷 삭제"
+                      className="shrink-0 rounded-full p-2 text-muted hover:text-ink"
+                    >
+                      <X size={16} />
+                    </button>
+                  )}
                 </Card>
               )
             })}
           </div>
           <p className="mt-3 text-xs text-muted">
-            갤러리에서 마음에 든 컷의 <code>id</code>를 <code>galleryRef</code>로 연결하면
-            썸네일이 붙어요.
+            갤러리에서 사진 열고 <strong>샷 리스트에 추가</strong>를 누르면 여기 쌓여요.
           </p>
         </section>
       </FadeUp>
@@ -203,22 +224,7 @@ export function SnapPlan() {
         <section>
           <h2 className="mb-5 text-xl font-bold tracking-tight">☀️ 촬영일 체크</h2>
           <div className="grid gap-4 md:grid-cols-2">
-            <Card className="p-6">
-              <h3 className="mb-2 flex items-center gap-1.5 font-semibold">
-                <Sunset size={16} className="text-blush-400" /> 일몰 시간
-              </h3>
-              {snapPlan.sunsetLink && (
-                <a
-                  href={snapPlan.sunsetLink}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center gap-1.5 text-sm text-muted underline underline-offset-2 hover:text-ink"
-                >
-                  서울 일몰 시간 확인하기 <ExternalLink size={13} />
-                </a>
-              )}
-              <p className="mt-2 text-sm text-muted">골든아워는 일몰 전 약 1시간.</p>
-            </Card>
+            <SunsetCard />
             <Card className="p-6">
               <h3 className="mb-2 flex items-center gap-1.5 font-semibold">
                 <CloudRain size={16} className="text-blush-400" /> 우천 대체 플랜
@@ -235,12 +241,95 @@ export function SnapPlan() {
               rows={3}
               className="w-full resize-none rounded-xl border border-beige-100 bg-beige-50/50 p-3 text-sm outline-none placeholder:text-muted/60 focus:border-blush-200"
             />
-            <p className="mt-2 text-xs text-muted">이 메모는 내 브라우저에만 저장돼요.</p>
           </Card>
         </section>
       </FadeUp>
 
       {previewRef && <Lightbox item={previewRef} onClose={() => setPreviewRef(null)} />}
     </div>
+  )
+}
+
+/** 서울 일몰/골든아워 자동 표시 — sunrise-sunset.org 무료 API */
+function SunsetCard() {
+  const [date, setDate] = useState(() => format(new Date(), 'yyyy-MM-dd'))
+  const [times, setTimes] = useState<{ golden: string; sunset: string; blue: string } | null>(
+    null,
+  )
+  const [failed, setFailed] = useState(false)
+
+  useEffect(() => {
+    let cancelled = false
+    setTimes(null)
+    setFailed(false)
+    fetch(
+      `https://api.sunrise-sunset.org/json?lat=37.5665&lng=126.9780&date=${date}&formatted=0`,
+    )
+      .then((r) => r.json())
+      .then((d) => {
+        if (cancelled) return
+        if (d.status !== 'OK') throw new Error(d.status)
+        const fmt = (dt: Date) =>
+          dt.toLocaleTimeString('ko-KR', {
+            hour: '2-digit',
+            minute: '2-digit',
+            timeZone: 'Asia/Seoul',
+          })
+        const sunset = new Date(d.results.sunset)
+        setTimes({
+          golden: fmt(new Date(sunset.getTime() - 60 * 60 * 1000)),
+          sunset: fmt(sunset),
+          blue: fmt(new Date(d.results.civil_twilight_end)),
+        })
+      })
+      .catch(() => {
+        if (!cancelled) setFailed(true)
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [date])
+
+  return (
+    <Card className="p-6">
+      <div className="mb-3 flex items-center justify-between gap-2">
+        <h3 className="flex items-center gap-1.5 font-semibold">
+          <Sunset size={16} className="text-blush-400" /> 서울 일몰 시간
+        </h3>
+        <input
+          type="date"
+          value={date}
+          onChange={(e) => e.target.value && setDate(e.target.value)}
+          className="rounded-lg border border-beige-100 bg-beige-50/50 px-2 py-1 text-xs outline-none focus:border-blush-200"
+        />
+      </div>
+      {failed ? (
+        <a
+          href={snapPlan.sunsetLink}
+          target="_blank"
+          rel="noreferrer"
+          className="inline-flex items-center gap-1.5 text-sm text-muted underline underline-offset-2 hover:text-ink"
+        >
+          시간을 불러오지 못했어요 — 직접 확인하기 <ExternalLink size={13} />
+        </a>
+      ) : !times ? (
+        <p className="text-sm text-muted">불러오는 중…</p>
+      ) : (
+        <div className="grid grid-cols-3 gap-2 text-center">
+          <div className="rounded-xl bg-blush-50 py-3">
+            <p className="text-xs text-muted">골든아워</p>
+            <p className="mt-0.5 font-semibold tabular-nums">{times.golden}</p>
+          </div>
+          <div className="rounded-xl bg-blush-100 py-3">
+            <p className="text-xs text-muted">일몰</p>
+            <p className="mt-0.5 font-semibold tabular-nums">{times.sunset}</p>
+          </div>
+          <div className="rounded-xl bg-beige-100 py-3">
+            <p className="text-xs text-muted">블루아워 끝</p>
+            <p className="mt-0.5 font-semibold tabular-nums">{times.blue}</p>
+          </div>
+        </div>
+      )}
+    </Card>
   )
 }

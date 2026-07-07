@@ -1,6 +1,7 @@
 import { Cell, Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts'
 import { TriangleAlert, Wallet } from 'lucide-react'
 import { budget, wedding } from '../data'
+import { useSharedState } from '../hooks/useSharedState'
 import { Card } from '../components/Card'
 import { ProgressBar } from '../components/ProgressBar'
 import { FadeUp } from '../components/FadeUp'
@@ -14,7 +15,11 @@ function won(n: number): string {
 }
 
 export function Budget() {
-  const totalSpent = budget.reduce((sum, b) => sum + b.spent, 0)
+  // 지출은 화면에서 입력 (JSON의 spent는 초기값)
+  const [spentState, setSpentState] = useSharedState<Record<string, number>>('budget-spent', {})
+  const spentOf = (category: string, fallback: number) => spentState[category] ?? fallback
+
+  const totalSpent = budget.reduce((sum, b) => sum + spentOf(b.category, b.spent), 0)
   const remaining = wedding.totalBudget - totalSpent
   const spentPercent = Math.round((totalSpent / wedding.totalBudget) * 100)
 
@@ -117,8 +122,9 @@ export function Budget() {
           <h2 className="mb-5 text-xl font-bold tracking-tight">카테고리별 집행</h2>
           <div className="space-y-3">
             {budget.map((b) => {
-              const over = b.spent > b.planned
-              const percent = b.planned > 0 ? Math.round((b.spent / b.planned) * 100) : 0
+              const spent = spentOf(b.category, b.spent)
+              const over = spent > b.planned
+              const percent = b.planned > 0 ? Math.round((spent / b.planned) * 100) : 0
               return (
                 <Card key={b.category} className="p-5">
                   <div className="mb-2 flex items-center justify-between gap-3">
@@ -133,9 +139,21 @@ export function Budget() {
                         </span>
                       )}
                     </div>
-                    <span className="text-sm tabular-nums text-muted">
-                      {won(b.spent)} / {won(b.planned)}
-                    </span>
+                    <div className="flex items-center gap-1.5 text-sm tabular-nums text-muted">
+                      <input
+                        type="text"
+                        inputMode="numeric"
+                        value={spent === 0 ? '' : spent.toLocaleString('ko-KR')}
+                        placeholder="0"
+                        onChange={(e) => {
+                          const num = Number(e.target.value.replace(/[^0-9]/g, ''))
+                          setSpentState((prev) => ({ ...prev, [b.category]: num }))
+                        }}
+                        aria-label={`${b.category} 지출액`}
+                        className="w-28 rounded-lg border border-beige-100 bg-beige-50/50 px-2 py-1 text-right text-sm outline-none focus:border-blush-200"
+                      />
+                      <span>원 / {won(b.planned)}</span>
+                    </div>
                   </div>
                   <div className="h-2 w-full overflow-hidden rounded-full bg-beige-100">
                     <div
@@ -152,7 +170,8 @@ export function Budget() {
             })}
           </div>
           <p className="mt-3 text-xs text-muted">
-            지출 기록은 <code>src/data/budget.json</code>의 <code>spent</code> 값 수정.
+            금액을 입력하면 바로 저장돼요. 계획(planned) 변경은{' '}
+            <code>src/data/budget.json</code>에서.
           </p>
         </section>
       </FadeUp>

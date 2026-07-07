@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Check } from 'lucide-react'
 import { checklist } from '../data'
-import { useLocalStorage } from '../hooks/useLocalStorage'
+import { useSharedState } from '../hooks/useSharedState'
 import { currentMonthKey, formatMonthKo, isCurrentMonth } from '../lib/date'
 import { isItemDone, progressOf, type DoneState } from '../lib/progress'
 import { Card } from '../components/Card'
@@ -12,7 +12,7 @@ import type { ChecklistItem } from '../types'
 const MONTHS = [...new Set(checklist.map((c) => c.month))].sort()
 
 export function Checklist() {
-  const [doneState, setDoneState] = useLocalStorage<DoneState>('checklist-state', {})
+  const [doneState, setDoneState] = useSharedState<DoneState>('checklist-state', {})
   const [month, setMonth] = useState(() =>
     MONTHS.includes(currentMonthKey()) ? currentMonthKey() : MONTHS[0],
   )
