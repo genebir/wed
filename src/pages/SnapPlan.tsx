@@ -71,6 +71,61 @@ export function SnapPlan() {
         </section>
       </FadeUp>
 
+      {/* A7C II 공통 세팅 */}
+      <FadeUp delay={100}>
+        <section>
+          <h2 className="mb-5 flex items-center gap-2 text-xl font-bold tracking-tight">
+            <Camera size={20} className="text-blush-400" /> A7C II 셀프 스냅 공통 세팅
+          </h2>
+          <Card className="p-6">
+            <ul className="grid gap-3 text-sm md:grid-cols-2">
+              <li className="flex gap-2">
+                <span className="text-blush-400">•</span>
+                <span>
+                  <strong>RAW+JPEG</strong>로 촬영 — JPEG은 크리에이티브 룩으로 바로 쓰고,
+                  실패 컷은 RAW로 복구
+                </span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-blush-400">•</span>
+                <span>
+                  <strong>Eye AF(사람 인식) + AF-C</strong> 상시 ON — 둘 다 프레임에 있으면
+                  얼굴 등록해둔 쪽 우선
+                </span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-blush-400">•</span>
+                <span>
+                  셀프 촬영은 <strong>삼각대 + Creators&rsquo; App 리모컨</strong>이 기본,
+                  움직이는 컷은 <strong>인터벌 촬영(2~3초)</strong>로 연속 확보
+                </span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-blush-400">•</span>
+                <span>
+                  <strong>격자선 ON + 수평계</strong> — 셀프는 수평 틀어진 걸 현장에서 못
+                  알아채요
+                </span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-blush-400">•</span>
+                <span>
+                  ISO 오토 상한 <strong>3200</strong>, 저속한계 <strong>1/125</strong> (야간
+                  제외)
+                </span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-blush-400">•</span>
+                <span>
+                  각 컷별 세부 레시피는 <strong>갤러리에서 사진 클릭</strong> → &ldquo;A7C
+                  II로 이렇게&rdquo; 참고
+                </span>
+              </li>
+            </ul>
+          </Card>
+        </section>
+      </FadeUp>
+
       {/* 장비 체크리스트 */}
       <FadeUp delay={120}>
         <section>

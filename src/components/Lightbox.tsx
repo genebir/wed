@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { ExternalLink, X } from 'lucide-react'
+import { Camera, ExternalLink, X } from 'lucide-react'
 import { GalleryImage } from './GalleryImage'
 import type { GalleryItem } from '../types'
 
@@ -61,6 +61,14 @@ export function Lightbox({ item, onClose }: LightboxProps) {
             )}
           </div>
           {item.memo && <p className="text-sm">{item.memo}</p>}
+          {item.shootingTip && (
+            <div className="rounded-xl bg-beige-50 p-4">
+              <p className="mb-1.5 flex items-center gap-1.5 text-xs font-semibold text-muted">
+                <Camera size={13} className="text-blush-400" /> A7C II로 이렇게
+              </p>
+              <p className="text-sm leading-relaxed">{item.shootingTip}</p>
+            </div>
+          )}
           {item.sourceUrl && (
             <a
               href={item.sourceUrl}

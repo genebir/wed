@@ -34,6 +34,8 @@ export interface GalleryItem {
   timeOfDay?: string
   sourceUrl?: string
   memo?: string
+  /** A7C II 기준 촬영 세팅 팁 */
+  shootingTip?: string
 }
 
 export interface BudgetItem {
