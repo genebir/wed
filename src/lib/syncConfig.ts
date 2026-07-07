@@ -5,5 +5,5 @@
  * anon key는 공개되어도 되는 키라 리포에 커밋해도 된다.
  * 실제 데이터 접근은 '공유 코드'(UUID)를 아는 사람만 가능.
  */
-export const SUPABASE_URL = ''
-export const SUPABASE_ANON_KEY = ''
+export const SUPABASE_URL = 'https://dbccgazqwwopevddhvhp.supabase.co'
+export const SUPABASE_ANON_KEY = 'sb_publishable_YTFahn2pxxzQTuVD6rywuw_GvAI4zZb'
