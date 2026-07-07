@@ -52,6 +52,17 @@ export interface BudgetItem {
   memo?: string
 }
 
+/** 우리가 직접 찍어 올린 컷 (Supabase Storage) */
+export interface OurShot {
+  id: string
+  /** storage 'shots' 버킷 내 경로 */
+  path: string
+  w: number
+  h: number
+  memo?: string
+  uploadedAt: string // 'yyyy-MM-dd'
+}
+
 export type VendorStatus = '알아보는중' | '상담예약' | '계약완료'
 
 export interface Vendor {

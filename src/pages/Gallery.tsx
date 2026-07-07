@@ -1,12 +1,14 @@
-import { useEffect, useMemo, useState } from 'react'
-import { Heart } from 'lucide-react'
+import { useMemo, useState } from 'react'
+import { Camera, Heart, Images } from 'lucide-react'
 import { gallery } from '../data'
 import { filterGallery, toggleValue } from '../lib/filter'
 import { useSharedState } from '../hooks/useSharedState'
+import { useColumnCount } from '../hooks/useColumnCount'
 import { Chip } from '../components/Chip'
 import { GalleryImage } from '../components/GalleryImage'
 import { Lightbox } from '../components/Lightbox'
 import { FadeUp } from '../components/FadeUp'
+import { OurShots } from '../components/OurShots'
 import type { GalleryItem, SnapShot } from '../types'
 
 const MOOD_PRESETS = ['따뜻한', '청량한', '필름감성', '시네마틱', '미니멀', '러블리']
@@ -16,23 +18,48 @@ const LOCATION_PRESETS = ['한강', '공원·수목원', '카페', '바다', '�
 const MOODS = [...new Set([...MOOD_PRESETS, ...gallery.flatMap((g) => g.moods)])]
 const LOCATIONS = [...new Set([...LOCATION_PRESETS, ...gallery.flatMap((g) => g.locations)])]
 
-/**
- * CSS multi-column(columns-*) 안의 lazy 이미지는 크롬이 뷰포트 거리 계산을
- * 못 해 로딩이 한없이 밀리는 버그가 있어, JS로 컬럼을 분배한다 (일반 flex 흐름).
- */
-function useColumnCount(): number {
-  const get = () =>
-    typeof window === 'undefined' ? 2 : window.innerWidth >= 1024 ? 4 : window.innerWidth >= 768 ? 3 : 2
-  const [count, setCount] = useState(get)
-  useEffect(() => {
-    const onResize = () => setCount(get())
-    window.addEventListener('resize', onResize)
-    return () => window.removeEventListener('resize', onResize)
-  }, [])
-  return count
+export function Gallery() {
+  const [tab, setTab] = useState<'refs' | 'ours'>('refs')
+
+  return (
+    <div className="py-20">
+      <FadeUp>
+        <h1 className="text-3xl font-bold tracking-tight md:text-4xl">갤러리</h1>
+        <p className="mt-3 text-muted">
+          레퍼런스로 감 잡고, 우리가 찍은 컷을 모아요.
+        </p>
+        {/* 탭 */}
+        <div className="mt-8 inline-flex rounded-full bg-white p-1 shadow-sm">
+          <button
+            type="button"
+            onClick={() => setTab('refs')}
+            className={`flex items-center gap-1.5 rounded-full px-4 py-2 text-sm transition-colors ${
+              tab === 'refs' ? 'bg-ink font-semibold text-white' : 'text-muted hover:text-ink'
+            }`}
+          >
+            <Images size={15} /> 레퍼런스
+          </button>
+          <button
+            type="button"
+            onClick={() => setTab('ours')}
+            className={`flex items-center gap-1.5 rounded-full px-4 py-2 text-sm transition-colors ${
+              tab === 'ours' ? 'bg-ink font-semibold text-white' : 'text-muted hover:text-ink'
+            }`}
+          >
+            <Camera size={15} /> 우리 컷
+          </button>
+        </div>
+      </FadeUp>
+
+      <div className="mt-10">
+        {tab === 'refs' ? <ReferenceGallery /> : <OurShots />}
+      </div>
+    </div>
+  )
 }
 
-export function Gallery() {
+/** CSS multi-column 대신 JS 컬럼 분배 masonry — lazy loading이 정상 동작한다 */
+function ReferenceGallery() {
   const [moods, setMoods] = useState<string[]>([])
   const [locations, setLocations] = useState<string[]>([])
   const [favOnly, setFavOnly] = useState(false)
@@ -81,17 +108,10 @@ export function Gallery() {
   }
 
   return (
-    <div className="py-20">
-      <FadeUp>
-        <h1 className="text-3xl font-bold tracking-tight md:text-4xl">스냅 레퍼런스</h1>
-        <p className="mt-3 text-muted">
-          이런 느낌으로 찍자 — 마음에 들면 ♥ 찜, 확정이면 샷 리스트로.
-        </p>
-      </FadeUp>
-
+    <div>
       {/* 필터 */}
-      <FadeUp delay={80}>
-        <div className="mt-10 space-y-4">
+      <FadeUp>
+        <div className="space-y-4">
           <div className="flex flex-wrap items-center gap-2">
             <button
               type="button"
