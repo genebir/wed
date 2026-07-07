@@ -16,6 +16,8 @@ export function FadeUp({ children, className = '', delay = 0 }: FadeUpProps) {
   useEffect(() => {
     const el = ref.current
     if (!el) return
+    // threshold는 0이어야 한다 — 비율 기준(예: 0.1)을 쓰면 뷰포트보다 훨씬 긴
+    // 요소(갤러리 그리드 등)는 그 비율이 절대 안 채워져 영영 투명하게 남는다
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
@@ -23,7 +25,7 @@ export function FadeUp({ children, className = '', delay = 0 }: FadeUpProps) {
           observer.disconnect()
         }
       },
-      { threshold: 0.1 },
+      { threshold: 0 },
     )
     observer.observe(el)
     return () => observer.disconnect()

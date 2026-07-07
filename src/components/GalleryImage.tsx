@@ -5,12 +5,14 @@ import type { GalleryItem } from '../types'
 interface GalleryImageProps {
   item: GalleryItem
   className?: string
-  /** thumb: 그리드용 400px, full: 라이트박스용 1200px */
+  /** thumb: 그리드용 400px, full: 라이트박스용 1000px */
   variant?: 'thumb' | 'full'
+  /** 첫 화면 이미지는 lazy 대기 없이 즉시 로드 */
+  eager?: boolean
 }
 
 /** 이미지가 없거나 로드 실패하면 그라데이션 폴백을 보여준다 */
-export function GalleryImage({ item, className = '', variant = 'thumb' }: GalleryImageProps) {
+export function GalleryImage({ item, className = '', variant = 'thumb', eager = false }: GalleryImageProps) {
   const [failed, setFailed] = useState(false)
 
   if (failed) {
@@ -39,7 +41,7 @@ export function GalleryImage({ item, className = '', variant = 'thumb' }: Galler
       alt={item.memo ?? item.moods.join(', ')}
       width={item.w}
       height={item.h}
-      loading="lazy"
+      loading={eager ? 'eager' : 'lazy'}
       decoding="async"
       onError={() => setFailed(true)}
       style={blurUp}
