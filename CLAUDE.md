@@ -24,8 +24,11 @@
 
 - **Vite + React 18 + TypeScript**
 - **Tailwind CSS** (디자인 토큰은 `tailwind.config`에 정의)
-- 상태: 콘텐츠는 정적 JSON import, 체크 상태는 `localStorage` (Phase 1)
+- 상태: 콘텐츠는 정적 JSON import(시드), 사용자 상태는 `useSharedState` 훅
+  - localStorage 저장 + **Supabase 동기화** (구현 완료 — `src/lib/sync.ts`, 공유 코드 UUID 기반, 20초 폴링 + 디바운스 push)
+  - 공유 상태 키: `checklist-state`, `gallery-favs`, `custom-shots`, `snap-gear-state`, `snap-day-memo`, `budget-spent`, `vendors-list`
 - 라우팅: `react-router-dom` (HashRouter — GitHub Pages 새로고침 404 방지)
+- **PWA**: manifest + network-first 서비스 워커 (`public/sw.js`) — 캐시 우선 금지(배포 즉시 반영 위해)
 - 폰트: **Pretendard** (본문) + 선택적으로 세리프 디스플레이 폰트 (제목용, 예: Noto Serif KR)
 - 아이콘: lucide-react
 - 차트(예산): recharts
@@ -85,7 +88,13 @@
 - 상단에 월별 진행률 표시
 
 ### 3.4 셀프 스냅 갤러리 (`src/data/gallery.json`)
-**크롤링 방식이 아닌 수동 큐레이션 방식.** Pinterest/Instagram 크롤링은 약관 위반이며 유지보수 불가 → 대신:
+**크롤링 방식이 아닌 수동 큐레이션 방식.** Pinterest/Instagram 크롤링은 약관 위반이며 유지보수 불가.
+현재 274장: Unsplash(자유 라이선스) CDN 핫링크 262장 + 로컬 webp 12장.
+
+- 항목에 `shootingTip`(A7C II 촬영 레시피), `w`/`h`(원본 픽셀 크기 — lazy loading용 공간 예약) 필드 포함
+- 그리드는 w=400 썸네일, 라이트박스는 w=1200 (`galleryImageUrl()` in `src/lib/assets.ts`)
+- 직접 찍거나 저장한 이미지 추가는 `refs-inbox/`에 넣고 `npm run refs` (webp 변환 + JSON 등록 자동)
+- 찜(`gallery-favs`)과 샷 리스트 보내기(`custom-shots`) 지원
 
 - 데이터 구조:
 ```json
@@ -118,13 +127,14 @@
 ### 3.6 예산 트래커 (`src/data/budget.json`)
 - 총 예산 1,000만원 기준
 - 카테고리: 반지 / 헤어메이크업 / 스냅(셀프—장비·소품) / 청첩장 / 정장·혼주의상 / 드레스·부케 / 본식 기타 / 예비비
-- 항목별 `{ category, planned, spent, memo }`
+- 항목별 `{ category, planned, spent, memo }` — planned는 JSON, **지출은 화면에서 입력** (`budget-spent` 상태, JSON spent는 초기값)
 - 도넛 차트(카테고리 비중) + 잔여 예산 프로그레스 바
 - 초과 카테고리는 경고 색상 표시
 
 ### 3.7 업체/예약 관리 (`src/data/vendors.json`)
-- `{ name, category, status(알아보는중/상담예약/계약완료), visitDate?, memo, link? }`
-- 칸반 느낌의 상태별 컬럼 or 리스트 + 상태 뱃지
+- `{ id, name, category, status(알아보는중/상담예약/계약완료), visitDate?, memo, link? }`
+- 칸반 느낌의 상태별 3컬럼 + 상태 뱃지
+- **화면에서 추가/상태 변경/편집/삭제** (`vendors-list` 상태, JSON은 최초 시드)
 
 ---
 
@@ -199,8 +209,8 @@ public/
 
 ---
 
-## 8. Phase 2 (지금 하지 않음 — 문서만 남김)
+## 8. Phase 2 진행 현황
 
-- 체크/예산 상태의 둘 간 실시간 동기화가 필요해지면 **Supabase free tier** 연동 (localStorage → Supabase 마이그레이션 경로 고려해 상태 접근을 훅으로 추상화해둘 것)
-- 갤러리 이미지 업로드 UI (현재는 리포 커밋 방식)
-- 하객용 공개 페이지 (모바일 청첩장 연계)
+- ✅ **Supabase 동기화 구현 완료** — `supabase/setup.sql`(RPC 전용, RLS로 직접 접근 차단), `src/lib/syncConfig.ts`(URL/publishable key, 커밋 OK), 헤더 구름 아이콘에서 공유 코드 연결. 충돌은 키 단위 last-write-wins(2인 전제)
+- ✅ 이미지 추가 파이프라인: `npm run refs` (업로드 UI 대신 스크립트 방식)
+- ⬜ 하객용 공개 페이지 (모바일 청첩장 연계) — 2026-12 청첩장 시즌에 검토

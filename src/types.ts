@@ -51,6 +51,7 @@ export interface BudgetItem {
 export type VendorStatus = '알아보는중' | '상담예약' | '계약완료'
 
 export interface Vendor {
+  id: string
   name: string
   category: string
   status: VendorStatus
