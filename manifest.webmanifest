@@ -1,0 +1,20 @@
+{
+  "name": "쩜오의 결혼이야기",
+  "short_name": "쩜오웨딩",
+  "description": "예비부부 둘이 함께 보는 결혼 준비",
+  "start_url": "/wed/#/",
+  "scope": "/wed/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "icons": [
+    { "src": "/wed/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/wed/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "/wed/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
