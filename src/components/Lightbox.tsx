@@ -35,7 +35,7 @@ export function Lightbox({ item, onClose, isFav, onToggleFav, inShots, onToggleS
         onClick={(e) => e.stopPropagation()}
       >
         <div className="relative">
-          <GalleryImage item={item} className="rounded-t-2xl" />
+          <GalleryImage item={item} variant="full" className="rounded-t-2xl" />
           <button
             type="button"
             onClick={onClose}

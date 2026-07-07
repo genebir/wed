@@ -13,7 +13,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-facing-each-other-during-golden-hour--CaJIE1MiA4",
     "memo": "골든아워 역광 속 마주 보는 커플 실루엣 — 한강에서 재현",
-    "shootingTip": "A모드 f/4 · 스팟 측광(하늘) · 노출 -1.7 · WB 6500K · 룩 VV2. 해를 두 사람 사이에 두고 완전 실루엣으로. 삼각대+리모컨, 이마가 닿을 듯 말 듯 한 간격이 포인트."
+    "shootingTip": "A모드 f/4 · 스팟 측광(하늘) · 노출 -1.7 · WB 6500K · 룩 VV2. 해를 두 사람 사이에 두고 완전 실루엣으로. 삼각대+리모컨, 이마가 닿을 듯 말 듯 한 간격이 포인트.",
+    "w": 1200,
+    "h": 800
   },
   {
     "id": "g002",
@@ -29,7 +31,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/couple-embracing-during-golden-hour-sunset-WHNWkO1lBKU",
     "memo": "노을빛 아래 포옹 — 하늘공원 억새밭에서 시도",
-    "shootingTip": "A모드 f/2.0 · 노출 -0.3 · WB 5600K+M1 · 룩 FL · Eye AF. 억새밭이라면 일몰 1시간 전 역광에서 억새를 전경 보케로. 머리카락 라인빛이 살아나는 각도를 찾으세요."
+    "shootingTip": "A모드 f/2.0 · 노출 -0.3 · WB 5600K+M1 · 룩 FL · Eye AF. 억새밭이라면 일몰 1시간 전 역광에서 억새를 전경 보케로. 머리카락 라인빛이 살아나는 각도를 찾으세요.",
+    "w": 1200,
+    "h": 1800
   },
   {
     "id": "g003",
@@ -45,7 +49,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-on-shore-during-golden-hour-U4xJJSJ221M",
     "memo": "골든아워 해변 워킹 컷, 필름 무드",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/640(걷는 동작) · 노출 -0.5 · WB 6000K · 룩 FL. 물에 비친 반영까지 담으려면 로우앵글로. 뒷모습 워킹은 연속촬영 Mid로."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/640(걷는 동작) · 노출 -0.5 · WB 6000K · 룩 FL. 물에 비친 반영까지 담으려면 로우앵글로. 뒷모습 워킹은 연속촬영 Mid로.",
+    "w": 1200,
+    "h": 800
   },
   {
     "id": "g004",
@@ -60,7 +66,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-sandy-beach-V2DHPTleHTA",
     "memo": "밝은 자연광 해변, 청량한 와이드샷",
-    "shootingTip": "A모드 f/5.6(풍경 겸용) · 노출 +0.5 · WB 5200K · 룩 PT. 한낮 해변은 그림자가 강하니 정오 피해서. 와이드(20~35mm)로 하늘 2/3 구도."
+    "shootingTip": "A모드 f/5.6(풍경 겸용) · 노출 +0.5 · WB 5200K · 룩 PT. 한낮 해변은 그림자가 강하니 정오 피해서. 와이드(20~35mm)로 하늘 2/3 구도.",
+    "w": 1200,
+    "h": 800
   },
   {
     "id": "g005",
@@ -75,7 +83,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-couple-enjoys-a-city-night-view-_xPUFxEKNGI",
     "memo": "도심 야경을 바라보는 뒷모습 — 노들섬 야경으로 재현 가능",
-    "shootingTip": "블루아워: A모드 f/1.8 · ISO 800 · WB 4000K · 룩 ST. 야경 배경 보케를 위해 난간에서 도시와 거리를 두고, 인물엔 약한 보조광(폰 손전등도 OK)."
+    "shootingTip": "블루아워: A모드 f/1.8 · ISO 800 · WB 4000K · 룩 ST. 야경 배경 보케를 위해 난간에서 도시와 거리를 두고, 인물엔 약한 보조광(폰 손전등도 OK).",
+    "w": 1200,
+    "h": 800
   },
   {
     "id": "g006",
@@ -91,7 +101,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/two-people-stand-on-a-city-street-at-night-64mJ_XF9WWg",
     "memo": "밤거리 조명 아래 흑백 시네마틱",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/250 · ISO 1600 · 룩 BW(콘트라스트 +2). 가로등 하나를 키라이트로 쓰는 흑백. 명암 경계에 인물을 세우면 시네마틱해집니다."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/250 · ISO 1600 · 룩 BW(콘트라스트 +2). 가로등 하나를 키라이트로 쓰는 흑백. 명암 경계에 인물을 세우면 시네마틱해집니다.",
+    "w": 1200,
+    "h": 1800
   },
   {
     "id": "g007",
@@ -106,7 +118,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-close-up-of-hands-exchanging-wedding-rings-IsESwCm9b4Y",
     "memo": "반지 교환 손 클로즈업 — 우천 대체 플랜용 실내 컷",
-    "shootingTip": "A모드 f/4.5 · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 반지 교환 순간은 연속촬영으로. 초점은 반지에 스팟, 배경은 녹색 계열이 반지를 돋보이게 해요."
+    "shootingTip": "A모드 f/4.5 · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 반지 교환 순간은 연속촬영으로. 초점은 반지에 스팟, 배경은 녹색 계열이 반지를 돋보이게 해요.",
+    "w": 1200,
+    "h": 1798
   },
   {
     "id": "g008",
@@ -122,7 +136,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/close-up-photo-of-man-holding-womans-hand-qHjwSGv2p8c",
     "memo": "반지 낀 맞잡은 손 클로즈업",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.3 · WB 5500K · 룩 ST. 맞잡은 손은 심도가 얕으면 한쪽이 날아가니 f/2.8 이상. 소매 라인 정리하고 손등 각도를 45도로."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.3 · WB 5500K · 룩 ST. 맞잡은 손은 심도가 얕으면 한쪽이 날아가니 f/2.8 이상. 소매 라인 정리하고 손등 각도를 45도로.",
+    "w": 1200,
+    "h": 800
   },
   {
     "id": "g009",
@@ -138,7 +154,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/bride-holding-bouquet-of-white-and-pink-flowers-0cfLnX9Tdlc",
     "memo": "화이트·핑크 부케 컷 — 부케 결정할 때도 참고",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 부케가 주인공 — 얼굴은 과감히 프레임 밖으로. 드레스 질감이 살도록 사이드광에서."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 부케가 주인공 — 얼굴은 과감히 프레임 밖으로. 드레스 질감이 살도록 사이드광에서.",
+    "w": 1200,
+    "h": 800
   },
   {
     "id": "g010",
@@ -154,7 +172,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-inside-a-cafe-are-seen-through-the-window-qnZqkVjB4qg",
     "memo": "카페 창문 너머 구도 — 우천 대체 플랜 후보",
-    "shootingTip": "A모드 f/1.8 · ISO 오토 · WB 4800K · 룩 FL. 카페 유리창 밖에서 안을 찍는 구도 — 반영과 실내가 겹치는 지점을 찾고, 무음 셔터로 자연스럽게."
+    "shootingTip": "A모드 f/1.8 · ISO 오토 · WB 4800K · 룩 FL. 카페 유리창 밖에서 안을 찍는 구도 — 반영과 실내가 겹치는 지점을 찾고, 무음 셔터로 자연스럽게.",
+    "w": 1200,
+    "h": 1800
   },
   {
     "id": "g011",
@@ -170,7 +190,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walks-through-autumn-trees-and-leaves-k_uCcAt4_U4",
     "memo": "가을 단풍길 워킹 — 서울숲 은행나무길로 재현",
-    "shootingTip": "A모드 f/2.0 · WB 6000K · 노출 -0.3 · 룩 ST 채도 +1. 은행나무길은 늦은 오후 사선광에서 노란빛이 폭발합니다. 85mm 압축으로 터널 느낌."
+    "shootingTip": "A모드 f/2.0 · WB 6000K · 노출 -0.3 · 룩 ST 채도 +1. 은행나무길은 늦은 오후 사선광에서 노란빛이 폭발합니다. 85mm 압축으로 터널 느낌.",
+    "w": 1200,
+    "h": 784
   },
   {
     "id": "g012",
@@ -185,7 +207,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-walking-through-a-park-pj0JVooMZ8U",
     "memo": "낙엽 쌓인 숲길 롱샷 — 올림픽공원 후보",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/500 · WB 5800K · 룩 FL. 낙엽 밟으며 걷는 롱샷 — 카메라는 낮게, 길이 소실점으로 빠지는 구도. 연속촬영으로 발걸음 타이밍."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/500 · WB 5800K · 룩 FL. 낙엽 밟으며 걷는 롱샷 — 카메라는 낮게, 길이 소실점으로 빠지는 구도. 연속촬영으로 발걸음 타이밍.",
+    "w": 1200,
+    "h": 924
   },
   {
     "id": "g013",
@@ -201,7 +225,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-standing-and-touching-foreheads-during-golden-hour-yjkGazAKR7w",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 3561,
+    "h": 5341
   },
   {
     "id": "g014",
@@ -217,7 +243,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-about-to-kiss-ygQ0nN4y11k",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 3691,
+    "h": 2461
   },
   {
     "id": "g015",
@@ -233,7 +261,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-standing-on-brown-field-during-daytime-9hgDf95TNO8",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 4124,
+    "h": 3187
   },
   {
     "id": "g016",
@@ -249,7 +279,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-kissing-under-a-tree-UW9lFtfJ1T4",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g017",
@@ -265,7 +297,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-embracing-in-a-field-qLqH8e5MA7E",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 5015,
+    "h": 3348
   },
   {
     "id": "g018",
@@ -281,7 +315,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/couple-kissing-on-top-of-hill-eLFKTM2em8g",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 5000,
+    "h": 3333
   },
   {
     "id": "g019",
@@ -297,7 +333,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-woman-standing-on-beach-during-sunset-VX2nrLhq4h4",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g020",
@@ -313,7 +351,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-photo-of-couple-standing-on-beach-watching-sunset-w5hhoYM_JsU",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 4317,
+    "h": 6475
   },
   {
     "id": "g021",
@@ -329,7 +369,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-hugging-couple-L8-0SAy-aoQ",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 5472,
+    "h": 3648
   },
   {
     "id": "g022",
@@ -345,7 +387,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-couple-shares-a-kiss-during-a-sunset-xhVMvxRYs2g",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 4000,
+    "h": 5000
   },
   {
     "id": "g023",
@@ -361,7 +405,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-in-front-of-a-sunset-bNG7iuCv63g",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 4935,
+    "h": 3290
   },
   {
     "id": "g024",
@@ -377,7 +423,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/couple-sitting-near-trees-during-golden-hour-OcxlTBbb6SY",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 2500,
+    "h": 1786
   },
   {
     "id": "g025",
@@ -393,7 +441,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-on-lake-side-watching-sunset-close-up-photo-950JJJW35ZY",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 3264,
+    "h": 4896
   },
   {
     "id": "g026",
@@ -409,7 +459,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/man-wearing-beige-crew-neck-shirt-and-white-jeans-holding-hands-with-woman-wearing-pink-dress-_wQqLdsgr4I",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 3981,
+    "h": 5971
   },
   {
     "id": "g027",
@@ -425,7 +477,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/woman-and-man-standing-in-front-of-vehicle-kEPWn8zSbwg",
     "memo": "골든아워 커플",
-    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영."
+    "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
+    "w": 4016,
+    "h": 6016
   },
   {
     "id": "g028",
@@ -441,7 +495,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-holding-hands-as-the-sun-sets-zQfToEi3z2Y",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 6720,
+    "h": 4480
   },
   {
     "id": "g029",
@@ -457,7 +513,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-hugging-on-shore-80_6jJ97c-U",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 2758,
+    "h": 3971
   },
   {
     "id": "g030",
@@ -473,7 +531,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-kissing-during-sunset-AgygcLrWRbk",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 2961,
+    "h": 4441
   },
   {
     "id": "g031",
@@ -489,7 +549,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-2-person-standing-on-hill-during-sunset-EqKJmR3697Y",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 6691,
+    "h": 4461
   },
   {
     "id": "g032",
@@ -505,7 +567,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-kissing-on-beach-during-sunset-p0vZplFhKYI",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 3496,
+    "h": 2100
   },
   {
     "id": "g033",
@@ -521,7 +585,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-photography-of-two-person-L00RzDytoZA",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 5135,
+    "h": 3642
   },
   {
     "id": "g034",
@@ -537,7 +603,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-standing-and-looking-sunset-aXXx4UcTi4Q",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g035",
@@ -553,7 +621,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-couple-kissing-in-front-of-a-sunset-3bBFU7YpeKU",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 3775,
+    "h": 5033
   },
   {
     "id": "g036",
@@ -569,7 +639,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-couple--1qIRIqN14A",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g037",
@@ -585,7 +657,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-kissing-at-sunset-JdSn5BQjA5k",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g038",
@@ -601,7 +675,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-sitting-near-body-of-water-during-sunset-kOsCIRX9wXw",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 4000,
+    "h": 5360
   },
   {
     "id": "g039",
@@ -617,7 +693,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-holding-hands-in-silhouette-photography-wSBQFWF77lI",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 3456,
+    "h": 5184
   },
   {
     "id": "g040",
@@ -633,7 +711,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-kissing-in-front-of-a-sunset-By08fIoZcA0",
     "memo": "노을 실루엣",
-    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게."
+    "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
+    "w": 4077,
+    "h": 5861
   },
   {
     "id": "g041",
@@ -648,7 +728,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-in-wedding-attire-running-in-water-zuzDuRVMHUA",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g042",
@@ -663,7 +745,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/newly-wed-couple-at-shore-during-daytime-M1aTHFvE-bo",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g043",
@@ -678,7 +762,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-bride-and-groom-standing-on-a-beach-holding-hands-evMXfNP1ZZ8",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 3731,
+    "h": 5596
   },
   {
     "id": "g044",
@@ -693,7 +779,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-bride-and-groom-walking-down-the-aisle-n5xGMMSqLVQ",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g045",
@@ -708,7 +796,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/bride-and-groom-kissing-on-beach-during-daytime-pcBQagGQySM",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 5587,
+    "h": 3688
   },
   {
     "id": "g046",
@@ -723,7 +813,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-in-wedding-attire-on-a-beach-1ZwaHtkNmDg",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g047",
@@ -738,7 +830,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-on-a-beach-xdxWHMBJzJ4",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 5293,
+    "h": 6616
   },
   {
     "id": "g048",
@@ -753,7 +847,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/newlyweds-happily-run-along-the-beach-UudvF0Zfw9U",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 3897,
+    "h": 5838
   },
   {
     "id": "g049",
@@ -768,7 +864,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/bride-and-groom-standing-beside-shoreline-uIHchSu0h88",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g050",
@@ -783,7 +881,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-in-black-suit-holding-woman-in-white-dress-on-beach-during-daytime-Xl4sIZF_ye8",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 5641,
+    "h": 3761
   },
   {
     "id": "g051",
@@ -798,7 +898,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-holding-hands-on-a-beach-Hhbie68htQ4",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g052",
@@ -813,7 +915,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-bride-and-groom-walking-on-the-beach-Fp5v1bp_0JI",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g053",
@@ -828,7 +932,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-in-wedding-attire-YyTwTlS2RCA",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g054",
@@ -843,7 +949,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-standing-in-front-of-woman-holding-bouquet-of-flowers-g2-pCfjz7Vc",
     "memo": "해변 웨딩 스냅",
-    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다."
+    "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g055",
@@ -859,7 +967,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/couple-standing-on-body-of-water-during-golden-hour-FJ4snEyhhP0",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g056",
@@ -875,7 +985,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-beach-under-a-cloudy-sky-VemcZnHi8w0",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 3920,
+    "h": 5880
   },
   {
     "id": "g057",
@@ -891,7 +1003,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/photography-of-man-and-woman-holding-hands-each-other-while-walking-beside-seashore-99mN3NEGrMA",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 4087,
+    "h": 6130
   },
   {
     "id": "g058",
@@ -907,7 +1021,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-tank-top-and-pink-shorts-running-on-beach-during-daytime-E_DXOKkCRNo",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 3847,
+    "h": 5763
   },
   {
     "id": "g059",
@@ -923,7 +1039,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-kissing-on-beach-during-sunset-_74XoR4rmg4",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 5504,
+    "h": 8256
   },
   {
     "id": "g060",
@@ -939,7 +1057,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/two-people-walking-on-a-beach-at-sunset-Qxy1SCi_q3U",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 2836,
+    "h": 3781
   },
   {
     "id": "g061",
@@ -955,7 +1075,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/man-in-black-shorts-walking-on-beach-during-sunset-wyaMgb1ToUI",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 3000,
+    "h": 2000
   },
   {
     "id": "g062",
@@ -971,7 +1093,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-sitting-on-the-beach-watching-the-sunset-33o_WKC_c1A",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 4000,
+    "h": 2667
   },
   {
     "id": "g063",
@@ -987,7 +1111,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/woman-and-man-holding-hands-while-standing-on-shore-during-golden-hour-rV9fZwhE1ak",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g064",
@@ -1003,7 +1129,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/people-walking-on-beach-during-daytime-dIuPcxg_z-U",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 5749,
+    "h": 3999
   },
   {
     "id": "g065",
@@ -1019,7 +1147,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-beach-rnV8b7bKkPo",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g066",
@@ -1035,7 +1165,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-walking-along-a-beach-next-to-the-ocean-m_TTQHOMutM",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 6720,
+    "h": 4480
   },
   {
     "id": "g067",
@@ -1051,7 +1183,9 @@
     "timeOfDay": "골든아워",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-beach-DpGuy3OhK8E",
     "memo": "해변 노을 커플",
-    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절."
+    "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
+    "w": 4272,
+    "h": 2848
   },
   {
     "id": "g068",
@@ -1066,7 +1200,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-sitting-on-bench-during-night-time-qb85Joj59lw",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 5585,
+    "h": 3723
   },
   {
     "id": "g069",
@@ -1081,7 +1217,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-couple-kissing-on-the-beach-at-night-4Bf8AROnJpE",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 5987,
+    "h": 8981
   },
   {
     "id": "g070",
@@ -1096,7 +1234,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-standing-outside-of-a-flower-shop-m6KB0mw6ADw",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g071",
@@ -1111,7 +1251,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-couple-walks-through-a-neon-lit-city-street-at-night-OE2s9_aFhlQ",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 5495,
+    "h": 3663
   },
   {
     "id": "g072",
@@ -1126,7 +1268,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-man-and-woman-standing-on-roof-building-7D5n6LfqAKk",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4936,
+    "h": 3291
   },
   {
     "id": "g073",
@@ -1141,7 +1285,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/man-hugging-woman-on-top-of-hill-during-nighttime-5LZBFMe7C3c",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4480,
+    "h": 6720
   },
   {
     "id": "g074",
@@ -1156,7 +1302,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-shirt-standing-on-the-city-during-night-time-cKFNznGYogA",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 3931,
+    "h": 5896
   },
   {
     "id": "g075",
@@ -1171,7 +1319,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-at-night-8SQKgiGUrNY",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g076",
@@ -1186,7 +1336,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-man-stands-in-front-of-a-traffic-sign-mUsnhaJ0STw",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g077",
@@ -1201,7 +1353,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-couple-kissing-under-a-bridge-at-night-tdaaBeVMaDg",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4000,
+    "h": 2666
   },
   {
     "id": "g078",
@@ -1216,7 +1370,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-next-to-each-other-UebSA1qKBHM",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 6016,
+    "h": 4016
   },
   {
     "id": "g079",
@@ -1231,7 +1387,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-on-top-of-a-building-XaqoHK_B9n4",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 9504,
+    "h": 6336
   },
   {
     "id": "g080",
@@ -1246,7 +1404,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/couple-embracing-by-a-lamppost-at-night-CBzpr1Qvxfg",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g081",
@@ -1261,7 +1421,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/two-people-walking-in-front-of-a-building-at-night-eqmcGmYQ_zc",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g082",
@@ -1276,7 +1438,9 @@
     "timeOfDay": "야간",
     "sourceUrl": "https://unsplash.com/photos/people-walking-on-sidewalk-during-night-time-eEUzp8jgWh8",
     "memo": "도심 야경 커플",
-    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상."
+    "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
+    "w": 4024,
+    "h": 6048
   },
   {
     "id": "g083",
@@ -1291,7 +1455,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-walking-beside-street-UxGk3cNAnlM",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 5956,
+    "h": 3971
   },
   {
     "id": "g084",
@@ -1306,7 +1472,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-walking-down-a-street-SnhFo4eFbBo",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g085",
@@ -1321,7 +1489,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-walking-down-a-street-aFZfxNhmJck",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g086",
@@ -1336,7 +1506,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-people-walk-down-a-street-with-buildings-W3BEIJd9Lvs",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 4608,
+    "h": 3072
   },
   {
     "id": "g087",
@@ -1351,7 +1523,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-shadow-of-two-people-walking-down-a-sidewalk-XxklmITEEOM",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g088",
@@ -1366,7 +1540,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-walking-down-a-street-Li1vX2m1ARA",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 4564,
+    "h": 3301
   },
   {
     "id": "g089",
@@ -1381,7 +1557,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-walking-on-road-during-daytime-eJ4ZAswgHiU",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 4874,
+    "h": 7311
   },
   {
     "id": "g090",
@@ -1396,7 +1574,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-along-a-waterfront-with-buildings-9LwxP5xU6Sg",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 5120,
+    "h": 3413
   },
   {
     "id": "g091",
@@ -1411,7 +1591,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-walking-down-a-street-holding-hands-hfTTeuDkDJ4",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 6336,
+    "h": 9504
   },
   {
     "id": "g092",
@@ -1426,7 +1608,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-people-walk-down-a-paved-city-street-5rvsa-CgkBU",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 8448,
+    "h": 6336
   },
   {
     "id": "g093",
@@ -1441,7 +1625,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-walking-in-the-middle-of-the-road-zYaMGpAzso4",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 2500,
+    "h": 1667
   },
   {
     "id": "g094",
@@ -1456,7 +1642,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-walking-beside-a-road-during-daytime-rdt2hnOH5gs",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 4952,
+    "h": 3467
   },
   {
     "id": "g095",
@@ -1471,7 +1659,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-walking-down-a-street-xSORM5CTX-M",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 3519,
+    "h": 4457
   },
   {
     "id": "g096",
@@ -1486,7 +1676,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-walking-down-a-sidewalk-holding-hands-ocXQes-NV0k",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 4454,
+    "h": 2969
   },
   {
     "id": "g097",
@@ -1501,7 +1693,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-walking-down-a-sidewalk-j1m1ldTnqJE",
     "memo": "거리 워킹 스냅",
-    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요."
+    "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g098",
@@ -1516,7 +1710,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/person-holding-hands-wearing-gold-colored-ring-lKwp3-FQomY",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 5760,
+    "h": 3840
   },
   {
     "id": "g099",
@@ -1531,7 +1727,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/man-in-black-suit-jacket-holding-hands-with-woman-in-white-dress-wki4KKlMGvc",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 7952,
+    "h": 5304
   },
   {
     "id": "g100",
@@ -1546,7 +1744,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/groom-putting-ring-on-his-bride-7NO4GHOb9k0",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 4000,
+    "h": 5000
   },
   {
     "id": "g101",
@@ -1561,7 +1761,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-standing-while-holding-hands-SIQmdpHteVg",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 3744,
+    "h": 5616
   },
   {
     "id": "g102",
@@ -1576,7 +1778,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-holding-hands-JZB-sebrKa4",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 5760,
+    "h": 3840
   },
   {
     "id": "g103",
@@ -1591,7 +1795,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-holding-hands-llWjwo200fo",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g104",
@@ -1606,7 +1812,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-touch-mans-hand-N1CZNuM_Fd8",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 6016,
+    "h": 4016
   },
   {
     "id": "g105",
@@ -1621,7 +1829,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-wearing-gold-colored-and-silver-colored-rings-NYqEk7a42yc",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 4016,
+    "h": 6016
   },
   {
     "id": "g106",
@@ -1636,7 +1846,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/grayscale-photo-of-person-wearing-ring-GFjNDSSYIA4",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 3000,
+    "h": 2000
   },
   {
     "id": "g107",
@@ -1651,7 +1863,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-kV8c_1YvTzs",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 4480,
+    "h": 6720
   },
   {
     "id": "g108",
@@ -1666,7 +1880,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-ZkgitNKeR9U",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 4672,
+    "h": 7008
   },
   {
     "id": "g109",
@@ -1681,7 +1897,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/couple-wearing-silver-colored-rings-RHAtRIT3-CE",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 6016,
+    "h": 4016
   },
   {
     "id": "g110",
@@ -1696,7 +1914,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/person-wearing-silver-diamond-ring-aT6kawD0RcE",
     "memo": "반지·손 클로즈업",
-    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로."
+    "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
+    "w": 4480,
+    "h": 5600
   },
   {
     "id": "g111",
@@ -1712,7 +1932,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-bouquet-of-flowers-P4WRiQJXDQs",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 5871,
+    "h": 3906
   },
   {
     "id": "g112",
@@ -1728,7 +1950,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-wedding-dress-holding-white-flower-bouquet-4ExHGkN7fzQ",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 5384,
+    "h": 3589
   },
   {
     "id": "g113",
@@ -1744,7 +1968,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/pink-petaled-flower-bouquet-close-up-photography-IilKsqAemf4",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 3338,
+    "h": 5000
   },
   {
     "id": "g114",
@@ -1760,7 +1986,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-holding-a-bouquet-of-flowers-DxadoKT8AdE",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g115",
@@ -1776,7 +2004,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/bride-holding-flower-bouquet-295NLwGdrKM",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g116",
@@ -1792,7 +2022,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-holding-white-and-pink-rose-flower-bouquet-8yPA6ZYq0-s",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g117",
@@ -1808,7 +2040,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-holding-beige-petaled-flower-bouquet-30UOqDM5QW0",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 2996,
+    "h": 2000
   },
   {
     "id": "g118",
@@ -1824,7 +2058,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/closeup-photo-of-white-and-pink-petaled-flower-bouquet-HP9_dGIQEik",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 3120,
+    "h": 2080
   },
   {
     "id": "g119",
@@ -1840,7 +2076,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-floral-strapless-dress-holding-flowers-BlKIiqK-H78",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 3024,
+    "h": 4032
   },
   {
     "id": "g120",
@@ -1856,7 +2094,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-dress-holding-bouquet-of-flowers-HabFYy1Iic0",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g121",
@@ -1872,7 +2112,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/pink-floewr-iQVn40PdwW0",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 6016,
+    "h": 4016
   },
   {
     "id": "g122",
@@ -1888,7 +2130,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/white-and-green-flower-bouquet-UQl_-yabQiA",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 5616,
+    "h": 3744
   },
   {
     "id": "g123",
@@ -1904,7 +2148,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/bride-smelling-the-flowers-436ZVxZOtEM",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g124",
@@ -1920,7 +2166,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/pink-and-white-flowers-on-white-ceramic-vase-5JEbKNp9uNk",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g125",
@@ -1936,7 +2184,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-holding-white-and-pink-petal-flower-bouquet-pTrHHGrxeOE",
     "memo": "부케 컷",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
+    "w": 6144,
+    "h": 4096
   },
   {
     "id": "g126",
@@ -1951,7 +2201,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-person-sitting-beside-window-with-mugs-v3OH3i4EIoo",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g127",
@@ -1966,7 +2218,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/group-of-people-inside-cafe-during-daytime-PR-B3hhcOZY",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 4872,
+    "h": 3243
   },
   {
     "id": "g128",
@@ -1981,7 +2235,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-set-RMXhHwTLBgk",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 3215,
+    "h": 4854
   },
   {
     "id": "g129",
@@ -1996,7 +2252,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-people-sitting-at-a-table-looking-out-a-window-UW9GNSSDSVQ",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g130",
@@ -2011,7 +2269,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-sitting-at-a-table-outside-a-restaurant-jYTA2sNY0ac",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 5342,
+    "h": 8009
   },
   {
     "id": "g131",
@@ -2026,7 +2286,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-talking-in-front-of-gray-tabletop-inside-shop-Oyf1-w0lxbE",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 3936,
+    "h": 2624
   },
   {
     "id": "g132",
@@ -2041,7 +2303,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-sitting-on-brown-wooden-chairs-SQ_Ad8NfmYE",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g133",
@@ -2056,7 +2320,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-standing-in-front-of-gas-range-Mx5kwvzeGC0",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 5304,
+    "h": 3536
   },
   {
     "id": "g134",
@@ -2071,7 +2337,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-person-holding-ceramic-mugs-with-coffee-be8AmxavYp8",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 5616,
+    "h": 3744
   },
   {
     "id": "g135",
@@ -2086,7 +2354,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-sitting-at-a-table-zTjVhEKkhRc",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g136",
@@ -2101,7 +2371,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-wearing-white-dress-shirt-looking-at-girl-while-sitting-on-couch-syYLeGPJd0Q",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 5934,
+    "h": 3956
   },
   {
     "id": "g137",
@@ -2116,7 +2388,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-in-blue-t-shirt-standing-beside-woman-in-white-t-shirt-EVoICOUotkg",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 3406,
+    "h": 4541
   },
   {
     "id": "g138",
@@ -2131,7 +2405,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-holding-hands-ELnxUDFs6ec",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 5472,
+    "h": 3648
   },
   {
     "id": "g139",
@@ -2146,7 +2422,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-man-chatting-white-sitting-on-brown-wooden-chair-rTFS5bQrXZk",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 3200,
+    "h": 2971
   },
   {
     "id": "g140",
@@ -2161,7 +2439,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-a-table-nD7qdJT_5Sg",
     "memo": "카페 커플",
-    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON."
+    "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
+    "w": 3177,
+    "h": 4765
   },
   {
     "id": "g141",
@@ -2177,7 +2457,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-sitting-on-a-park-bench-in-autumn-c-21g6WS3ac",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g142",
@@ -2193,7 +2475,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-together-in-the-woods-2HfskqBvgRI",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 3663,
+    "h": 5214
   },
   {
     "id": "g143",
@@ -2209,7 +2493,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-sitting-on-a-park-bench-near-building-x-p6c3WXRFA",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g144",
@@ -2225,7 +2511,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-child-walking-through-a-park-3_IG1W86tcw",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 3998,
+    "h": 4997
   },
   {
     "id": "g145",
@@ -2241,7 +2529,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-sitting-on-a-bench-T3WIvhGcXHc",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 3929,
+    "h": 2619
   },
   {
     "id": "g146",
@@ -2257,7 +2547,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-on-a-paved-path-through-a-forest-7YpDS4vqc3g",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 2945,
+    "h": 5235
   },
   {
     "id": "g147",
@@ -2273,7 +2565,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-gay-couple-holding-hands-walking-in-a-park-szlMjfxHadw",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 3699,
+    "h": 5515
   },
   {
     "id": "g148",
@@ -2289,7 +2583,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-on-a-grassy-hill-under-a-clear-sky-o79hNV_Mlgc",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g149",
@@ -2305,7 +2601,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-relax-on-park-benches-surrounded-by-autumn-trees-DhYAVadjdug",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g150",
@@ -2321,7 +2619,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-through-green-foliage-sQcu4FW2JXQ",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 5708,
+    "h": 3805
   },
   {
     "id": "g151",
@@ -2337,7 +2637,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-walking-a-dog-down-a-dirt-road-NcH2OX2gfCI",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 4734,
+    "h": 3007
   },
   {
     "id": "g152",
@@ -2353,7 +2655,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/silhouette-photo-of-man-and-woman-beside-lake-f3wpSv_p0aQ",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 5043,
+    "h": 2511
   },
   {
     "id": "g153",
@@ -2369,7 +2673,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-taking-a-selfie-in-a-park-with-autumn-trees-lVQZECc8E_8",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 3840,
+    "h": 2160
   },
   {
     "id": "g154",
@@ -2385,7 +2691,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-standing-on-top-of-a-bridge-next-to-another-man-EIPuRjc0DV4",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 5506,
+    "h": 3670
   },
   {
     "id": "g155",
@@ -2401,7 +2709,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-walking-their-dogs-in-a-park-41RhT14CpyQ",
     "memo": "가을 공원 커플",
-    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다."
+    "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g156",
@@ -2416,7 +2726,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-sitting-inside-tepee-hut-with-lights-KvMBOln0_u8",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 3575,
+    "h": 5362
   },
   {
     "id": "g157",
@@ -2431,7 +2743,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/sliced-fruits-on-white-ceramic-bowl-PiwXpD3-Hbs",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 3600,
+    "h": 2400
   },
   {
     "id": "g158",
@@ -2446,7 +2760,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-sitting-at-a-table-with-food-and-drinks-k0_NZJf2Knw",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 5418,
+    "h": 3625
   },
   {
     "id": "g159",
@@ -2461,7 +2777,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-in-gray-shirt-sitting-on-green-grass-field-during-daytime-QTEed5vKsLg",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 3024,
+    "h": 3323
   },
   {
     "id": "g160",
@@ -2476,7 +2794,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/girl-in-white-tank-top-sitting-beside-girl-in-pink-tank-top-MFYegW2zEWI",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 5383,
+    "h": 3200
   },
   {
     "id": "g161",
@@ -2491,7 +2811,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-dress-sitting-on-green-grass-field-during-daytime-1fVajOLPtx0",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 3578,
+    "h": 4472
   },
   {
     "id": "g162",
@@ -2506,7 +2828,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-in-black-t-shirt-sitting-on-woman-in-white-tank-top-and-man-in-black-OXerfDPf6mk",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 6373,
+    "h": 4249
   },
   {
     "id": "g163",
@@ -2521,7 +2845,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-sitting-on-ground-with-food-on-ground-during-daytime-VsC9m6Tgx6o",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 3600,
+    "h": 2880
   },
   {
     "id": "g164",
@@ -2536,7 +2862,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/person-holding-brown-wooden-tray-with-food-ILeIwLwBakM",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g165",
@@ -2551,7 +2879,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-sitting-on-white-textile-eating-bread-near-cake-8Tp2WW-WRIw",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 5472,
+    "h": 3648
   },
   {
     "id": "g166",
@@ -2566,7 +2896,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-sitting-on-blue-textile-beside-brown-wicker-picnic-basket-oJYUA1g72AQ",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g167",
@@ -2581,7 +2913,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-in-gray-crew-neck-t-shirt-sitting-beside-woman-in-black-tank-top-A_Y-Qhs6Jgk",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 7952,
+    "h": 5304
   },
   {
     "id": "g168",
@@ -2596,7 +2930,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-reading-with-girl-while-lying-on-orange-and-white-floral-picnic-mat-Puhj02KOHrc",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 6720,
+    "h": 4480
   },
   {
     "id": "g169",
@@ -2611,7 +2947,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-in-black-shirt-sitting-on-grass-field-beside-woman-in-blue-denim-jeans-during-daytime-i5fRYUyuygE",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g170",
@@ -2626,7 +2964,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-sitting-on-brown-wooden-bench-near-trees-during-daytime-EkbRGRJjdfw",
     "memo": "피크닉 무드",
-    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다."
+    "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g171",
@@ -2641,7 +2981,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-in-red-and-brown-sari-standing-beside-white-wall-kD_bhWE9_mQ",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 4907,
+    "h": 3680
   },
   {
     "id": "g172",
@@ -2656,7 +2998,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-holding-her-stomach-C2m_zPwyTlg",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 2377,
+    "h": 3565
   },
   {
     "id": "g173",
@@ -2671,7 +3015,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-window-Y533U_WICIE",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 3927,
+    "h": 5890
   },
   {
     "id": "g174",
@@ -2686,7 +3032,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-holding-a-white-purse-t6XtBJypbi8",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 2574,
+    "h": 3861
   },
   {
     "id": "g175",
@@ -2701,7 +3049,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/grayscale-photo-of-man-and-woman-holding-hands-hAYKIbGt4fg",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g176",
@@ -2716,7 +3066,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-holding-a-bouquet-of-flowers-bXDbkLUSwn4",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 5898,
+    "h": 3937
   },
   {
     "id": "g177",
@@ -2731,7 +3083,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-bride-holding-a-bouquet-of-blue-and-white-flowers-yfZvkezbx7U",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 5910,
+    "h": 3945
   },
   {
     "id": "g178",
@@ -2746,7 +3100,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-pair-of-shoes-on-a-wood-floor-SwkJJoHJDiQ",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 3477,
+    "h": 4500
   },
   {
     "id": "g179",
@@ -2761,7 +3117,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-sleeveless-dress-holding-brown-woven-basket-AraaXg0uFLA",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 5304,
+    "h": 7072
   },
   {
     "id": "g180",
@@ -2776,7 +3134,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-is-holding-her-hand-out-Myxwh6LVaCE",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 2574,
+    "h": 3861
   },
   {
     "id": "g181",
@@ -2791,7 +3151,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-holding-a-bouquet-of-flowers-_tq1zHnPkGY",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 4416,
+    "h": 2944
   },
   {
     "id": "g182",
@@ -2806,7 +3168,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/white-wedding-gowns-mPyqJAwMAs0",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 7314,
+    "h": 5304
   },
   {
     "id": "g183",
@@ -2821,7 +3185,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-holding-a-bouquet-of-flowers-ds5JbqUEdzE",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 3397,
+    "h": 5089
   },
   {
     "id": "g184",
@@ -2836,7 +3202,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-posing-for-a-picture-IXMx38hlcEI",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 3788,
+    "h": 5682
   },
   {
     "id": "g185",
@@ -2851,7 +3219,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-holding-a-bouquet-of-flowers-jPDRE3C4MbY",
     "memo": "미니멀 드레스 컷",
-    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기."
+    "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
+    "w": 3306,
+    "h": 4546
   },
   {
     "id": "g186",
@@ -2866,7 +3236,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-in-white-dress-shirt-holding-brown-flower-bouquet-aC5_EFhq7Fs",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 5472,
+    "h": 3648
   },
   {
     "id": "g187",
@@ -2881,7 +3253,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-holding-hands-V1sB2VwLNLQ",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 3840,
+    "h": 5760
   },
   {
     "id": "g188",
@@ -2896,7 +3270,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-and-man-wearing-white-sweater-rVw_iaMwkTw",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 4480,
+    "h": 6720
   },
   {
     "id": "g189",
@@ -2911,7 +3287,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-person-holding-hands-QdFkiLk5onU",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 4745,
+    "h": 7114
   },
   {
     "id": "g190",
@@ -2926,7 +3304,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-riding-on-back-of-man-zNHOIzjJiyA",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g191",
@@ -2941,7 +3321,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-kissing-woman-forehead-0dXvugMScIY",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 3435,
+    "h": 5152
   },
   {
     "id": "g192",
@@ -2956,7 +3338,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-holding-the-shoulder-of-man-8c3zjKrkkBA",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 2000,
+    "h": 3000
   },
   {
     "id": "g193",
@@ -2971,7 +3355,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-holding-each-others-hands-_-prYEEf0v4",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 4480,
+    "h": 6720
   },
   {
     "id": "g194",
@@ -2986,7 +3372,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-hugging-man-selective-focus-photography-dqa2LjshmWY",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g195",
@@ -3001,7 +3389,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-hugging-in-a-field-mQEGvXR7doM",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 6016,
+    "h": 4016
   },
   {
     "id": "g196",
@@ -3016,7 +3406,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-kissing-each-other-during-daytime-Bo8tVzieMjw",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 3739,
+    "h": 5601
   },
   {
     "id": "g197",
@@ -3031,7 +3423,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-hugging-each-other-NBtkkWD4sGM",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g198",
@@ -3046,7 +3440,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-holding-hands-yj4kwA4h_Ms",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 3840,
+    "h": 5760
   },
   {
     "id": "g199",
@@ -3061,7 +3457,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-holding-the-hand-of-a-woman-while-siting-on-concrete-staircase-rotAnvHj4FM",
     "memo": "커플 스냅",
-    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다."
+    "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
+    "w": 2403,
+    "h": 3600
   },
   {
     "id": "g200",
@@ -3076,7 +3474,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-together-in-the-desert-CGc-TJlzO7Q",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 1915,
+    "h": 2872
   },
   {
     "id": "g201",
@@ -3091,7 +3491,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-woman-kissing-t7wIR2FmfQ0",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3822,
+    "h": 5733
   },
   {
     "id": "g202",
@@ -3106,7 +3508,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-woman-taking-a-picture-of-herself-in-a-mirror-Cz9y3dq-uh0",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 9090,
+    "h": 6140
   },
   {
     "id": "g203",
@@ -3121,7 +3525,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-kissing-woman-while-sitting-on-railings-during-night-23s0q7NCJKM",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 4016,
+    "h": 6016
   },
   {
     "id": "g204",
@@ -3136,7 +3542,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-people-standing-on-a-beach-next-to-the-ocean-la8jd6Hg9Hk",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3637,
+    "h": 2433
   },
   {
     "id": "g205",
@@ -3151,7 +3559,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-in-a-field-jOSY3kGfdFg",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 5760,
+    "h": 3840
   },
   {
     "id": "g206",
@@ -3166,7 +3576,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-sweater-standing-beside-window-KiRJLFcBDz4",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3798,
+    "h": 5685
   },
   {
     "id": "g207",
@@ -3181,7 +3593,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-walking-across-a-parking-lot-cFlhddpPF20",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3362,
+    "h": 5022
   },
   {
     "id": "g208",
@@ -3196,7 +3610,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-embraces-in-a-fields-open-space-duW35_FZ3hk",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 6016,
+    "h": 4016
   },
   {
     "id": "g209",
@@ -3211,7 +3627,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-sitting-on-a-bed-8e78_fPrm8c",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3642,
+    "h": 5490
   },
   {
     "id": "g210",
@@ -3226,7 +3644,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-person-is-taking-a-picture-of-themselves-in-a-mirror-qYZzeO-10Tc",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3642,
+    "h": 5490
   },
   {
     "id": "g211",
@@ -3241,7 +3661,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-facing-each-other-near-window-wyHS87kKh5o",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 2624,
+    "h": 3504
   },
   {
     "id": "g212",
@@ -3256,7 +3678,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/woman-hugging-man-oAEOPy-Vrxo",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3648,
+    "h": 5472
   },
   {
     "id": "g213",
@@ -3271,7 +3695,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-hugging-a-woman-in-the-middle-of-a-field-7Y6qQwgjTHk",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 4480,
+    "h": 6720
   },
   {
     "id": "g214",
@@ -3286,7 +3712,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-holding-hands-with-a-camera-glGtOSodlo8",
     "memo": "필름 감성 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
+    "w": 3000,
+    "h": 1987
   },
   {
     "id": "g215",
@@ -3301,7 +3729,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-down-a-traditional-street-3Nj8hGzQ5gk",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 3856,
+    "h": 5784
   },
   {
     "id": "g216",
@@ -3316,7 +3746,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-in-red-suit-sitting-on-green-grass-field-Zk-0Xqc9xLE",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 6988,
+    "h": 4504
   },
   {
     "id": "g217",
@@ -3331,7 +3763,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-in-front-of-a-building-GIVLnp139B0",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 6240,
+    "h": 4160
   },
   {
     "id": "g218",
@@ -3346,7 +3780,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-in-traditional-vietnamese-attire-holding-a-white-umbrella-jjX6hHg4d3A",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 5184,
+    "h": 3888
   },
   {
     "id": "g219",
@@ -3361,7 +3797,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-people-walking-in-front-of-a-building-uexntSjl9vE",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g220",
@@ -3376,7 +3814,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-group-of-people-standing-next-to-each-other-hgwbEL9Yn90",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 4243,
+    "h": 2388
   },
   {
     "id": "g221",
@@ -3391,7 +3831,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-in-traditional-korean-clothing-at-a-historic-palace-OgUbud4bcT0",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 2928,
+    "h": 1941
   },
   {
     "id": "g222",
@@ -3406,7 +3848,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-women-in-traditional-japanese-kimonos-at-night-wyOiwXQE8kE",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 3747,
+    "h": 3747
   },
   {
     "id": "g223",
@@ -3421,7 +3865,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-in-traditional-attire-looking-at-a-temple-through-trees-izR_TCK4gBQ",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 3181,
+    "h": 4644
   },
   {
     "id": "g224",
@@ -3436,7 +3882,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/young-couple-in-kimonos-embracing-outdoors-at-dusk-vEPdoycxcU4",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 3567,
+    "h": 5351
   },
   {
     "id": "g225",
@@ -3451,7 +3899,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-women-sitting-on-top-of-a-wooden-bridge-80qnf7PyJ6Q",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 5349,
+    "h": 8024
   },
   {
     "id": "g226",
@@ -3466,7 +3916,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-women-standing-on-top-of-a-wooden-bridge-FzK_SSp1W6U",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 5237,
+    "h": 7855
   },
   {
     "id": "g227",
@@ -3481,7 +3933,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-men-standing-on-top-of-a-lush-green-field-TkgMpt2WJvA",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 6720,
+    "h": 4480
   },
   {
     "id": "g228",
@@ -3496,7 +3950,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-persons-facing-temple-4JkYm41NEPM",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 5760,
+    "h": 3840
   },
   {
     "id": "g229",
@@ -3511,7 +3967,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-in-traditional-vietnamese-clothing-with-umbrella-90pOtr9ATeU",
     "memo": "한복 무드",
-    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용."
+    "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
+    "w": 5184,
+    "h": 3888
   },
   {
     "id": "g230",
@@ -3527,7 +3985,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-holding-hands-under-a-concrete-bridge-pXkA1lLnslU",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g231",
@@ -3543,7 +4003,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-embracing-on-a-waterfront-at-dusk-OlQBAQl-0iM",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 4089,
+    "h": 6134
   },
   {
     "id": "g232",
@@ -3559,7 +4021,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-embraces-on-a-bridge-overlooking-a-city-river--JpOprH-w9A",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 1826,
+    "h": 2740
   },
   {
     "id": "g233",
@@ -3575,7 +4039,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-standing-on-a-bridge-next-to-a-river-Nh9li7R2Fmg",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 2770,
+    "h": 4154
   },
   {
     "id": "g234",
@@ -3591,7 +4057,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-that-are-looking-at-a-bridge-2C-KwIgZvUw",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 3226,
+    "h": 4870
   },
   {
     "id": "g235",
@@ -3607,7 +4075,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-group-of-people-sitting-on-a-rock-by-a-body-of-water-M058jwgN_wo",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 4581,
+    "h": 6872
   },
   {
     "id": "g236",
@@ -3623,7 +4093,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/silhouette-of-2-people-walking-on-beach-during-sunset-CDlwh7Rch7s",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 4032,
+    "h": 3024
   },
   {
     "id": "g237",
@@ -3639,7 +4111,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-people-on-a-stone-bridge-over-a-stream-BIAQh5A8Szg",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 3456,
+    "h": 5184
   },
   {
     "id": "g238",
@@ -3655,7 +4129,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-group-of-people-walking-across-a-bridge-yeHj2s3-stY",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 3840,
+    "h": 2160
   },
   {
     "id": "g239",
@@ -3671,7 +4147,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-sits-by-the-water-bridge-in-the-background-GnjJmMvNqmI",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 3188,
+    "h": 4251
   },
   {
     "id": "g240",
@@ -3687,7 +4165,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-looking-at-a-bridge-iAHOmnR3pZ0",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 5184,
+    "h": 3456
   },
   {
     "id": "g241",
@@ -3703,7 +4183,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-on-a-bridge-with-cars-passing-by-iCD3kNJKcTk",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 6016,
+    "h": 3760
   },
   {
     "id": "g242",
@@ -3719,7 +4201,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-embracing-by-the-water-at-sunset-ZSHKDr4D9P0",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 4160,
+    "h": 6240
   },
   {
     "id": "g243",
@@ -3735,7 +4219,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-standing-next-to-each-other-near-a-river-43maA2l1xZY",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 3840,
+    "h": 2560
   },
   {
     "id": "g244",
@@ -3751,7 +4237,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-people-walk-past-manhattan-bridge-and-cityscape-f4ELsfctqso",
     "memo": "강변 커플 — 한강으로 재현",
-    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크."
+    "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
+    "w": 4480,
+    "h": 6720
   },
   {
     "id": "g245",
@@ -3766,7 +4254,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-person-with-a-red-umbrella-standing-in-front-of-a-tree-m2YaRRQIQCY",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 2447,
+    "h": 3671
   },
   {
     "id": "g246",
@@ -3781,7 +4271,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-sitting-on-bench-under-cherry-blossom-tree-6KLyJnUxWnA",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 3942,
+    "h": 5913
   },
   {
     "id": "g247",
@@ -3796,7 +4288,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-walk-under-blooming-cherry-blossom-trees-2c07sX-Bb_c",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 3668,
+    "h": 5502
   },
   {
     "id": "g248",
@@ -3811,7 +4305,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-enjoy-cherry-blossoms-along-a-canal-6U1j3MX4zmo",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 3622,
+    "h": 5433
   },
   {
     "id": "g249",
@@ -3826,7 +4322,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/man-and-woman-walking-on-road-between-cherry-blossom-trees-during-daytime-C7PbvWUCuPs",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 2160,
+    "h": 3240
   },
   {
     "id": "g250",
@@ -3841,7 +4339,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-strolls-in-park-under-blossoming-trees-9RKkUePIrVo",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 4100,
+    "h": 2738
   },
   {
     "id": "g251",
@@ -3856,7 +4356,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-walking-down-a-tree-lined-path-with-blossoms-tidq9XgS6rM",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 3168,
+    "h": 4752
   },
   {
     "id": "g252",
@@ -3871,7 +4373,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-resting-on-park-bench-under-blooming-cherry-blossoms-LeRNsyz7bgk",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 4016,
+    "h": 6016
   },
   {
     "id": "g253",
@@ -3886,7 +4390,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-walk-under-cherry-blossoms-in-full-bloom-SHEiJLV2MTo",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 3455,
+    "h": 5183
   },
   {
     "id": "g254",
@@ -3901,7 +4407,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/white-and-pink-cherry-blossom-tree-WdyindgveXQ",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 6000,
+    "h": 4000
   },
   {
     "id": "g255",
@@ -3916,7 +4424,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-that-are-standing-in-the-grass-y3MMhnDXbgE",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 5945,
+    "h": 3963
   },
   {
     "id": "g256",
@@ -3931,7 +4441,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-sitting-on-top-of-a-wooden-floor-OT6lfvZesgs",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g257",
@@ -3946,7 +4458,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/couple-sitting-on-a-park-bench-during-sunset-pnzOzry4Wqk",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 5906,
+    "h": 3936
   },
   {
     "id": "g258",
@@ -3961,7 +4475,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/two-people-having-a-picnic-under-a-cherry-blossom-tree-6Fgf89EO6fs",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 3936,
+    "h": 5905
   },
   {
     "id": "g259",
@@ -3976,7 +4492,9 @@
     "timeOfDay": "낮",
     "sourceUrl": "https://unsplash.com/photos/people-gather-under-a-blooming-pink-cherry-blossom-tree-OX34sl6krzg",
     "memo": "벚꽃 커플",
-    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000."
+    "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
+    "w": 4000,
+    "h": 6000
   },
   {
     "id": "g260",
@@ -3992,7 +4510,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-sitting-on-the-floor-next-to-each-other--kHXLIl0-zA",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 4531,
+    "h": 3021
   },
   {
     "id": "g261",
@@ -4008,7 +4528,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-mirror-BvwF2kJVGhw",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 4888,
+    "h": 3259
   },
   {
     "id": "g262",
@@ -4024,7 +4546,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/two-people-standing-back-to-back-looking-down-PyK1rInE5v8",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 4129,
+    "h": 2766
   },
   {
     "id": "g263",
@@ -4040,7 +4564,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/grayscale-photo-of-man-and-woman-posing-nIKCy5CWIzk",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 5358,
+    "h": 6430
   },
   {
     "id": "g264",
@@ -4056,7 +4582,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-are-smiling-together-33WLv_LoV9M",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 5028,
+    "h": 7539
   },
   {
     "id": "g265",
@@ -4072,7 +4600,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-smiling-couple-poses-for-a-studio-portrait-qIHZe7k4mDE",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 5000,
+    "h": 4211
   },
   {
     "id": "g266",
@@ -4088,7 +4618,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-that-are-laying-down-l3L4tmjBGNg",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3045,
+    "h": 4567
   },
   {
     "id": "g267",
@@ -4104,7 +4636,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/woman-in-white-sweater-wearing-black-framed-eyeglasses-9ooMr_r7BlY",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3662,
+    "h": 5482
   },
   {
     "id": "g268",
@@ -4120,7 +4654,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-pregnant-couple-kissing-while-standing-next-to-each-other-2fhW8JhP-00",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3815,
+    "h": 5722
   },
   {
     "id": "g269",
@@ -4136,7 +4672,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/man-in-black-crew-neck-shirt-beside-woman-in-black-long-sleeve-shirt-ujEVPnfBDTY",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3992,
+    "h": 5976
   },
   {
     "id": "g270",
@@ -4152,7 +4690,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/two-women-share-a-tender-moment-together-6PBiAts9KCU",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3896,
+    "h": 5325
   },
   {
     "id": "g271",
@@ -4168,7 +4708,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-a-man-and-a-woman-GH7HYcIFGzQ",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3264,
+    "h": 4896
   },
   {
     "id": "g272",
@@ -4184,7 +4726,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-man-and-a-woman-sitting-on-a-chair-P4Du-xEBVYU",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3229,
+    "h": 4843
   },
   {
     "id": "g273",
@@ -4200,7 +4744,9 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/man-in-white-hoodie-hugging-woman-in-black-knit-cap-PRgVWUfZIPk",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 3903,
+    "h": 5843
   },
   {
     "id": "g274",
@@ -4216,6 +4762,8 @@
     "timeOfDay": "실내",
     "sourceUrl": "https://unsplash.com/photos/a-man-with-a-white-hat-standing-next-to-a-woman-xYXcKN11LN8",
     "memo": "스튜디오 포트레이트",
-    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비."
+    "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
+    "w": 4928,
+    "h": 3264
   }
 ]

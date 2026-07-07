@@ -36,6 +36,9 @@ export interface GalleryItem {
   memo?: string
   /** A7C II 기준 촬영 세팅 팁 */
   shootingTip?: string
+  /** 원본 픽셀 크기 — 그리드 공간 예약(lazy loading 최적화)용 */
+  w?: number
+  h?: number
 }
 
 export interface BudgetItem {

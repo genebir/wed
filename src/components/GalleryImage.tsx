@@ -1,14 +1,16 @@
 import { useState } from 'react'
-import { assetUrl } from '../lib/assets'
+import { galleryImageUrl } from '../lib/assets'
 import type { GalleryItem } from '../types'
 
 interface GalleryImageProps {
   item: GalleryItem
   className?: string
+  /** thumb: 그리드용 400px, full: 라이트박스용 1200px */
+  variant?: 'thumb' | 'full'
 }
 
-/** 이미지가 아직 없으면(placeholder) 그라데이션 폴백을 보여준다 */
-export function GalleryImage({ item, className = '' }: GalleryImageProps) {
+/** 이미지가 없거나 로드 실패하면 그라데이션 폴백을 보여준다 */
+export function GalleryImage({ item, className = '', variant = 'thumb' }: GalleryImageProps) {
   const [failed, setFailed] = useState(false)
 
   if (failed) {
@@ -24,11 +26,14 @@ export function GalleryImage({ item, className = '' }: GalleryImageProps) {
 
   return (
     <img
-      src={assetUrl(item.image)}
+      src={galleryImageUrl(item.image, variant)}
       alt={item.memo ?? item.moods.join(', ')}
+      width={item.w}
+      height={item.h}
       loading="lazy"
+      decoding="async"
       onError={() => setFailed(true)}
-      className={`w-full ${className}`}
+      className={`h-auto w-full bg-beige-100 ${className}`}
     />
   )
 }
