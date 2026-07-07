@@ -35,8 +35,12 @@ npm run build    # 타입체크 + 프로덕션 빌드
 
 ### 스냅 레퍼런스 추가 방법
 
-1. 이미지를 1200px 이하 webp로 변환해 `public/gallery/`에 저장
-2. `src/data/gallery.json`에 항목 한 줄 추가 (`image`, `moods`, `locations`, `sourceUrl`, `memo`)
-3. 커밋 메시지는 `content:` 프리픽스 사용
+1. 마음에 드는 이미지를 `refs-inbox/` 폴더에 저장 (jpg/png/webp — 폴더가 없으면 `npm run refs`가 만들어줌)
+2. `npm run refs` 실행 → 1200px webp 변환 + `public/gallery/` 저장 + `gallery.json` 항목 추가까지 자동
+3. `src/data/gallery.json`에서 방금 추가된 항목의 `moods`/`locations`/`sourceUrl`/`memo` 채우기
+4. `content:` 프리픽스로 커밋 후 push
+
+`refs-inbox/`는 gitignore라 원본은 커밋되지 않고, 변환된 webp만 올라간다.
+공개 리포이므로 저작권 있는 타인의 사진(인스타/핀터레스트 저장본 등)은 넣지 말 것.
 
 ⚠️ 개인정보(실명, 연락처, 계좌, 상세 계약금액)는 커밋하지 않는다.
