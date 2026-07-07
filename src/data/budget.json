@@ -1,0 +1,10 @@
+[
+  { "category": "반지", "planned": 2000000, "spent": 0, "memo": "" },
+  { "category": "헤어메이크업", "planned": 1200000, "spent": 0, "memo": "혼주 포함" },
+  { "category": "스냅(셀프)", "planned": 500000, "spent": 0, "memo": "장비 대여·소품" },
+  { "category": "청첩장", "planned": 400000, "spent": 0, "memo": "종이 + 모바일" },
+  { "category": "정장·혼주의상", "planned": 1500000, "spent": 0, "memo": "대여 기준" },
+  { "category": "드레스·부케", "planned": 2200000, "spent": 0, "memo": "" },
+  { "category": "본식 기타", "planned": 1200000, "spent": 0, "memo": "사회·축가 답례 등" },
+  { "category": "예비비", "planned": 1000000, "spent": 0, "memo": "" }
+]

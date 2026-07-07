@@ -1,0 +1,31 @@
+{
+  "locations": [
+    {
+      "id": "loc001",
+      "name": "한강공원 (후보)",
+      "address": "",
+      "permitRequired": false,
+      "goldenHourNote": "서향 — 일몰 1시간 전부터 좋음",
+      "memo": "답사 필요"
+    }
+  ],
+  "gear": [
+    { "id": "gear001", "name": "카메라 + 렌즈" },
+    { "id": "gear002", "name": "삼각대" },
+    { "id": "gear003", "name": "릴리즈 또는 인터벌 촬영 설정" },
+    { "id": "gear004", "name": "반사판" },
+    { "id": "gear005", "name": "예비 배터리" },
+    { "id": "gear006", "name": "예비 SD카드" }
+  ],
+  "shots": [
+    {
+      "id": "shot001",
+      "title": "골든아워 역광 컷",
+      "galleryRef": "g001",
+      "location": "한강공원 (후보)",
+      "note": "일몰 시간 확인 후 30분 전 도착"
+    }
+  ],
+  "sunsetLink": "https://www.timeanddate.com/sun/south-korea/seoul",
+  "rainPlan": "우천 시 실내(카페/스튜디오) 대체 — 후보 정리 필요"
+}

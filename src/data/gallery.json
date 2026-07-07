@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g001",
+    "image": "/gallery/placeholder-01.webp",
+    "moods": ["따뜻한", "필름감성"],
+    "locations": ["한강", "야외"],
+    "season": "가을",
+    "timeOfDay": "골든아워",
+    "sourceUrl": "",
+    "memo": "역광 + 85mm 느낌 (placeholder)"
+  },
+  {
+    "id": "g002",
+    "image": "/gallery/placeholder-02.webp",
+    "moods": ["청량한", "미니멀"],
+    "locations": ["바다"],
+    "season": "여름",
+    "timeOfDay": "낮",
+    "sourceUrl": "",
+    "memo": "수평선 배경 와이드샷 (placeholder)"
+  },
+  {
+    "id": "g003",
+    "image": "/gallery/placeholder-03.webp",
+    "moods": ["러블리"],
+    "locations": ["카페"],
+    "season": "사계절",
+    "timeOfDay": "낮",
+    "sourceUrl": "",
+    "memo": "창가 자연광 (placeholder)"
+  },
+  {
+    "id": "g004",
+    "image": "/gallery/placeholder-04.webp",
+    "moods": ["시네마틱"],
+    "locations": ["골목·도심"],
+    "season": "겨울",
+    "timeOfDay": "야간",
+    "sourceUrl": "",
+    "memo": "네온 불빛 보케 (placeholder)"
+  },
+  {
+    "id": "g005",
+    "image": "/gallery/placeholder-05.webp",
+    "moods": ["따뜻한", "러블리"],
+    "locations": ["공원·수목원"],
+    "season": "봄",
+    "timeOfDay": "골든아워",
+    "sourceUrl": "",
+    "memo": "잔디밭 피크닉 무드 (placeholder)"
+  },
+  {
+    "id": "g006",
+    "image": "/gallery/placeholder-06.webp",
+    "moods": ["미니멀", "시네마틱"],
+    "locations": ["스튜디오·실내"],
+    "season": "사계절",
+    "timeOfDay": "낮",
+    "sourceUrl": "",
+    "memo": "화이트 배경 클로즈업 (placeholder)"
+  }
+]
