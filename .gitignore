@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# 레퍼런스 원본 임시 폴더 (변환 결과만 public/gallery에 커밋됨)
+refs-inbox
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
