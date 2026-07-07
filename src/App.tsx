@@ -1,9 +1,11 @@
 import { Route, Routes } from 'react-router-dom'
-import { Camera, Images, Store, Wallet } from 'lucide-react'
+import { Store, Wallet } from 'lucide-react'
 import { Layout } from './components/Layout'
 import { Home } from './pages/Home'
 import { Timeline } from './pages/Timeline'
 import { Checklist } from './pages/Checklist'
+import { Gallery } from './pages/Gallery'
+import { SnapPlan } from './pages/SnapPlan'
 import { ComingSoon } from './pages/ComingSoon'
 
 export function App() {
@@ -13,26 +15,8 @@ export function App() {
         <Route index element={<Home />} />
         <Route path="timeline" element={<Timeline />} />
         <Route path="checklist" element={<Checklist />} />
-        <Route
-          path="gallery"
-          element={
-            <ComingSoon
-              icon={Images}
-              title="셀프 스냅 갤러리"
-              description="무드·장소 필터로 레퍼런스를 모아보는 갤러리."
-            />
-          }
-        />
-        <Route
-          path="snap-plan"
-          element={
-            <ComingSoon
-              icon={Camera}
-              title="셀프 스냅 촬영 계획"
-              description="장소 후보, 장비 체크리스트, 샷 리스트를 관리하는 페이지."
-            />
-          }
-        />
+        <Route path="gallery" element={<Gallery />} />
+        <Route path="snap-plan" element={<SnapPlan />} />
         <Route
           path="budget"
           element={

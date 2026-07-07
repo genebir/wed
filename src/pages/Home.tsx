@@ -8,6 +8,7 @@ import { isItemDone, progressOf, type DoneState } from '../lib/progress'
 import { Card } from '../components/Card'
 import { ProgressBar } from '../components/ProgressBar'
 import { FadeUp } from '../components/FadeUp'
+import { GalleryImage } from '../components/GalleryImage'
 
 export function Home() {
   const dday = useDday(wedding.weddingDate)
@@ -133,9 +134,7 @@ export function Home() {
           <div className="grid grid-cols-2 gap-4 md:grid-cols-4">
             {recentRefs.map((g) => (
               <Card key={g.id} className="overflow-hidden">
-                <div className="flex aspect-[3/4] items-center justify-center bg-gradient-to-br from-blush-100 to-beige-100 text-3xl">
-                  📸
-                </div>
+                <GalleryImage item={g} className="aspect-[3/4] object-cover" />
                 <div className="p-3">
                   <p className="truncate text-xs text-muted">{g.moods.join(' · ')}</p>
                 </div>
