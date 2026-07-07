@@ -1,8 +1,9 @@
 import { Route, Routes } from 'react-router-dom'
-import { Camera, Images, ListChecks, Store, Wallet } from 'lucide-react'
+import { Camera, Images, Store, Wallet } from 'lucide-react'
 import { Layout } from './components/Layout'
 import { Home } from './pages/Home'
 import { Timeline } from './pages/Timeline'
+import { Checklist } from './pages/Checklist'
 import { ComingSoon } from './pages/ComingSoon'
 
 export function App() {
@@ -11,16 +12,7 @@ export function App() {
       <Route element={<Layout />}>
         <Route index element={<Home />} />
         <Route path="timeline" element={<Timeline />} />
-        <Route
-          path="checklist"
-          element={
-            <ComingSoon
-              icon={ListChecks}
-              title="월별 체크리스트"
-              description="월별 탭으로 할 일을 체크하고 진행률을 확인하는 페이지."
-            />
-          }
-        />
+        <Route path="checklist" element={<Checklist />} />
         <Route
           path="gallery"
           element={
