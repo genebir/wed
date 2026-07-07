@@ -16,7 +16,8 @@
     "shootingTip": "A모드 f/4 · 스팟 측광(하늘) · 노출 -1.7 · WB 6500K · 룩 VV2. 해를 두 사람 사이에 두고 완전 실루엣으로. 삼각대+리모컨, 이마가 닿을 듯 말 듯 한 간격이 포인트.",
     "w": 1200,
     "h": 800,
-    "thumb": "/gallery/thumbs/g001.webp"
+    "thumb": "/gallery/thumbs/g001.webp",
+    "full": "/gallery/full/g001.webp"
   },
   {
     "id": "g002",
@@ -35,7 +36,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 -0.3 · WB 5600K+M1 · 룩 FL · Eye AF. 억새밭이라면 일몰 1시간 전 역광에서 억새를 전경 보케로. 머리카락 라인빛이 살아나는 각도를 찾으세요.",
     "w": 1200,
     "h": 1800,
-    "thumb": "/gallery/thumbs/g002.webp"
+    "thumb": "/gallery/thumbs/g002.webp",
+    "full": "/gallery/full/g002.webp"
   },
   {
     "id": "g003",
@@ -54,7 +56,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/640(걷는 동작) · 노출 -0.5 · WB 6000K · 룩 FL. 물에 비친 반영까지 담으려면 로우앵글로. 뒷모습 워킹은 연속촬영 Mid로.",
     "w": 1200,
     "h": 800,
-    "thumb": "/gallery/thumbs/g003.webp"
+    "thumb": "/gallery/thumbs/g003.webp",
+    "full": "/gallery/full/g003.webp"
   },
   {
     "id": "g004",
@@ -72,7 +75,8 @@
     "shootingTip": "A모드 f/5.6(풍경 겸용) · 노출 +0.5 · WB 5200K · 룩 PT. 한낮 해변은 그림자가 강하니 정오 피해서. 와이드(20~35mm)로 하늘 2/3 구도.",
     "w": 1200,
     "h": 800,
-    "thumb": "/gallery/thumbs/g004.webp"
+    "thumb": "/gallery/thumbs/g004.webp",
+    "full": "/gallery/full/g004.webp"
   },
   {
     "id": "g005",
@@ -90,7 +94,8 @@
     "shootingTip": "블루아워: A모드 f/1.8 · ISO 800 · WB 4000K · 룩 ST. 야경 배경 보케를 위해 난간에서 도시와 거리를 두고, 인물엔 약한 보조광(폰 손전등도 OK).",
     "w": 1200,
     "h": 800,
-    "thumb": "/gallery/thumbs/g005.webp"
+    "thumb": "/gallery/thumbs/g005.webp",
+    "full": "/gallery/full/g005.webp"
   },
   {
     "id": "g006",
@@ -109,7 +114,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/250 · ISO 1600 · 룩 BW(콘트라스트 +2). 가로등 하나를 키라이트로 쓰는 흑백. 명암 경계에 인물을 세우면 시네마틱해집니다.",
     "w": 1200,
     "h": 1800,
-    "thumb": "/gallery/thumbs/g006.webp"
+    "thumb": "/gallery/thumbs/g006.webp",
+    "full": "/gallery/full/g006.webp"
   },
   {
     "id": "g007",
@@ -127,7 +133,8 @@
     "shootingTip": "A모드 f/4.5 · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 반지 교환 순간은 연속촬영으로. 초점은 반지에 스팟, 배경은 녹색 계열이 반지를 돋보이게 해요.",
     "w": 1200,
     "h": 1798,
-    "thumb": "/gallery/thumbs/g007.webp"
+    "thumb": "/gallery/thumbs/g007.webp",
+    "full": "/gallery/full/g007.webp"
   },
   {
     "id": "g008",
@@ -146,7 +153,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.3 · WB 5500K · 룩 ST. 맞잡은 손은 심도가 얕으면 한쪽이 날아가니 f/2.8 이상. 소매 라인 정리하고 손등 각도를 45도로.",
     "w": 1200,
     "h": 800,
-    "thumb": "/gallery/thumbs/g008.webp"
+    "thumb": "/gallery/thumbs/g008.webp",
+    "full": "/gallery/full/g008.webp"
   },
   {
     "id": "g009",
@@ -165,7 +173,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 부케가 주인공 — 얼굴은 과감히 프레임 밖으로. 드레스 질감이 살도록 사이드광에서.",
     "w": 1200,
     "h": 800,
-    "thumb": "/gallery/thumbs/g009.webp"
+    "thumb": "/gallery/thumbs/g009.webp",
+    "full": "/gallery/full/g009.webp"
   },
   {
     "id": "g010",
@@ -184,7 +193,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토 · WB 4800K · 룩 FL. 카페 유리창 밖에서 안을 찍는 구도 — 반영과 실내가 겹치는 지점을 찾고, 무음 셔터로 자연스럽게.",
     "w": 1200,
     "h": 1800,
-    "thumb": "/gallery/thumbs/g010.webp"
+    "thumb": "/gallery/thumbs/g010.webp",
+    "full": "/gallery/full/g010.webp"
   },
   {
     "id": "g011",
@@ -203,7 +213,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K · 노출 -0.3 · 룩 ST 채도 +1. 은행나무길은 늦은 오후 사선광에서 노란빛이 폭발합니다. 85mm 압축으로 터널 느낌.",
     "w": 1200,
     "h": 784,
-    "thumb": "/gallery/thumbs/g011.webp"
+    "thumb": "/gallery/thumbs/g011.webp",
+    "full": "/gallery/full/g011.webp"
   },
   {
     "id": "g012",
@@ -221,7 +232,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/500 · WB 5800K · 룩 FL. 낙엽 밟으며 걷는 롱샷 — 카메라는 낮게, 길이 소실점으로 빠지는 구도. 연속촬영으로 발걸음 타이밍.",
     "w": 1200,
     "h": 924,
-    "thumb": "/gallery/thumbs/g012.webp"
+    "thumb": "/gallery/thumbs/g012.webp",
+    "full": "/gallery/full/g012.webp"
   },
   {
     "id": "g013",
@@ -240,7 +252,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 3561,
     "h": 5341,
-    "thumb": "/gallery/thumbs/g013.webp"
+    "thumb": "/gallery/thumbs/g013.webp",
+    "full": "/gallery/full/g013.webp"
   },
   {
     "id": "g014",
@@ -259,7 +272,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 3691,
     "h": 2461,
-    "thumb": "/gallery/thumbs/g014.webp"
+    "thumb": "/gallery/thumbs/g014.webp",
+    "full": "/gallery/full/g014.webp"
   },
   {
     "id": "g015",
@@ -278,7 +292,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 4124,
     "h": 3187,
-    "thumb": "/gallery/thumbs/g015.webp"
+    "thumb": "/gallery/thumbs/g015.webp",
+    "full": "/gallery/full/g015.webp"
   },
   {
     "id": "g016",
@@ -297,7 +312,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g016.webp"
+    "thumb": "/gallery/thumbs/g016.webp",
+    "full": "/gallery/full/g016.webp"
   },
   {
     "id": "g017",
@@ -316,7 +332,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 5015,
     "h": 3348,
-    "thumb": "/gallery/thumbs/g017.webp"
+    "thumb": "/gallery/thumbs/g017.webp",
+    "full": "/gallery/full/g017.webp"
   },
   {
     "id": "g018",
@@ -335,7 +352,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 5000,
     "h": 3333,
-    "thumb": "/gallery/thumbs/g018.webp"
+    "thumb": "/gallery/thumbs/g018.webp",
+    "full": "/gallery/full/g018.webp"
   },
   {
     "id": "g019",
@@ -354,7 +372,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g019.webp"
+    "thumb": "/gallery/thumbs/g019.webp",
+    "full": "/gallery/full/g019.webp"
   },
   {
     "id": "g020",
@@ -373,7 +392,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 4317,
     "h": 6475,
-    "thumb": "/gallery/thumbs/g020.webp"
+    "thumb": "/gallery/thumbs/g020.webp",
+    "full": "/gallery/full/g020.webp"
   },
   {
     "id": "g021",
@@ -392,7 +412,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 5472,
     "h": 3648,
-    "thumb": "/gallery/thumbs/g021.webp"
+    "thumb": "/gallery/thumbs/g021.webp",
+    "full": "/gallery/full/g021.webp"
   },
   {
     "id": "g022",
@@ -411,7 +432,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 4000,
     "h": 5000,
-    "thumb": "/gallery/thumbs/g022.webp"
+    "thumb": "/gallery/thumbs/g022.webp",
+    "full": "/gallery/full/g022.webp"
   },
   {
     "id": "g023",
@@ -430,7 +452,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 4935,
     "h": 3290,
-    "thumb": "/gallery/thumbs/g023.webp"
+    "thumb": "/gallery/thumbs/g023.webp",
+    "full": "/gallery/full/g023.webp"
   },
   {
     "id": "g024",
@@ -449,7 +472,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 2500,
     "h": 1786,
-    "thumb": "/gallery/thumbs/g024.webp"
+    "thumb": "/gallery/thumbs/g024.webp",
+    "full": "/gallery/full/g024.webp"
   },
   {
     "id": "g025",
@@ -468,7 +492,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 3264,
     "h": 4896,
-    "thumb": "/gallery/thumbs/g025.webp"
+    "thumb": "/gallery/thumbs/g025.webp",
+    "full": "/gallery/full/g025.webp"
   },
   {
     "id": "g026",
@@ -487,7 +512,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 3981,
     "h": 5971,
-    "thumb": "/gallery/thumbs/g026.webp"
+    "thumb": "/gallery/thumbs/g026.webp",
+    "full": "/gallery/full/g026.webp"
   },
   {
     "id": "g027",
@@ -506,7 +532,8 @@
     "shootingTip": "A모드 f/2.0~2.8 · ISO 오토(상한 800) · WB 5600K+앰버 M1 · 노출 -0.3 · 크리에이티브 룩 FL. 해를 등지고 역광 라인빛을 살리세요. 85mm 화각, Eye AF(사람) 켜고 삼각대+Creators’ App 리모컨으로 촬영.",
     "w": 4016,
     "h": 6016,
-    "thumb": "/gallery/thumbs/g027.webp"
+    "thumb": "/gallery/thumbs/g027.webp",
+    "full": "/gallery/full/g027.webp"
   },
   {
     "id": "g028",
@@ -525,7 +552,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 6720,
     "h": 4480,
-    "thumb": "/gallery/thumbs/g028.webp"
+    "thumb": "/gallery/thumbs/g028.webp",
+    "full": "/gallery/full/g028.webp"
   },
   {
     "id": "g029",
@@ -544,7 +572,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 2758,
     "h": 3971,
-    "thumb": "/gallery/thumbs/g029.webp"
+    "thumb": "/gallery/thumbs/g029.webp",
+    "full": "/gallery/full/g029.webp"
   },
   {
     "id": "g030",
@@ -563,7 +592,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 2961,
     "h": 4441,
-    "thumb": "/gallery/thumbs/g030.webp"
+    "thumb": "/gallery/thumbs/g030.webp",
+    "full": "/gallery/full/g030.webp"
   },
   {
     "id": "g031",
@@ -582,7 +612,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 6691,
     "h": 4461,
-    "thumb": "/gallery/thumbs/g031.webp"
+    "thumb": "/gallery/thumbs/g031.webp",
+    "full": "/gallery/full/g031.webp"
   },
   {
     "id": "g032",
@@ -601,7 +632,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 3496,
     "h": 2100,
-    "thumb": "/gallery/thumbs/g032.webp"
+    "thumb": "/gallery/thumbs/g032.webp",
+    "full": "/gallery/full/g032.webp"
   },
   {
     "id": "g033",
@@ -620,7 +652,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 5135,
     "h": 3642,
-    "thumb": "/gallery/thumbs/g033.webp"
+    "thumb": "/gallery/thumbs/g033.webp",
+    "full": "/gallery/full/g033.webp"
   },
   {
     "id": "g034",
@@ -639,7 +672,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g034.webp"
+    "thumb": "/gallery/thumbs/g034.webp",
+    "full": "/gallery/full/g034.webp"
   },
   {
     "id": "g035",
@@ -658,7 +692,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 3775,
     "h": 5033,
-    "thumb": "/gallery/thumbs/g035.webp"
+    "thumb": "/gallery/thumbs/g035.webp",
+    "full": "/gallery/full/g035.webp"
   },
   {
     "id": "g036",
@@ -677,7 +712,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g036.webp"
+    "thumb": "/gallery/thumbs/g036.webp",
+    "full": "/gallery/full/g036.webp"
   },
   {
     "id": "g037",
@@ -696,7 +732,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g037.webp"
+    "thumb": "/gallery/thumbs/g037.webp",
+    "full": "/gallery/full/g037.webp"
   },
   {
     "id": "g038",
@@ -715,7 +752,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 4000,
     "h": 5360,
-    "thumb": "/gallery/thumbs/g038.webp"
+    "thumb": "/gallery/thumbs/g038.webp",
+    "full": "/gallery/full/g038.webp"
   },
   {
     "id": "g039",
@@ -734,7 +772,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 3456,
     "h": 5184,
-    "thumb": "/gallery/thumbs/g039.webp"
+    "thumb": "/gallery/thumbs/g039.webp",
+    "full": "/gallery/full/g039.webp"
   },
   {
     "id": "g040",
@@ -753,7 +792,8 @@
     "shootingTip": "A모드 f/4 · 측광은 스팟(하늘 기준) · 노출 -1.3~-2 · WB 6500K · 룩 VV2. 하늘에 노출을 맞추면 인물이 실루엣이 됩니다. 두 사람 사이 공간을 띄워 옆모습 라인이 겹치지 않게.",
     "w": 4077,
     "h": 5861,
-    "thumb": "/gallery/thumbs/g040.webp"
+    "thumb": "/gallery/thumbs/g040.webp",
+    "full": "/gallery/full/g040.webp"
   },
   {
     "id": "g041",
@@ -771,7 +811,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g041.webp"
+    "thumb": "/gallery/thumbs/g041.webp",
+    "full": "/gallery/full/g041.webp"
   },
   {
     "id": "g042",
@@ -789,7 +830,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g042.webp"
+    "thumb": "/gallery/thumbs/g042.webp",
+    "full": "/gallery/full/g042.webp"
   },
   {
     "id": "g043",
@@ -807,7 +849,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 3731,
     "h": 5596,
-    "thumb": "/gallery/thumbs/g043.webp"
+    "thumb": "/gallery/thumbs/g043.webp",
+    "full": "/gallery/full/g043.webp"
   },
   {
     "id": "g044",
@@ -825,7 +868,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g044.webp"
+    "thumb": "/gallery/thumbs/g044.webp",
+    "full": "/gallery/full/g044.webp"
   },
   {
     "id": "g045",
@@ -843,7 +887,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 5587,
     "h": 3688,
-    "thumb": "/gallery/thumbs/g045.webp"
+    "thumb": "/gallery/thumbs/g045.webp",
+    "full": "/gallery/full/g045.webp"
   },
   {
     "id": "g046",
@@ -861,7 +906,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g046.webp"
+    "thumb": "/gallery/thumbs/g046.webp",
+    "full": "/gallery/full/g046.webp"
   },
   {
     "id": "g047",
@@ -879,7 +925,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 5293,
     "h": 6616,
-    "thumb": "/gallery/thumbs/g047.webp"
+    "thumb": "/gallery/thumbs/g047.webp",
+    "full": "/gallery/full/g047.webp"
   },
   {
     "id": "g048",
@@ -897,7 +944,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 3897,
     "h": 5838,
-    "thumb": "/gallery/thumbs/g048.webp"
+    "thumb": "/gallery/thumbs/g048.webp",
+    "full": "/gallery/full/g048.webp"
   },
   {
     "id": "g049",
@@ -915,7 +963,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g049.webp"
+    "thumb": "/gallery/thumbs/g049.webp",
+    "full": "/gallery/full/g049.webp"
   },
   {
     "id": "g050",
@@ -933,7 +982,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 5641,
     "h": 3761,
-    "thumb": "/gallery/thumbs/g050.webp"
+    "thumb": "/gallery/thumbs/g050.webp",
+    "full": "/gallery/full/g050.webp"
   },
   {
     "id": "g051",
@@ -951,7 +1001,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g051.webp"
+    "thumb": "/gallery/thumbs/g051.webp",
+    "full": "/gallery/full/g051.webp"
   },
   {
     "id": "g052",
@@ -969,7 +1020,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g052.webp"
+    "thumb": "/gallery/thumbs/g052.webp",
+    "full": "/gallery/full/g052.webp"
   },
   {
     "id": "g053",
@@ -987,7 +1039,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g053.webp"
+    "thumb": "/gallery/thumbs/g053.webp",
+    "full": "/gallery/full/g053.webp"
   },
   {
     "id": "g054",
@@ -1005,7 +1058,8 @@
     "shootingTip": "A모드 f/2.8 · 셔터 1/1000 이상 확보(ISO 오토) · 노출 +0.3~0.7 · WB 5200K · 룩 PT. 밝고 청량하게 살짝 오버로. 파도·움직임은 연속촬영 Hi, 모래 반사광이 자연 반사판 역할을 해줍니다.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g054.webp"
+    "thumb": "/gallery/thumbs/g054.webp",
+    "full": "/gallery/full/g054.webp"
   },
   {
     "id": "g055",
@@ -1024,7 +1078,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g055.webp"
+    "thumb": "/gallery/thumbs/g055.webp",
+    "full": "/gallery/full/g055.webp"
   },
   {
     "id": "g056",
@@ -1043,7 +1098,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 3920,
     "h": 5880,
-    "thumb": "/gallery/thumbs/g056.webp"
+    "thumb": "/gallery/thumbs/g056.webp",
+    "full": "/gallery/full/g056.webp"
   },
   {
     "id": "g057",
@@ -1062,7 +1118,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 4087,
     "h": 6130,
-    "thumb": "/gallery/thumbs/g057.webp"
+    "thumb": "/gallery/thumbs/g057.webp",
+    "full": "/gallery/full/g057.webp"
   },
   {
     "id": "g058",
@@ -1081,7 +1138,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 3847,
     "h": 5763,
-    "thumb": "/gallery/thumbs/g058.webp"
+    "thumb": "/gallery/thumbs/g058.webp",
+    "full": "/gallery/full/g058.webp"
   },
   {
     "id": "g059",
@@ -1100,7 +1158,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 5504,
     "h": 8256,
-    "thumb": "/gallery/thumbs/g059.webp"
+    "thumb": "/gallery/thumbs/g059.webp",
+    "full": "/gallery/full/g059.webp"
   },
   {
     "id": "g060",
@@ -1119,7 +1178,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 2836,
     "h": 3781,
-    "thumb": "/gallery/thumbs/g060.webp"
+    "thumb": "/gallery/thumbs/g060.webp",
+    "full": "/gallery/full/g060.webp"
   },
   {
     "id": "g061",
@@ -1138,7 +1198,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 3000,
     "h": 2000,
-    "thumb": "/gallery/thumbs/g061.webp"
+    "thumb": "/gallery/thumbs/g061.webp",
+    "full": "/gallery/full/g061.webp"
   },
   {
     "id": "g062",
@@ -1157,7 +1218,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 4000,
     "h": 2667,
-    "thumb": "/gallery/thumbs/g062.webp"
+    "thumb": "/gallery/thumbs/g062.webp",
+    "full": "/gallery/full/g062.webp"
   },
   {
     "id": "g063",
@@ -1176,7 +1238,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g063.webp"
+    "thumb": "/gallery/thumbs/g063.webp",
+    "full": "/gallery/full/g063.webp"
   },
   {
     "id": "g064",
@@ -1195,7 +1258,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 5749,
     "h": 3999,
-    "thumb": "/gallery/thumbs/g064.webp"
+    "thumb": "/gallery/thumbs/g064.webp",
+    "full": "/gallery/full/g064.webp"
   },
   {
     "id": "g065",
@@ -1214,7 +1278,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g065.webp"
+    "thumb": "/gallery/thumbs/g065.webp",
+    "full": "/gallery/full/g065.webp"
   },
   {
     "id": "g066",
@@ -1233,7 +1298,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 6720,
     "h": 4480,
-    "thumb": "/gallery/thumbs/g066.webp"
+    "thumb": "/gallery/thumbs/g066.webp",
+    "full": "/gallery/full/g066.webp"
   },
   {
     "id": "g067",
@@ -1252,7 +1318,8 @@
     "shootingTip": "A모드 f/2.8 · ISO 오토 · WB 6000K · 노출 -0.7 · 룩 FL. 일몰 30분 전부터가 골든타임. 수평선 반드시 수평 맞추기(격자 표시 ON), 역광 플레어는 살짝 각도를 틀어 조절.",
     "w": 4272,
     "h": 2848,
-    "thumb": "/gallery/thumbs/g067.webp"
+    "thumb": "/gallery/thumbs/g067.webp",
+    "full": "/gallery/full/g067.webp"
   },
   {
     "id": "g068",
@@ -1270,7 +1337,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 5585,
     "h": 3723,
-    "thumb": "/gallery/thumbs/g068.webp"
+    "thumb": "/gallery/thumbs/g068.webp",
+    "full": "/gallery/full/g068.webp"
   },
   {
     "id": "g069",
@@ -1288,7 +1356,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 5987,
     "h": 8981,
-    "thumb": "/gallery/thumbs/g069.webp"
+    "thumb": "/gallery/thumbs/g069.webp",
+    "full": "/gallery/full/g069.webp"
   },
   {
     "id": "g070",
@@ -1306,7 +1375,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g070.webp"
+    "thumb": "/gallery/thumbs/g070.webp",
+    "full": "/gallery/full/g070.webp"
   },
   {
     "id": "g071",
@@ -1324,7 +1394,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 5495,
     "h": 3663,
-    "thumb": "/gallery/thumbs/g071.webp"
+    "thumb": "/gallery/thumbs/g071.webp",
+    "full": "/gallery/full/g071.webp"
   },
   {
     "id": "g072",
@@ -1342,7 +1413,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4936,
     "h": 3291,
-    "thumb": "/gallery/thumbs/g072.webp"
+    "thumb": "/gallery/thumbs/g072.webp",
+    "full": "/gallery/full/g072.webp"
   },
   {
     "id": "g073",
@@ -1360,7 +1432,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4480,
     "h": 6720,
-    "thumb": "/gallery/thumbs/g073.webp"
+    "thumb": "/gallery/thumbs/g073.webp",
+    "full": "/gallery/full/g073.webp"
   },
   {
     "id": "g074",
@@ -1378,7 +1451,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 3931,
     "h": 5896,
-    "thumb": "/gallery/thumbs/g074.webp"
+    "thumb": "/gallery/thumbs/g074.webp",
+    "full": "/gallery/full/g074.webp"
   },
   {
     "id": "g075",
@@ -1396,7 +1470,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g075.webp"
+    "thumb": "/gallery/thumbs/g075.webp",
+    "full": "/gallery/full/g075.webp"
   },
   {
     "id": "g076",
@@ -1414,7 +1489,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g076.webp"
+    "thumb": "/gallery/thumbs/g076.webp",
+    "full": "/gallery/full/g076.webp"
   },
   {
     "id": "g077",
@@ -1432,7 +1508,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4000,
     "h": 2666,
-    "thumb": "/gallery/thumbs/g077.webp"
+    "thumb": "/gallery/thumbs/g077.webp",
+    "full": "/gallery/full/g077.webp"
   },
   {
     "id": "g078",
@@ -1450,7 +1527,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 6016,
     "h": 4016,
-    "thumb": "/gallery/thumbs/g078.webp"
+    "thumb": "/gallery/thumbs/g078.webp",
+    "full": "/gallery/full/g078.webp"
   },
   {
     "id": "g079",
@@ -1468,7 +1546,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 9504,
     "h": 6336,
-    "thumb": "/gallery/thumbs/g079.webp"
+    "thumb": "/gallery/thumbs/g079.webp",
+    "full": "/gallery/full/g079.webp"
   },
   {
     "id": "g080",
@@ -1486,7 +1565,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g080.webp"
+    "thumb": "/gallery/thumbs/g080.webp",
+    "full": "/gallery/full/g080.webp"
   },
   {
     "id": "g081",
@@ -1504,7 +1584,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g081.webp"
+    "thumb": "/gallery/thumbs/g081.webp",
+    "full": "/gallery/full/g081.webp"
   },
   {
     "id": "g082",
@@ -1522,7 +1603,8 @@
     "shootingTip": "A모드 f/1.8 개방 · ISO 1600~3200 허용 · 셔터 1/125 이상 · WB 4000K · 룩 ST. A7C II 손떨림보정이 좋아 1/60까지도 OK. 네온·간판을 배경 보케로 쓰려면 인물과 배경 거리를 3m 이상.",
     "w": 4024,
     "h": 6048,
-    "thumb": "/gallery/thumbs/g082.webp"
+    "thumb": "/gallery/thumbs/g082.webp",
+    "full": "/gallery/full/g082.webp"
   },
   {
     "id": "g083",
@@ -1540,7 +1622,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 5956,
     "h": 3971,
-    "thumb": "/gallery/thumbs/g083.webp"
+    "thumb": "/gallery/thumbs/g083.webp",
+    "full": "/gallery/full/g083.webp"
   },
   {
     "id": "g084",
@@ -1558,7 +1641,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g084.webp"
+    "thumb": "/gallery/thumbs/g084.webp",
+    "full": "/gallery/full/g084.webp"
   },
   {
     "id": "g085",
@@ -1576,7 +1660,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g085.webp"
+    "thumb": "/gallery/thumbs/g085.webp",
+    "full": "/gallery/full/g085.webp"
   },
   {
     "id": "g086",
@@ -1594,7 +1679,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 4608,
     "h": 3072,
-    "thumb": "/gallery/thumbs/g086.webp"
+    "thumb": "/gallery/thumbs/g086.webp",
+    "full": "/gallery/full/g086.webp"
   },
   {
     "id": "g087",
@@ -1612,7 +1698,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g087.webp"
+    "thumb": "/gallery/thumbs/g087.webp",
+    "full": "/gallery/full/g087.webp"
   },
   {
     "id": "g088",
@@ -1630,7 +1717,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 4564,
     "h": 3301,
-    "thumb": "/gallery/thumbs/g088.webp"
+    "thumb": "/gallery/thumbs/g088.webp",
+    "full": "/gallery/full/g088.webp"
   },
   {
     "id": "g089",
@@ -1648,7 +1736,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 4874,
     "h": 7311,
-    "thumb": "/gallery/thumbs/g089.webp"
+    "thumb": "/gallery/thumbs/g089.webp",
+    "full": "/gallery/full/g089.webp"
   },
   {
     "id": "g090",
@@ -1666,7 +1755,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 5120,
     "h": 3413,
-    "thumb": "/gallery/thumbs/g090.webp"
+    "thumb": "/gallery/thumbs/g090.webp",
+    "full": "/gallery/full/g090.webp"
   },
   {
     "id": "g091",
@@ -1684,7 +1774,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 6336,
     "h": 9504,
-    "thumb": "/gallery/thumbs/g091.webp"
+    "thumb": "/gallery/thumbs/g091.webp",
+    "full": "/gallery/full/g091.webp"
   },
   {
     "id": "g092",
@@ -1702,7 +1793,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 8448,
     "h": 6336,
-    "thumb": "/gallery/thumbs/g092.webp"
+    "thumb": "/gallery/thumbs/g092.webp",
+    "full": "/gallery/full/g092.webp"
   },
   {
     "id": "g093",
@@ -1720,7 +1812,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 2500,
     "h": 1667,
-    "thumb": "/gallery/thumbs/g093.webp"
+    "thumb": "/gallery/thumbs/g093.webp",
+    "full": "/gallery/full/g093.webp"
   },
   {
     "id": "g094",
@@ -1738,7 +1831,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 4952,
     "h": 3467,
-    "thumb": "/gallery/thumbs/g094.webp"
+    "thumb": "/gallery/thumbs/g094.webp",
+    "full": "/gallery/full/g094.webp"
   },
   {
     "id": "g095",
@@ -1756,7 +1850,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 3519,
     "h": 4457,
-    "thumb": "/gallery/thumbs/g095.webp"
+    "thumb": "/gallery/thumbs/g095.webp",
+    "full": "/gallery/full/g095.webp"
   },
   {
     "id": "g096",
@@ -1774,7 +1869,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 4454,
     "h": 2969,
-    "thumb": "/gallery/thumbs/g096.webp"
+    "thumb": "/gallery/thumbs/g096.webp",
+    "full": "/gallery/full/g096.webp"
   },
   {
     "id": "g097",
@@ -1792,7 +1888,8 @@
     "shootingTip": "S모드 1/500 · ISO 오토 · WB 오토(분위기 우선) · 룩 FL · AF-C 와이드+사람 인식. 걸으면서 자연스럽게, 연속촬영 Mid로 끊어 찍기. 35mm 화각이 거리 맥락을 담기 좋아요.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g097.webp"
+    "thumb": "/gallery/thumbs/g097.webp",
+    "full": "/gallery/full/g097.webp"
   },
   {
     "id": "g098",
@@ -1810,7 +1907,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 5760,
     "h": 3840,
-    "thumb": "/gallery/thumbs/g098.webp"
+    "thumb": "/gallery/thumbs/g098.webp",
+    "full": "/gallery/full/g098.webp"
   },
   {
     "id": "g099",
@@ -1828,7 +1926,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 7952,
     "h": 5304,
-    "thumb": "/gallery/thumbs/g099.webp"
+    "thumb": "/gallery/thumbs/g099.webp",
+    "full": "/gallery/full/g099.webp"
   },
   {
     "id": "g100",
@@ -1846,7 +1945,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 4000,
     "h": 5000,
-    "thumb": "/gallery/thumbs/g100.webp"
+    "thumb": "/gallery/thumbs/g100.webp",
+    "full": "/gallery/full/g100.webp"
   },
   {
     "id": "g101",
@@ -1864,7 +1964,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 3744,
     "h": 5616,
-    "thumb": "/gallery/thumbs/g101.webp"
+    "thumb": "/gallery/thumbs/g101.webp",
+    "full": "/gallery/full/g101.webp"
   },
   {
     "id": "g102",
@@ -1882,7 +1983,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 5760,
     "h": 3840,
-    "thumb": "/gallery/thumbs/g102.webp"
+    "thumb": "/gallery/thumbs/g102.webp",
+    "full": "/gallery/full/g102.webp"
   },
   {
     "id": "g103",
@@ -1900,7 +2002,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g103.webp"
+    "thumb": "/gallery/thumbs/g103.webp",
+    "full": "/gallery/full/g103.webp"
   },
   {
     "id": "g104",
@@ -1918,7 +2021,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 6016,
     "h": 4016,
-    "thumb": "/gallery/thumbs/g104.webp"
+    "thumb": "/gallery/thumbs/g104.webp",
+    "full": "/gallery/full/g104.webp"
   },
   {
     "id": "g105",
@@ -1936,7 +2040,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 4016,
     "h": 6016,
-    "thumb": "/gallery/thumbs/g105.webp"
+    "thumb": "/gallery/thumbs/g105.webp",
+    "full": "/gallery/full/g105.webp"
   },
   {
     "id": "g106",
@@ -1954,7 +2059,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 3000,
     "h": 2000,
-    "thumb": "/gallery/thumbs/g106.webp"
+    "thumb": "/gallery/thumbs/g106.webp",
+    "full": "/gallery/full/g106.webp"
   },
   {
     "id": "g107",
@@ -1972,7 +2078,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 4480,
     "h": 6720,
-    "thumb": "/gallery/thumbs/g107.webp"
+    "thumb": "/gallery/thumbs/g107.webp",
+    "full": "/gallery/full/g107.webp"
   },
   {
     "id": "g108",
@@ -1990,7 +2097,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 4672,
     "h": 7008,
-    "thumb": "/gallery/thumbs/g108.webp"
+    "thumb": "/gallery/thumbs/g108.webp",
+    "full": "/gallery/full/g108.webp"
   },
   {
     "id": "g109",
@@ -2008,7 +2116,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 6016,
     "h": 4016,
-    "thumb": "/gallery/thumbs/g109.webp"
+    "thumb": "/gallery/thumbs/g109.webp",
+    "full": "/gallery/full/g109.webp"
   },
   {
     "id": "g110",
@@ -2026,7 +2135,8 @@
     "shootingTip": "A모드 f/4~5.6(심도 확보) · ISO 오토 · WB 오토 화이트 우선 · 룩 NT. 창가 사이드광에서 최단촬영거리까지 붙고, 초점은 스팟(S)으로 반지에. 손에 힘 빼고 손가락 라인을 사선으로.",
     "w": 4480,
     "h": 5600,
-    "thumb": "/gallery/thumbs/g110.webp"
+    "thumb": "/gallery/thumbs/g110.webp",
+    "full": "/gallery/full/g110.webp"
   },
   {
     "id": "g111",
@@ -2045,7 +2155,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 5871,
     "h": 3906,
-    "thumb": "/gallery/thumbs/g111.webp"
+    "thumb": "/gallery/thumbs/g111.webp",
+    "full": "/gallery/full/g111.webp"
   },
   {
     "id": "g112",
@@ -2064,7 +2175,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 5384,
     "h": 3589,
-    "thumb": "/gallery/thumbs/g112.webp"
+    "thumb": "/gallery/thumbs/g112.webp",
+    "full": "/gallery/full/g112.webp"
   },
   {
     "id": "g113",
@@ -2083,7 +2195,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 3338,
     "h": 5000,
-    "thumb": "/gallery/thumbs/g113.webp"
+    "thumb": "/gallery/thumbs/g113.webp",
+    "full": "/gallery/full/g113.webp"
   },
   {
     "id": "g114",
@@ -2102,7 +2215,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g114.webp"
+    "thumb": "/gallery/thumbs/g114.webp",
+    "full": "/gallery/full/g114.webp"
   },
   {
     "id": "g115",
@@ -2121,7 +2235,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g115.webp"
+    "thumb": "/gallery/thumbs/g115.webp",
+    "full": "/gallery/full/g115.webp"
   },
   {
     "id": "g116",
@@ -2140,7 +2255,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g116.webp"
+    "thumb": "/gallery/thumbs/g116.webp",
+    "full": "/gallery/full/g116.webp"
   },
   {
     "id": "g117",
@@ -2159,7 +2275,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 2996,
     "h": 2000,
-    "thumb": "/gallery/thumbs/g117.webp"
+    "thumb": "/gallery/thumbs/g117.webp",
+    "full": "/gallery/full/g117.webp"
   },
   {
     "id": "g118",
@@ -2178,7 +2295,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 3120,
     "h": 2080,
-    "thumb": "/gallery/thumbs/g118.webp"
+    "thumb": "/gallery/thumbs/g118.webp",
+    "full": "/gallery/full/g118.webp"
   },
   {
     "id": "g119",
@@ -2197,7 +2315,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 3024,
     "h": 4032,
-    "thumb": "/gallery/thumbs/g119.webp"
+    "thumb": "/gallery/thumbs/g119.webp",
+    "full": "/gallery/full/g119.webp"
   },
   {
     "id": "g120",
@@ -2216,7 +2335,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g120.webp"
+    "thumb": "/gallery/thumbs/g120.webp",
+    "full": "/gallery/full/g120.webp"
   },
   {
     "id": "g121",
@@ -2235,7 +2355,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 6016,
     "h": 4016,
-    "thumb": "/gallery/thumbs/g121.webp"
+    "thumb": "/gallery/thumbs/g121.webp",
+    "full": "/gallery/full/g121.webp"
   },
   {
     "id": "g122",
@@ -2254,7 +2375,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 5616,
     "h": 3744,
-    "thumb": "/gallery/thumbs/g122.webp"
+    "thumb": "/gallery/thumbs/g122.webp",
+    "full": "/gallery/full/g122.webp"
   },
   {
     "id": "g123",
@@ -2273,7 +2395,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g123.webp"
+    "thumb": "/gallery/thumbs/g123.webp",
+    "full": "/gallery/full/g123.webp"
   },
   {
     "id": "g124",
@@ -2292,7 +2415,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g124.webp"
+    "thumb": "/gallery/thumbs/g124.webp",
+    "full": "/gallery/full/g124.webp"
   },
   {
     "id": "g125",
@@ -2311,7 +2435,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5500K · 룩 PT. 밝은 배경(흰 벽·커튼)에서 하이키로. 부케는 가슴 높이, 꽃 정면이 아니라 살짝 위에서 15도 각도로 내려다보면 볼륨이 삽니다.",
     "w": 6144,
     "h": 4096,
-    "thumb": "/gallery/thumbs/g125.webp"
+    "thumb": "/gallery/thumbs/g125.webp",
+    "full": "/gallery/full/g125.webp"
   },
   {
     "id": "g126",
@@ -2329,7 +2454,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g126.webp"
+    "thumb": "/gallery/thumbs/g126.webp",
+    "full": "/gallery/full/g126.webp"
   },
   {
     "id": "g127",
@@ -2347,7 +2473,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 4872,
     "h": 3243,
-    "thumb": "/gallery/thumbs/g127.webp"
+    "thumb": "/gallery/thumbs/g127.webp",
+    "full": "/gallery/full/g127.webp"
   },
   {
     "id": "g128",
@@ -2365,7 +2492,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 3215,
     "h": 4854,
-    "thumb": "/gallery/thumbs/g128.webp"
+    "thumb": "/gallery/thumbs/g128.webp",
+    "full": "/gallery/full/g128.webp"
   },
   {
     "id": "g129",
@@ -2383,7 +2511,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g129.webp"
+    "thumb": "/gallery/thumbs/g129.webp",
+    "full": "/gallery/full/g129.webp"
   },
   {
     "id": "g130",
@@ -2401,7 +2530,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 5342,
     "h": 8009,
-    "thumb": "/gallery/thumbs/g130.webp"
+    "thumb": "/gallery/thumbs/g130.webp",
+    "full": "/gallery/full/g130.webp"
   },
   {
     "id": "g131",
@@ -2419,7 +2549,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 3936,
     "h": 2624,
-    "thumb": "/gallery/thumbs/g131.webp"
+    "thumb": "/gallery/thumbs/g131.webp",
+    "full": "/gallery/full/g131.webp"
   },
   {
     "id": "g132",
@@ -2437,7 +2568,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g132.webp"
+    "thumb": "/gallery/thumbs/g132.webp",
+    "full": "/gallery/full/g132.webp"
   },
   {
     "id": "g133",
@@ -2455,7 +2587,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 5304,
     "h": 3536,
-    "thumb": "/gallery/thumbs/g133.webp"
+    "thumb": "/gallery/thumbs/g133.webp",
+    "full": "/gallery/full/g133.webp"
   },
   {
     "id": "g134",
@@ -2473,7 +2606,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 5616,
     "h": 3744,
-    "thumb": "/gallery/thumbs/g134.webp"
+    "thumb": "/gallery/thumbs/g134.webp",
+    "full": "/gallery/full/g134.webp"
   },
   {
     "id": "g135",
@@ -2491,7 +2625,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g135.webp"
+    "thumb": "/gallery/thumbs/g135.webp",
+    "full": "/gallery/full/g135.webp"
   },
   {
     "id": "g136",
@@ -2509,7 +2644,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 5934,
     "h": 3956,
-    "thumb": "/gallery/thumbs/g136.webp"
+    "thumb": "/gallery/thumbs/g136.webp",
+    "full": "/gallery/full/g136.webp"
   },
   {
     "id": "g137",
@@ -2527,7 +2663,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 3406,
     "h": 4541,
-    "thumb": "/gallery/thumbs/g137.webp"
+    "thumb": "/gallery/thumbs/g137.webp",
+    "full": "/gallery/full/g137.webp"
   },
   {
     "id": "g138",
@@ -2545,7 +2682,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 5472,
     "h": 3648,
-    "thumb": "/gallery/thumbs/g138.webp"
+    "thumb": "/gallery/thumbs/g138.webp",
+    "full": "/gallery/full/g138.webp"
   },
   {
     "id": "g139",
@@ -2563,7 +2701,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 3200,
     "h": 2971,
-    "thumb": "/gallery/thumbs/g139.webp"
+    "thumb": "/gallery/thumbs/g139.webp",
+    "full": "/gallery/full/g139.webp"
   },
   {
     "id": "g140",
@@ -2581,7 +2720,8 @@
     "shootingTip": "A모드 f/1.8 · ISO 오토(상한 3200) · WB 4800K · 노출 +0.3 · 룩 FL. 창가 옆자리 자연광이 핵심. 유리창 반영을 앞보케로 쓰면 스냅 무드가 살아요. 조용한 촬영(무음 셔터) ON.",
     "w": 3177,
     "h": 4765,
-    "thumb": "/gallery/thumbs/g140.webp"
+    "thumb": "/gallery/thumbs/g140.webp",
+    "full": "/gallery/full/g140.webp"
   },
   {
     "id": "g141",
@@ -2600,7 +2740,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g141.webp"
+    "thumb": "/gallery/thumbs/g141.webp",
+    "full": "/gallery/full/g141.webp"
   },
   {
     "id": "g142",
@@ -2619,7 +2760,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 3663,
     "h": 5214,
-    "thumb": "/gallery/thumbs/g142.webp"
+    "thumb": "/gallery/thumbs/g142.webp",
+    "full": "/gallery/full/g142.webp"
   },
   {
     "id": "g143",
@@ -2638,7 +2780,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g143.webp"
+    "thumb": "/gallery/thumbs/g143.webp",
+    "full": "/gallery/full/g143.webp"
   },
   {
     "id": "g144",
@@ -2657,7 +2800,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 3998,
     "h": 4997,
-    "thumb": "/gallery/thumbs/g144.webp"
+    "thumb": "/gallery/thumbs/g144.webp",
+    "full": "/gallery/full/g144.webp"
   },
   {
     "id": "g145",
@@ -2676,7 +2820,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 3929,
     "h": 2619,
-    "thumb": "/gallery/thumbs/g145.webp"
+    "thumb": "/gallery/thumbs/g145.webp",
+    "full": "/gallery/full/g145.webp"
   },
   {
     "id": "g146",
@@ -2695,7 +2840,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 2945,
     "h": 5235,
-    "thumb": "/gallery/thumbs/g146.webp"
+    "thumb": "/gallery/thumbs/g146.webp",
+    "full": "/gallery/full/g146.webp"
   },
   {
     "id": "g147",
@@ -2714,7 +2860,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 3699,
     "h": 5515,
-    "thumb": "/gallery/thumbs/g147.webp"
+    "thumb": "/gallery/thumbs/g147.webp",
+    "full": "/gallery/full/g147.webp"
   },
   {
     "id": "g148",
@@ -2733,7 +2880,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g148.webp"
+    "thumb": "/gallery/thumbs/g148.webp",
+    "full": "/gallery/full/g148.webp"
   },
   {
     "id": "g149",
@@ -2752,7 +2900,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g149.webp"
+    "thumb": "/gallery/thumbs/g149.webp",
+    "full": "/gallery/full/g149.webp"
   },
   {
     "id": "g150",
@@ -2771,7 +2920,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 5708,
     "h": 3805,
-    "thumb": "/gallery/thumbs/g150.webp"
+    "thumb": "/gallery/thumbs/g150.webp",
+    "full": "/gallery/full/g150.webp"
   },
   {
     "id": "g151",
@@ -2790,7 +2940,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 4734,
     "h": 3007,
-    "thumb": "/gallery/thumbs/g151.webp"
+    "thumb": "/gallery/thumbs/g151.webp",
+    "full": "/gallery/full/g151.webp"
   },
   {
     "id": "g152",
@@ -2809,7 +2960,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 5043,
     "h": 2511,
-    "thumb": "/gallery/thumbs/g152.webp"
+    "thumb": "/gallery/thumbs/g152.webp",
+    "full": "/gallery/full/g152.webp"
   },
   {
     "id": "g153",
@@ -2828,7 +2980,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 3840,
     "h": 2160,
-    "thumb": "/gallery/thumbs/g153.webp"
+    "thumb": "/gallery/thumbs/g153.webp",
+    "full": "/gallery/full/g153.webp"
   },
   {
     "id": "g154",
@@ -2847,7 +3000,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 5506,
     "h": 3670,
-    "thumb": "/gallery/thumbs/g154.webp"
+    "thumb": "/gallery/thumbs/g154.webp",
+    "full": "/gallery/full/g154.webp"
   },
   {
     "id": "g155",
@@ -2866,7 +3020,8 @@
     "shootingTip": "A모드 f/2.0 · WB 6000K(따뜻하게) · 노출 -0.3 · 룩 ST에 채도 +1. 늦은 오후 역광에서 낙엽·은행잎을 전경 보케로. 85mm로 압축하면 단풍 배경이 꽉 찹니다.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g155.webp"
+    "thumb": "/gallery/thumbs/g155.webp",
+    "full": "/gallery/full/g155.webp"
   },
   {
     "id": "g156",
@@ -2884,7 +3039,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 3575,
     "h": 5362,
-    "thumb": "/gallery/thumbs/g156.webp"
+    "thumb": "/gallery/thumbs/g156.webp",
+    "full": "/gallery/full/g156.webp"
   },
   {
     "id": "g157",
@@ -2902,7 +3058,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 3600,
     "h": 2400,
-    "thumb": "/gallery/thumbs/g157.webp"
+    "thumb": "/gallery/thumbs/g157.webp",
+    "full": "/gallery/full/g157.webp"
   },
   {
     "id": "g158",
@@ -2920,7 +3077,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 5418,
     "h": 3625,
-    "thumb": "/gallery/thumbs/g158.webp"
+    "thumb": "/gallery/thumbs/g158.webp",
+    "full": "/gallery/full/g158.webp"
   },
   {
     "id": "g159",
@@ -2938,7 +3096,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 3024,
     "h": 3323,
-    "thumb": "/gallery/thumbs/g159.webp"
+    "thumb": "/gallery/thumbs/g159.webp",
+    "full": "/gallery/full/g159.webp"
   },
   {
     "id": "g160",
@@ -2956,7 +3115,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 5383,
     "h": 3200,
-    "thumb": "/gallery/thumbs/g160.webp"
+    "thumb": "/gallery/thumbs/g160.webp",
+    "full": "/gallery/full/g160.webp"
   },
   {
     "id": "g161",
@@ -2974,7 +3134,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 3578,
     "h": 4472,
-    "thumb": "/gallery/thumbs/g161.webp"
+    "thumb": "/gallery/thumbs/g161.webp",
+    "full": "/gallery/full/g161.webp"
   },
   {
     "id": "g162",
@@ -2992,7 +3153,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 6373,
     "h": 4249,
-    "thumb": "/gallery/thumbs/g162.webp"
+    "thumb": "/gallery/thumbs/g162.webp",
+    "full": "/gallery/full/g162.webp"
   },
   {
     "id": "g163",
@@ -3010,7 +3172,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 3600,
     "h": 2880,
-    "thumb": "/gallery/thumbs/g163.webp"
+    "thumb": "/gallery/thumbs/g163.webp",
+    "full": "/gallery/full/g163.webp"
   },
   {
     "id": "g164",
@@ -3028,7 +3191,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g164.webp"
+    "thumb": "/gallery/thumbs/g164.webp",
+    "full": "/gallery/full/g164.webp"
   },
   {
     "id": "g165",
@@ -3046,7 +3210,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 5472,
     "h": 3648,
-    "thumb": "/gallery/thumbs/g165.webp"
+    "thumb": "/gallery/thumbs/g165.webp",
+    "full": "/gallery/full/g165.webp"
   },
   {
     "id": "g166",
@@ -3064,7 +3229,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g166.webp"
+    "thumb": "/gallery/thumbs/g166.webp",
+    "full": "/gallery/full/g166.webp"
   },
   {
     "id": "g167",
@@ -3082,7 +3248,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 7952,
     "h": 5304,
-    "thumb": "/gallery/thumbs/g167.webp"
+    "thumb": "/gallery/thumbs/g167.webp",
+    "full": "/gallery/full/g167.webp"
   },
   {
     "id": "g168",
@@ -3100,7 +3267,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 6720,
     "h": 4480,
-    "thumb": "/gallery/thumbs/g168.webp"
+    "thumb": "/gallery/thumbs/g168.webp",
+    "full": "/gallery/full/g168.webp"
   },
   {
     "id": "g169",
@@ -3118,7 +3286,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g169.webp"
+    "thumb": "/gallery/thumbs/g169.webp",
+    "full": "/gallery/full/g169.webp"
   },
   {
     "id": "g170",
@@ -3136,7 +3305,8 @@
     "shootingTip": "A모드 f/2.8 · 노출 +0.7 · WB 5600K · 룩 PT(파스텔톤). 오전 10시~정오 부드러운 빛에서 밝고 화사하게. 돗자리·소품은 화이트/베이지로 통일하면 톤이 정리됩니다.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g170.webp"
+    "thumb": "/gallery/thumbs/g170.webp",
+    "full": "/gallery/full/g170.webp"
   },
   {
     "id": "g171",
@@ -3154,7 +3324,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 4907,
     "h": 3680,
-    "thumb": "/gallery/thumbs/g171.webp"
+    "thumb": "/gallery/thumbs/g171.webp",
+    "full": "/gallery/full/g171.webp"
   },
   {
     "id": "g172",
@@ -3172,7 +3343,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 2377,
     "h": 3565,
-    "thumb": "/gallery/thumbs/g172.webp"
+    "thumb": "/gallery/thumbs/g172.webp",
+    "full": "/gallery/full/g172.webp"
   },
   {
     "id": "g173",
@@ -3190,7 +3362,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 3927,
     "h": 5890,
-    "thumb": "/gallery/thumbs/g173.webp"
+    "thumb": "/gallery/thumbs/g173.webp",
+    "full": "/gallery/full/g173.webp"
   },
   {
     "id": "g174",
@@ -3208,7 +3381,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 2574,
     "h": 3861,
-    "thumb": "/gallery/thumbs/g174.webp"
+    "thumb": "/gallery/thumbs/g174.webp",
+    "full": "/gallery/full/g174.webp"
   },
   {
     "id": "g175",
@@ -3226,7 +3400,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g175.webp"
+    "thumb": "/gallery/thumbs/g175.webp",
+    "full": "/gallery/full/g175.webp"
   },
   {
     "id": "g176",
@@ -3244,7 +3419,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 5898,
     "h": 3937,
-    "thumb": "/gallery/thumbs/g176.webp"
+    "thumb": "/gallery/thumbs/g176.webp",
+    "full": "/gallery/full/g176.webp"
   },
   {
     "id": "g177",
@@ -3262,7 +3438,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 5910,
     "h": 3945,
-    "thumb": "/gallery/thumbs/g177.webp"
+    "thumb": "/gallery/thumbs/g177.webp",
+    "full": "/gallery/full/g177.webp"
   },
   {
     "id": "g178",
@@ -3280,7 +3457,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 3477,
     "h": 4500,
-    "thumb": "/gallery/thumbs/g178.webp"
+    "thumb": "/gallery/thumbs/g178.webp",
+    "full": "/gallery/full/g178.webp"
   },
   {
     "id": "g179",
@@ -3298,7 +3476,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 5304,
     "h": 7072,
-    "thumb": "/gallery/thumbs/g179.webp"
+    "thumb": "/gallery/thumbs/g179.webp",
+    "full": "/gallery/full/g179.webp"
   },
   {
     "id": "g180",
@@ -3316,7 +3495,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 2574,
     "h": 3861,
-    "thumb": "/gallery/thumbs/g180.webp"
+    "thumb": "/gallery/thumbs/g180.webp",
+    "full": "/gallery/full/g180.webp"
   },
   {
     "id": "g181",
@@ -3334,7 +3514,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 4416,
     "h": 2944,
-    "thumb": "/gallery/thumbs/g181.webp"
+    "thumb": "/gallery/thumbs/g181.webp",
+    "full": "/gallery/full/g181.webp"
   },
   {
     "id": "g182",
@@ -3352,7 +3533,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 7314,
     "h": 5304,
-    "thumb": "/gallery/thumbs/g182.webp"
+    "thumb": "/gallery/thumbs/g182.webp",
+    "full": "/gallery/full/g182.webp"
   },
   {
     "id": "g183",
@@ -3370,7 +3552,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 3397,
     "h": 5089,
-    "thumb": "/gallery/thumbs/g183.webp"
+    "thumb": "/gallery/thumbs/g183.webp",
+    "full": "/gallery/full/g183.webp"
   },
   {
     "id": "g184",
@@ -3388,7 +3571,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 3788,
     "h": 5682,
-    "thumb": "/gallery/thumbs/g184.webp"
+    "thumb": "/gallery/thumbs/g184.webp",
+    "full": "/gallery/full/g184.webp"
   },
   {
     "id": "g185",
@@ -3406,7 +3590,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +1(하이키) · WB 오토 화이트 우선 · 룩 SH 또는 BW. 흰 벽 하나면 충분해요. 창광 하나만 쓰고 그림자를 정리, 여백을 과감하게 2/3 이상 남기기.",
     "w": 3306,
     "h": 4546,
-    "thumb": "/gallery/thumbs/g185.webp"
+    "thumb": "/gallery/thumbs/g185.webp",
+    "full": "/gallery/full/g185.webp"
   },
   {
     "id": "g186",
@@ -3424,7 +3609,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 5472,
     "h": 3648,
-    "thumb": "/gallery/thumbs/g186.webp"
+    "thumb": "/gallery/thumbs/g186.webp",
+    "full": "/gallery/full/g186.webp"
   },
   {
     "id": "g187",
@@ -3442,7 +3628,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 3840,
     "h": 5760,
-    "thumb": "/gallery/thumbs/g187.webp"
+    "thumb": "/gallery/thumbs/g187.webp",
+    "full": "/gallery/full/g187.webp"
   },
   {
     "id": "g188",
@@ -3460,7 +3647,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 4480,
     "h": 6720,
-    "thumb": "/gallery/thumbs/g188.webp"
+    "thumb": "/gallery/thumbs/g188.webp",
+    "full": "/gallery/full/g188.webp"
   },
   {
     "id": "g189",
@@ -3478,7 +3666,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 4745,
     "h": 7114,
-    "thumb": "/gallery/thumbs/g189.webp"
+    "thumb": "/gallery/thumbs/g189.webp",
+    "full": "/gallery/full/g189.webp"
   },
   {
     "id": "g190",
@@ -3496,7 +3685,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g190.webp"
+    "thumb": "/gallery/thumbs/g190.webp",
+    "full": "/gallery/full/g190.webp"
   },
   {
     "id": "g191",
@@ -3514,7 +3704,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 3435,
     "h": 5152,
-    "thumb": "/gallery/thumbs/g191.webp"
+    "thumb": "/gallery/thumbs/g191.webp",
+    "full": "/gallery/full/g191.webp"
   },
   {
     "id": "g192",
@@ -3532,7 +3723,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 2000,
     "h": 3000,
-    "thumb": "/gallery/thumbs/g192.webp"
+    "thumb": "/gallery/thumbs/g192.webp",
+    "full": "/gallery/full/g192.webp"
   },
   {
     "id": "g193",
@@ -3550,7 +3742,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 4480,
     "h": 6720,
-    "thumb": "/gallery/thumbs/g193.webp"
+    "thumb": "/gallery/thumbs/g193.webp",
+    "full": "/gallery/full/g193.webp"
   },
   {
     "id": "g194",
@@ -3568,7 +3761,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g194.webp"
+    "thumb": "/gallery/thumbs/g194.webp",
+    "full": "/gallery/full/g194.webp"
   },
   {
     "id": "g195",
@@ -3586,7 +3780,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 6016,
     "h": 4016,
-    "thumb": "/gallery/thumbs/g195.webp"
+    "thumb": "/gallery/thumbs/g195.webp",
+    "full": "/gallery/full/g195.webp"
   },
   {
     "id": "g196",
@@ -3604,7 +3799,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 3739,
     "h": 5601,
-    "thumb": "/gallery/thumbs/g196.webp"
+    "thumb": "/gallery/thumbs/g196.webp",
+    "full": "/gallery/full/g196.webp"
   },
   {
     "id": "g197",
@@ -3622,7 +3818,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g197.webp"
+    "thumb": "/gallery/thumbs/g197.webp",
+    "full": "/gallery/full/g197.webp"
   },
   {
     "id": "g198",
@@ -3640,7 +3837,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 3840,
     "h": 5760,
-    "thumb": "/gallery/thumbs/g198.webp"
+    "thumb": "/gallery/thumbs/g198.webp",
+    "full": "/gallery/full/g198.webp"
   },
   {
     "id": "g199",
@@ -3658,7 +3856,8 @@
     "shootingTip": "A모드 f/2.0 · ISO 오토 · WB 5500K · 룩 ST. 정면 포즈보다 서로 보고 웃기·걷기·장난치기 같은 동작 지시가 자연스러워요. 연속촬영 Hi + Eye AF면 순간이 잡힙니다.",
     "w": 2403,
     "h": 3600,
-    "thumb": "/gallery/thumbs/g199.webp"
+    "thumb": "/gallery/thumbs/g199.webp",
+    "full": "/gallery/full/g199.webp"
   },
   {
     "id": "g200",
@@ -3676,7 +3875,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 1915,
     "h": 2872,
-    "thumb": "/gallery/thumbs/g200.webp"
+    "thumb": "/gallery/thumbs/g200.webp",
+    "full": "/gallery/full/g200.webp"
   },
   {
     "id": "g201",
@@ -3694,7 +3894,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3822,
     "h": 5733,
-    "thumb": "/gallery/thumbs/g201.webp"
+    "thumb": "/gallery/thumbs/g201.webp",
+    "full": "/gallery/full/g201.webp"
   },
   {
     "id": "g202",
@@ -3712,7 +3913,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 9090,
     "h": 6140,
-    "thumb": "/gallery/thumbs/g202.webp"
+    "thumb": "/gallery/thumbs/g202.webp",
+    "full": "/gallery/full/g202.webp"
   },
   {
     "id": "g203",
@@ -3730,7 +3932,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 4016,
     "h": 6016,
-    "thumb": "/gallery/thumbs/g203.webp"
+    "thumb": "/gallery/thumbs/g203.webp",
+    "full": "/gallery/full/g203.webp"
   },
   {
     "id": "g204",
@@ -3748,7 +3951,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3637,
     "h": 2433,
-    "thumb": "/gallery/thumbs/g204.webp"
+    "thumb": "/gallery/thumbs/g204.webp",
+    "full": "/gallery/full/g204.webp"
   },
   {
     "id": "g205",
@@ -3766,7 +3970,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 5760,
     "h": 3840,
-    "thumb": "/gallery/thumbs/g205.webp"
+    "thumb": "/gallery/thumbs/g205.webp",
+    "full": "/gallery/full/g205.webp"
   },
   {
     "id": "g206",
@@ -3784,7 +3989,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3798,
     "h": 5685,
-    "thumb": "/gallery/thumbs/g206.webp"
+    "thumb": "/gallery/thumbs/g206.webp",
+    "full": "/gallery/full/g206.webp"
   },
   {
     "id": "g207",
@@ -3802,7 +4008,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3362,
     "h": 5022,
-    "thumb": "/gallery/thumbs/g207.webp"
+    "thumb": "/gallery/thumbs/g207.webp",
+    "full": "/gallery/full/g207.webp"
   },
   {
     "id": "g208",
@@ -3820,7 +4027,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 6016,
     "h": 4016,
-    "thumb": "/gallery/thumbs/g208.webp"
+    "thumb": "/gallery/thumbs/g208.webp",
+    "full": "/gallery/full/g208.webp"
   },
   {
     "id": "g209",
@@ -3838,7 +4046,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3642,
     "h": 5490,
-    "thumb": "/gallery/thumbs/g209.webp"
+    "thumb": "/gallery/thumbs/g209.webp",
+    "full": "/gallery/full/g209.webp"
   },
   {
     "id": "g210",
@@ -3856,7 +4065,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3642,
     "h": 5490,
-    "thumb": "/gallery/thumbs/g210.webp"
+    "thumb": "/gallery/thumbs/g210.webp",
+    "full": "/gallery/full/g210.webp"
   },
   {
     "id": "g211",
@@ -3874,7 +4084,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 2624,
     "h": 3504,
-    "thumb": "/gallery/thumbs/g211.webp"
+    "thumb": "/gallery/thumbs/g211.webp",
+    "full": "/gallery/full/g211.webp"
   },
   {
     "id": "g212",
@@ -3892,7 +4103,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3648,
     "h": 5472,
-    "thumb": "/gallery/thumbs/g212.webp"
+    "thumb": "/gallery/thumbs/g212.webp",
+    "full": "/gallery/full/g212.webp"
   },
   {
     "id": "g213",
@@ -3910,7 +4122,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 4480,
     "h": 6720,
-    "thumb": "/gallery/thumbs/g213.webp"
+    "thumb": "/gallery/thumbs/g213.webp",
+    "full": "/gallery/full/g213.webp"
   },
   {
     "id": "g214",
@@ -3928,7 +4141,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.3(살짝 오버) · WB 5600K+M1 · 룩 FL에 콘트라스트 -1. 필름 톤의 핵심은 하이라이트를 부드럽게 — 해 질 무렵 간접광에서, 그림자는 뭉개져도 OK.",
     "w": 3000,
     "h": 1987,
-    "thumb": "/gallery/thumbs/g214.webp"
+    "thumb": "/gallery/thumbs/g214.webp",
+    "full": "/gallery/full/g214.webp"
   },
   {
     "id": "g215",
@@ -3946,7 +4160,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 3856,
     "h": 5784,
-    "thumb": "/gallery/thumbs/g215.webp"
+    "thumb": "/gallery/thumbs/g215.webp",
+    "full": "/gallery/full/g215.webp"
   },
   {
     "id": "g216",
@@ -3964,7 +4179,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 6988,
     "h": 4504,
-    "thumb": "/gallery/thumbs/g216.webp"
+    "thumb": "/gallery/thumbs/g216.webp",
+    "full": "/gallery/full/g216.webp"
   },
   {
     "id": "g217",
@@ -3982,7 +4198,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 6240,
     "h": 4160,
-    "thumb": "/gallery/thumbs/g217.webp"
+    "thumb": "/gallery/thumbs/g217.webp",
+    "full": "/gallery/full/g217.webp"
   },
   {
     "id": "g218",
@@ -4000,7 +4217,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 5184,
     "h": 3888,
-    "thumb": "/gallery/thumbs/g218.webp"
+    "thumb": "/gallery/thumbs/g218.webp",
+    "full": "/gallery/full/g218.webp"
   },
   {
     "id": "g219",
@@ -4018,7 +4236,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g219.webp"
+    "thumb": "/gallery/thumbs/g219.webp",
+    "full": "/gallery/full/g219.webp"
   },
   {
     "id": "g220",
@@ -4036,7 +4255,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 4243,
     "h": 2388,
-    "thumb": "/gallery/thumbs/g220.webp"
+    "thumb": "/gallery/thumbs/g220.webp",
+    "full": "/gallery/full/g220.webp"
   },
   {
     "id": "g221",
@@ -4054,7 +4274,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 2928,
     "h": 1941,
-    "thumb": "/gallery/thumbs/g221.webp"
+    "thumb": "/gallery/thumbs/g221.webp",
+    "full": "/gallery/full/g221.webp"
   },
   {
     "id": "g222",
@@ -4072,7 +4293,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 3747,
     "h": 3747,
-    "thumb": "/gallery/thumbs/g222.webp"
+    "thumb": "/gallery/thumbs/g222.webp",
+    "full": "/gallery/full/g222.webp"
   },
   {
     "id": "g223",
@@ -4090,7 +4312,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 3181,
     "h": 4644,
-    "thumb": "/gallery/thumbs/g223.webp"
+    "thumb": "/gallery/thumbs/g223.webp",
+    "full": "/gallery/full/g223.webp"
   },
   {
     "id": "g224",
@@ -4108,7 +4331,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 3567,
     "h": 5351,
-    "thumb": "/gallery/thumbs/g224.webp"
+    "thumb": "/gallery/thumbs/g224.webp",
+    "full": "/gallery/full/g224.webp"
   },
   {
     "id": "g225",
@@ -4126,7 +4350,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 5349,
     "h": 8024,
-    "thumb": "/gallery/thumbs/g225.webp"
+    "thumb": "/gallery/thumbs/g225.webp",
+    "full": "/gallery/full/g225.webp"
   },
   {
     "id": "g226",
@@ -4144,7 +4369,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 5237,
     "h": 7855,
-    "thumb": "/gallery/thumbs/g226.webp"
+    "thumb": "/gallery/thumbs/g226.webp",
+    "full": "/gallery/full/g226.webp"
   },
   {
     "id": "g227",
@@ -4162,7 +4388,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 6720,
     "h": 4480,
-    "thumb": "/gallery/thumbs/g227.webp"
+    "thumb": "/gallery/thumbs/g227.webp",
+    "full": "/gallery/full/g227.webp"
   },
   {
     "id": "g228",
@@ -4180,7 +4407,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 5760,
     "h": 3840,
-    "thumb": "/gallery/thumbs/g228.webp"
+    "thumb": "/gallery/thumbs/g228.webp",
+    "full": "/gallery/full/g228.webp"
   },
   {
     "id": "g229",
@@ -4198,7 +4426,8 @@
     "shootingTip": "A모드 f/2.8 · WB 5500K · 노출 -0.3 · 룩 ST(채도 과하지 않게). 한복 원색은 채도를 올리면 촌스러워져요 — 그늘 균일광에서 색 그대로. 처마·담장 라인을 프레임으로 활용.",
     "w": 5184,
     "h": 3888,
-    "thumb": "/gallery/thumbs/g229.webp"
+    "thumb": "/gallery/thumbs/g229.webp",
+    "full": "/gallery/full/g229.webp"
   },
   {
     "id": "g230",
@@ -4217,7 +4446,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g230.webp"
+    "thumb": "/gallery/thumbs/g230.webp",
+    "full": "/gallery/full/g230.webp"
   },
   {
     "id": "g231",
@@ -4236,7 +4466,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 4089,
     "h": 6134,
-    "thumb": "/gallery/thumbs/g231.webp"
+    "thumb": "/gallery/thumbs/g231.webp",
+    "full": "/gallery/full/g231.webp"
   },
   {
     "id": "g232",
@@ -4255,7 +4486,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 1826,
     "h": 2740,
-    "thumb": "/gallery/thumbs/g232.webp"
+    "thumb": "/gallery/thumbs/g232.webp",
+    "full": "/gallery/full/g232.webp"
   },
   {
     "id": "g233",
@@ -4274,7 +4506,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 2770,
     "h": 4154,
-    "thumb": "/gallery/thumbs/g233.webp"
+    "thumb": "/gallery/thumbs/g233.webp",
+    "full": "/gallery/full/g233.webp"
   },
   {
     "id": "g234",
@@ -4293,7 +4526,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 3226,
     "h": 4870,
-    "thumb": "/gallery/thumbs/g234.webp"
+    "thumb": "/gallery/thumbs/g234.webp",
+    "full": "/gallery/full/g234.webp"
   },
   {
     "id": "g235",
@@ -4312,7 +4546,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 4581,
     "h": 6872,
-    "thumb": "/gallery/thumbs/g235.webp"
+    "thumb": "/gallery/thumbs/g235.webp",
+    "full": "/gallery/full/g235.webp"
   },
   {
     "id": "g236",
@@ -4331,7 +4566,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 4032,
     "h": 3024,
-    "thumb": "/gallery/thumbs/g236.webp"
+    "thumb": "/gallery/thumbs/g236.webp",
+    "full": "/gallery/full/g236.webp"
   },
   {
     "id": "g237",
@@ -4350,7 +4586,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 3456,
     "h": 5184,
-    "thumb": "/gallery/thumbs/g237.webp"
+    "thumb": "/gallery/thumbs/g237.webp",
+    "full": "/gallery/full/g237.webp"
   },
   {
     "id": "g238",
@@ -4369,7 +4606,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 3840,
     "h": 2160,
-    "thumb": "/gallery/thumbs/g238.webp"
+    "thumb": "/gallery/thumbs/g238.webp",
+    "full": "/gallery/full/g238.webp"
   },
   {
     "id": "g239",
@@ -4388,7 +4626,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 3188,
     "h": 4251,
-    "thumb": "/gallery/thumbs/g239.webp"
+    "thumb": "/gallery/thumbs/g239.webp",
+    "full": "/gallery/full/g239.webp"
   },
   {
     "id": "g240",
@@ -4407,7 +4646,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 5184,
     "h": 3456,
-    "thumb": "/gallery/thumbs/g240.webp"
+    "thumb": "/gallery/thumbs/g240.webp",
+    "full": "/gallery/full/g240.webp"
   },
   {
     "id": "g241",
@@ -4426,7 +4666,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 6016,
     "h": 3760,
-    "thumb": "/gallery/thumbs/g241.webp"
+    "thumb": "/gallery/thumbs/g241.webp",
+    "full": "/gallery/full/g241.webp"
   },
   {
     "id": "g242",
@@ -4445,7 +4686,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 4160,
     "h": 6240,
-    "thumb": "/gallery/thumbs/g242.webp"
+    "thumb": "/gallery/thumbs/g242.webp",
+    "full": "/gallery/full/g242.webp"
   },
   {
     "id": "g243",
@@ -4464,7 +4706,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 3840,
     "h": 2560,
-    "thumb": "/gallery/thumbs/g243.webp"
+    "thumb": "/gallery/thumbs/g243.webp",
+    "full": "/gallery/full/g243.webp"
   },
   {
     "id": "g244",
@@ -4483,7 +4726,8 @@
     "shootingTip": "블루아워 추천: A모드 f/4 · ISO 400 · WB 4500K · 룩 ST. 삼각대 세우고 1~2초 장노출이면 물이 부드러워집니다(인물은 정지 유지). 다리 조명 켜지는 일몰 직후 20분이 피크.",
     "w": 4480,
     "h": 6720,
-    "thumb": "/gallery/thumbs/g244.webp"
+    "thumb": "/gallery/thumbs/g244.webp",
+    "full": "/gallery/full/g244.webp"
   },
   {
     "id": "g245",
@@ -4501,7 +4745,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 2447,
     "h": 3671,
-    "thumb": "/gallery/thumbs/g245.webp"
+    "thumb": "/gallery/thumbs/g245.webp",
+    "full": "/gallery/full/g245.webp"
   },
   {
     "id": "g246",
@@ -4519,7 +4764,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 3942,
     "h": 5913,
-    "thumb": "/gallery/thumbs/g246.webp"
+    "thumb": "/gallery/thumbs/g246.webp",
+    "full": "/gallery/full/g246.webp"
   },
   {
     "id": "g247",
@@ -4537,7 +4783,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 3668,
     "h": 5502,
-    "thumb": "/gallery/thumbs/g247.webp"
+    "thumb": "/gallery/thumbs/g247.webp",
+    "full": "/gallery/full/g247.webp"
   },
   {
     "id": "g248",
@@ -4555,7 +4802,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 3622,
     "h": 5433,
-    "thumb": "/gallery/thumbs/g248.webp"
+    "thumb": "/gallery/thumbs/g248.webp",
+    "full": "/gallery/full/g248.webp"
   },
   {
     "id": "g249",
@@ -4573,7 +4821,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 2160,
     "h": 3240,
-    "thumb": "/gallery/thumbs/g249.webp"
+    "thumb": "/gallery/thumbs/g249.webp",
+    "full": "/gallery/full/g249.webp"
   },
   {
     "id": "g250",
@@ -4591,7 +4840,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 4100,
     "h": 2738,
-    "thumb": "/gallery/thumbs/g250.webp"
+    "thumb": "/gallery/thumbs/g250.webp",
+    "full": "/gallery/full/g250.webp"
   },
   {
     "id": "g251",
@@ -4609,7 +4859,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 3168,
     "h": 4752,
-    "thumb": "/gallery/thumbs/g251.webp"
+    "thumb": "/gallery/thumbs/g251.webp",
+    "full": "/gallery/full/g251.webp"
   },
   {
     "id": "g252",
@@ -4627,7 +4878,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 4016,
     "h": 6016,
-    "thumb": "/gallery/thumbs/g252.webp"
+    "thumb": "/gallery/thumbs/g252.webp",
+    "full": "/gallery/full/g252.webp"
   },
   {
     "id": "g253",
@@ -4645,7 +4897,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 3455,
     "h": 5183,
-    "thumb": "/gallery/thumbs/g253.webp"
+    "thumb": "/gallery/thumbs/g253.webp",
+    "full": "/gallery/full/g253.webp"
   },
   {
     "id": "g254",
@@ -4663,7 +4916,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 6000,
     "h": 4000,
-    "thumb": "/gallery/thumbs/g254.webp"
+    "thumb": "/gallery/thumbs/g254.webp",
+    "full": "/gallery/full/g254.webp"
   },
   {
     "id": "g255",
@@ -4681,7 +4935,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 5945,
     "h": 3963,
-    "thumb": "/gallery/thumbs/g255.webp"
+    "thumb": "/gallery/thumbs/g255.webp",
+    "full": "/gallery/full/g255.webp"
   },
   {
     "id": "g256",
@@ -4699,7 +4954,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g256.webp"
+    "thumb": "/gallery/thumbs/g256.webp",
+    "full": "/gallery/full/g256.webp"
   },
   {
     "id": "g257",
@@ -4717,7 +4973,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 5906,
     "h": 3936,
-    "thumb": "/gallery/thumbs/g257.webp"
+    "thumb": "/gallery/thumbs/g257.webp",
+    "full": "/gallery/full/g257.webp"
   },
   {
     "id": "g258",
@@ -4735,7 +4992,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 3936,
     "h": 5905,
-    "thumb": "/gallery/thumbs/g258.webp"
+    "thumb": "/gallery/thumbs/g258.webp",
+    "full": "/gallery/full/g258.webp"
   },
   {
     "id": "g259",
@@ -4753,7 +5011,8 @@
     "shootingTip": "A모드 f/2.0 · 노출 +0.7~1(꽃잎 하얗게) · WB 5600K+M1(핑크 살리기) · 룩 PT. 역광에서 꽃가지를 전경 보케로 걸치는 게 공식. 바람 부는 날 꽃비는 셔터 1/1000.",
     "w": 4000,
     "h": 6000,
-    "thumb": "/gallery/thumbs/g259.webp"
+    "thumb": "/gallery/thumbs/g259.webp",
+    "full": "/gallery/full/g259.webp"
   },
   {
     "id": "g260",
@@ -4772,7 +5031,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 4531,
     "h": 3021,
-    "thumb": "/gallery/thumbs/g260.webp"
+    "thumb": "/gallery/thumbs/g260.webp",
+    "full": "/gallery/full/g260.webp"
   },
   {
     "id": "g261",
@@ -4791,7 +5051,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 4888,
     "h": 3259,
-    "thumb": "/gallery/thumbs/g261.webp"
+    "thumb": "/gallery/thumbs/g261.webp",
+    "full": "/gallery/full/g261.webp"
   },
   {
     "id": "g262",
@@ -4810,7 +5071,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 4129,
     "h": 2766,
-    "thumb": "/gallery/thumbs/g262.webp"
+    "thumb": "/gallery/thumbs/g262.webp",
+    "full": "/gallery/full/g262.webp"
   },
   {
     "id": "g263",
@@ -4829,7 +5091,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 5358,
     "h": 6430,
-    "thumb": "/gallery/thumbs/g263.webp"
+    "thumb": "/gallery/thumbs/g263.webp",
+    "full": "/gallery/full/g263.webp"
   },
   {
     "id": "g264",
@@ -4848,7 +5111,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 5028,
     "h": 7539,
-    "thumb": "/gallery/thumbs/g264.webp"
+    "thumb": "/gallery/thumbs/g264.webp",
+    "full": "/gallery/full/g264.webp"
   },
   {
     "id": "g265",
@@ -4867,7 +5131,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 5000,
     "h": 4211,
-    "thumb": "/gallery/thumbs/g265.webp"
+    "thumb": "/gallery/thumbs/g265.webp",
+    "full": "/gallery/full/g265.webp"
   },
   {
     "id": "g266",
@@ -4886,7 +5151,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3045,
     "h": 4567,
-    "thumb": "/gallery/thumbs/g266.webp"
+    "thumb": "/gallery/thumbs/g266.webp",
+    "full": "/gallery/full/g266.webp"
   },
   {
     "id": "g267",
@@ -4905,7 +5171,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3662,
     "h": 5482,
-    "thumb": "/gallery/thumbs/g267.webp"
+    "thumb": "/gallery/thumbs/g267.webp",
+    "full": "/gallery/full/g267.webp"
   },
   {
     "id": "g268",
@@ -4924,7 +5191,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3815,
     "h": 5722,
-    "thumb": "/gallery/thumbs/g268.webp"
+    "thumb": "/gallery/thumbs/g268.webp",
+    "full": "/gallery/full/g268.webp"
   },
   {
     "id": "g269",
@@ -4943,7 +5211,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3992,
     "h": 5976,
-    "thumb": "/gallery/thumbs/g269.webp"
+    "thumb": "/gallery/thumbs/g269.webp",
+    "full": "/gallery/full/g269.webp"
   },
   {
     "id": "g270",
@@ -4962,7 +5231,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3896,
     "h": 5325,
-    "thumb": "/gallery/thumbs/g270.webp"
+    "thumb": "/gallery/thumbs/g270.webp",
+    "full": "/gallery/full/g270.webp"
   },
   {
     "id": "g271",
@@ -4981,7 +5251,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3264,
     "h": 4896,
-    "thumb": "/gallery/thumbs/g271.webp"
+    "thumb": "/gallery/thumbs/g271.webp",
+    "full": "/gallery/full/g271.webp"
   },
   {
     "id": "g272",
@@ -5000,7 +5271,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3229,
     "h": 4843,
-    "thumb": "/gallery/thumbs/g272.webp"
+    "thumb": "/gallery/thumbs/g272.webp",
+    "full": "/gallery/full/g272.webp"
   },
   {
     "id": "g273",
@@ -5019,7 +5291,8 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 3903,
     "h": 5843,
-    "thumb": "/gallery/thumbs/g273.webp"
+    "thumb": "/gallery/thumbs/g273.webp",
+    "full": "/gallery/full/g273.webp"
   },
   {
     "id": "g274",
@@ -5038,6 +5311,7 @@
     "shootingTip": "M모드 f/2.8 · 셔터 1/160 · ISO 100~400 · WB 광원에 맞춤 · 룩 BW(SE도 시도). 창광 하나+반사판이면 스튜디오 느낌 납니다. 배경과 2m 띄우고 단일 광원으로 명암 대비.",
     "w": 4928,
     "h": 3264,
-    "thumb": "/gallery/thumbs/g274.webp"
+    "thumb": "/gallery/thumbs/g274.webp",
+    "full": "/gallery/full/g274.webp"
   }
 ]

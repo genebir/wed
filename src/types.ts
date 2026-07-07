@@ -41,6 +41,8 @@ export interface GalleryItem {
   h?: number
   /** 자체 호스팅 400px 썸네일 (그리드용 — CDN 왕복 없이 로드) */
   thumb?: string
+  /** 자체 호스팅 1000px 원본급 (라이트박스용) */
+  full?: string
 }
 
 export interface BudgetItem {

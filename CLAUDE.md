@@ -92,7 +92,7 @@
 현재 274장: Unsplash(자유 라이선스) CDN 핫링크 262장 + 로컬 webp 12장.
 
 - 항목에 `shootingTip`(A7C II 촬영 레시피), `w`/`h`(원본 픽셀 크기 — lazy loading용 공간 예약) 필드 포함
-- 그리드는 w=400 썸네일, 라이트박스는 w=1200 (`galleryImageUrl()` in `src/lib/assets.ts`)
+- 이미지는 전부 자체 호스팅: 그리드 400px(`/gallery/thumbs/`), 라이트박스 1000px(`/gallery/full/`) — Unsplash URL은 출처/폴백용. SW가 `/gallery/`를 cache-first로 캐시
 - 직접 찍거나 저장한 이미지 추가는 `refs-inbox/`에 넣고 `npm run refs` (webp 변환 + JSON 등록 자동)
 - 찜(`gallery-favs`)과 샷 리스트 보내기(`custom-shots`) 지원
 

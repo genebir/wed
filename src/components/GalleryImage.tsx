@@ -24,11 +24,14 @@ export function GalleryImage({ item, className = '', variant = 'thumb' }: Galler
     )
   }
 
-  // 그리드는 자체 호스팅 썸네일 우선 (외부 CDN 왕복 제거), 라이트박스는 원본급
-  const src =
-    variant === 'thumb' && item.thumb
-      ? assetUrl(item.thumb)
-      : galleryImageUrl(item.image, variant)
+  // 전부 자체 호스팅: 그리드 400px, 라이트박스 1000px (Unsplash는 폴백)
+  const hosted = variant === 'thumb' ? item.thumb : item.full
+  const src = hosted ? assetUrl(hosted) : galleryImageUrl(item.image, variant)
+  // 라이트박스: 이미 캐시된 썸네일을 배경으로 먼저 보여줘 체감 즉시 오픈
+  const blurUp =
+    variant === 'full' && item.thumb
+      ? { backgroundImage: `url(${assetUrl(item.thumb)})`, backgroundSize: 'cover' }
+      : undefined
 
   return (
     <img
@@ -39,6 +42,7 @@ export function GalleryImage({ item, className = '', variant = 'thumb' }: Galler
       loading="lazy"
       decoding="async"
       onError={() => setFailed(true)}
+      style={blurUp}
       className={`h-auto w-full bg-beige-100 ${className}`}
     />
   )
