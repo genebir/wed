@@ -7,3 +7,9 @@
  */
 export const SUPABASE_URL: string = 'https://dbccgazqwwopevddhvhp.supabase.co'
 export const SUPABASE_ANON_KEY: string = 'sb_publishable_YTFahn2pxxzQTuVD6rywuw_GvAI4zZb'
+
+/**
+ * 기본 공유 공간 — 코드 입력 없이 사이트를 여는 모두가 자동으로 여기 연결된다.
+ * (공개 사이트 전제. 사적인 공간이 필요하면 설정에서 커스텀 코드로 전환)
+ */
+export const DEFAULT_SPACE_ID: string = '0c792276-1e13-42b0-86e7-3c8e549277b2'

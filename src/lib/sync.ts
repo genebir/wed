@@ -1,4 +1,4 @@
-import { SUPABASE_ANON_KEY, SUPABASE_URL } from './syncConfig'
+import { DEFAULT_SPACE_ID, SUPABASE_ANON_KEY, SUPABASE_URL } from './syncConfig'
 
 /**
  * 아주 작은 key-value 동기화 레이어.
@@ -13,12 +13,18 @@ export function isSyncConfigured(): boolean {
   return SUPABASE_URL !== '' && SUPABASE_ANON_KEY !== ''
 }
 
-export function getSpaceId(): string | null {
+/** 직접 설정한 커스텀 코드 (없으면 null) */
+export function getCustomSpaceId(): string | null {
   try {
     return window.localStorage.getItem(SPACE_KEY)
   } catch {
     return null
   }
+}
+
+/** 실제 사용할 공간: 커스텀 코드 > 기본 공유 공간 */
+export function getSpaceId(): string | null {
+  return getCustomSpaceId() ?? (DEFAULT_SPACE_ID || null)
 }
 
 export function setSpaceId(id: string | null): void {

@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Check, Cloud, CloudOff, Copy, X } from 'lucide-react'
-import { getSpaceId, isSyncConfigured, setSpaceId } from '../lib/sync'
+import { getCustomSpaceId, isSyncConfigured, setSpaceId } from '../lib/sync'
 import { Card } from './Card'
 
 interface SyncSettingsProps {
@@ -8,10 +8,10 @@ interface SyncSettingsProps {
 }
 
 export function SyncSettings({ onClose }: SyncSettingsProps) {
-  const [code, setCode] = useState(getSpaceId() ?? '')
+  const [code, setCode] = useState(getCustomSpaceId() ?? '')
   const [saved, setSaved] = useState(false)
   const [copied, setCopied] = useState(false)
-  const active = getSpaceId() !== null
+  const usingCustom = getCustomSpaceId() !== null
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -34,11 +34,11 @@ export function SyncSettings({ onClose }: SyncSettingsProps) {
       className="fixed inset-0 z-50 flex items-center justify-center bg-ink/70 p-5 backdrop-blur-sm"
       onClick={onClose}
     >
-      <Card className="w-full max-w-md p-6" >
+      <Card className="w-full max-w-md p-6">
         <div onClick={(e) => e.stopPropagation()}>
           <div className="mb-4 flex items-center justify-between">
             <h2 className="flex items-center gap-2 text-lg font-semibold">
-              {active ? (
+              {isSyncConfigured() ? (
                 <Cloud size={18} className="text-blush-400" />
               ) : (
                 <CloudOff size={18} className="text-muted" />
@@ -53,14 +53,26 @@ export function SyncSettings({ onClose }: SyncSettingsProps) {
           {!isSyncConfigured() ? (
             <p className="text-sm leading-relaxed text-muted">
               아직 Supabase가 연결되지 않았어요. README의 <strong>둘이 동기화 켜기</strong>{' '}
-              섹션대로 프로젝트를 만들고 <code>src/lib/syncConfig.ts</code>를 채우면 여기가
-              활성화됩니다. 그 전까지 체크·찜은 이 기기에만 저장돼요.
+              섹션을 참고하세요.
             </p>
           ) : (
             <div className="space-y-4">
-              <p className="text-sm leading-relaxed text-muted">
-                같은 <strong>공유 코드</strong>를 두 사람 폰에 입력하면 체크리스트·찜·예산이
-                공유돼요. 한 명이 코드를 만들어 상대에게 보내주세요.
+              <p className="rounded-xl bg-beige-50 p-3 text-sm leading-relaxed text-muted">
+                {usingCustom ? (
+                  <>
+                    <strong>커스텀 코드</strong>로 연결 중 — 같은 코드를 입력한 기기끼리만
+                    공유돼요.
+                  </>
+                ) : (
+                  <>
+                    <strong>기본 공유</strong>로 연결 중 — 별도 설정 없이 이 사이트를 여는
+                    모든 기기와 체크·찜·예산이 공유돼요. ✓
+                  </>
+                )}
+              </p>
+              <p className="text-xs leading-relaxed text-muted">
+                우리만의 비공개 공간이 필요하면 새 코드를 만들어 두 사람 기기에 같은 코드를
+                입력하세요.
               </p>
               <div className="flex gap-2">
                 <input
@@ -98,24 +110,20 @@ export function SyncSettings({ onClose }: SyncSettingsProps) {
                 >
                   {saved ? '저장됨 ✓' : '이 코드로 연결'}
                 </button>
-                {active && (
+                {usingCustom && (
                   <button
                     type="button"
                     onClick={() => {
                       setSpaceId(null)
                       setCode('')
+                      onClose()
                     }}
                     className="rounded-full px-4 py-2 text-sm text-muted hover:text-ink"
                   >
-                    연결 해제
+                    기본 공유로 돌아가기
                   </button>
                 )}
               </div>
-              {active && (
-                <p className="text-xs text-muted">
-                  연결됨 — 변경 사항은 몇 초 안에 올라가고, 상대 기기는 20초 이내 반영돼요.
-                </p>
-              )}
             </div>
           )}
         </div>
