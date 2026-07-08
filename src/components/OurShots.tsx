@@ -1,15 +1,15 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useMemo, useRef, useState } from 'react'
 import { format } from 'date-fns'
 import { ImagePlus, Loader2, Trash2 } from 'lucide-react'
 import { supabase } from '../lib/supabase'
 import { useSharedState } from '../hooks/useSharedState'
 import { useColumnCount } from '../hooks/useColumnCount'
+import { useShotUrls } from '../hooks/useShotUrls'
 import { Lightbox } from './Lightbox'
 import { FadeUp } from './FadeUp'
 import type { GalleryItem, OurShot } from '../types'
 
 const BUCKET = 'shots'
-const SIGNED_URL_TTL = 60 * 60 * 24 * 7 // 7일
 
 /** 브라우저에서 리사이즈 (EXIF 회전 반영) 후 webp Blob 생성 */
 async function resizeImage(
@@ -33,31 +33,12 @@ async function resizeImage(
 
 export function OurShots() {
   const [shots, setShots] = useSharedState<OurShot[]>('our-shots', [])
-  const [urls, setUrls] = useState<Record<string, string>>({})
   const [uploading, setUploading] = useState(0)
   const [error, setError] = useState('')
   const [selected, setSelected] = useState<OurShot | null>(null)
   const fileRef = useRef<HTMLInputElement>(null)
   const columnCount = useColumnCount()
-
-  // 비공개 버킷 → 로그인 세션으로 서명 URL 발급
-  useEffect(() => {
-    const missing = shots.map((s) => s.path).filter((p) => !(p in urls))
-    if (missing.length === 0) return
-    supabase.storage
-      .from(BUCKET)
-      .createSignedUrls(missing, SIGNED_URL_TTL)
-      .then(({ data }) => {
-        if (!data) return
-        setUrls((prev) => {
-          const next = { ...prev }
-          data.forEach((d) => {
-            if (d.path && d.signedUrl) next[d.path] = d.signedUrl
-          })
-          return next
-        })
-      })
-  }, [shots, urls])
+  const urls = useShotUrls(shots.map((s) => s.path))
 
   const columns = useMemo(() => {
     const cols = Array.from({ length: columnCount }, () => ({

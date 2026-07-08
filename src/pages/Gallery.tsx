@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { Camera, Heart, Images } from 'lucide-react'
 import { gallery } from '../data'
 import { filterGallery, toggleValue } from '../lib/filter'
@@ -19,7 +20,10 @@ const MOODS = [...new Set([...MOOD_PRESETS, ...gallery.flatMap((g) => g.moods)])
 const LOCATIONS = [...new Set([...LOCATION_PRESETS, ...gallery.flatMap((g) => g.locations)])]
 
 export function Gallery() {
-  const [tab, setTab] = useState<'refs' | 'ours'>('refs')
+  const [params] = useSearchParams()
+  const [tab, setTab] = useState<'refs' | 'ours'>(
+    params.get('tab') === 'ours' ? 'ours' : 'refs',
+  )
 
   return (
     <div className="py-20">

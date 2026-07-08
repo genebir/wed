@@ -1,8 +1,10 @@
 import { Link } from 'react-router-dom'
-import { ArrowRight, Camera, CircleCheck, Sparkles } from 'lucide-react'
+import { ArrowRight, Camera, CircleCheck, Heart, Sparkles } from 'lucide-react'
 import { checklist, gallery, timeline, wedding } from '../data'
 import { useDday } from '../hooks/useDday'
 import { useSharedState } from '../hooks/useSharedState'
+import { useShotUrls } from '../hooks/useShotUrls'
+import type { OurShot } from '../types'
 import { currentMonthKey, formatDateKo, formatMonthKo } from '../lib/date'
 import { isItemDone, progressOf, type DoneState } from '../lib/progress'
 import { Card } from '../components/Card'
@@ -21,6 +23,9 @@ export function Home() {
   )
   const monthTodos = checklist.filter((c) => c.month === month && !isItemDone(c, doneState))
   const recentRefs = gallery.slice(0, 4)
+  const [ourShots] = useSharedState<OurShot[]>('our-shots', [])
+  const recentShots = ourShots.slice(0, 4) // 최신순 저장이라 앞에서부터
+  const shotUrls = useShotUrls(recentShots.map((s) => s.path))
 
   return (
     <div className="space-y-20 py-20">
@@ -115,6 +120,50 @@ export function Home() {
           </div>
         </section>
       </FadeUp>
+
+      {/* 우리가 찍은 컷 */}
+      {recentShots.length > 0 && (
+        <FadeUp delay={180}>
+          <section>
+            <div className="mb-6 flex items-end justify-between">
+              <h2 className="flex items-center gap-2 text-2xl font-bold tracking-tight">
+                <Heart size={22} className="text-blush-400" />
+                우리가 찍은 컷
+              </h2>
+              <Link
+                to="/gallery?tab=ours"
+                className="flex items-center gap-1 text-sm text-muted hover:text-ink"
+              >
+                전체 보기 <ArrowRight size={14} />
+              </Link>
+            </div>
+            <div className="grid grid-cols-2 gap-4 md:grid-cols-4">
+              {recentShots.map((shot) => {
+                const url = shotUrls[shot.path]
+                return (
+                  <Link key={shot.id} to="/gallery?tab=ours">
+                    <Card className="overflow-hidden transition-transform hover:scale-[1.02]">
+                      {url ? (
+                        <img
+                          src={url}
+                          alt={shot.memo ?? '우리 컷'}
+                          width={shot.w}
+                          height={shot.h}
+                          loading="lazy"
+                          decoding="async"
+                          className="aspect-[3/4] w-full bg-beige-100 object-cover"
+                        />
+                      ) : (
+                        <div className="aspect-[3/4] w-full animate-pulse bg-beige-100" />
+                      )}
+                    </Card>
+                  </Link>
+                )
+              })}
+            </div>
+          </section>
+        </FadeUp>
+      )}
 
       {/* 스냅 레퍼런스 미리보기 */}
       <FadeUp delay={200}>
