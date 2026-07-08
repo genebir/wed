@@ -63,6 +63,34 @@ export interface OurShot {
   uploadedAt: string // 'yyyy-MM-dd'
 }
 
+/** 홈 '오늘의 한마디' — author는 로그인 이메일 */
+export interface DailyNote {
+  id: string
+  author: string
+  text: string
+  date: string // 'yyyy-MM-dd'
+}
+
+export interface Anniversary {
+  id: string
+  title: string
+  date: string // 'yyyy-MM-dd'
+}
+
+export interface BucketItem {
+  id: string
+  text: string
+  done: boolean
+}
+
+export interface TimeCapsuleLetter {
+  text: string
+  updatedAt: string
+}
+
+/** 본식 날까지 서로 못 보는 편지 — key는 로그인 이메일 */
+export type TimeCapsule = Record<string, TimeCapsuleLetter>
+
 export type VendorStatus = '알아보는중' | '상담예약' | '계약완료'
 
 export interface Vendor {

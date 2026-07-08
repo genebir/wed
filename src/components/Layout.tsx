@@ -5,6 +5,7 @@ import {
   Camera,
   Cloud,
   CloudOff,
+  Heart,
   Home,
   Images,
   ListChecks,
@@ -22,6 +23,7 @@ const NAV_ITEMS = [
   { to: '/snap-plan', label: '스냅', icon: Camera },
   { to: '/budget', label: '예산', icon: Wallet },
   { to: '/vendors', label: '업체', icon: Store },
+  { to: '/us', label: '우리', icon: Heart },
 ]
 
 export function Layout() {
@@ -78,7 +80,7 @@ export function Layout() {
 
       {/* 하단 탭바 (모바일) */}
       <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-beige-100 bg-white/90 backdrop-blur md:hidden">
-        <div className="grid grid-cols-7">
+        <div className="grid grid-cols-8">
           {NAV_ITEMS.map(({ to, label, icon: Icon }) => (
             <NavLink
               key={to}

@@ -1,10 +1,13 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { ArrowRight, Camera, CircleCheck, Heart, Sparkles } from 'lucide-react'
+import { format } from 'date-fns'
+import { ArrowRight, Camera, CircleCheck, Heart, Send, Sparkles } from 'lucide-react'
 import { checklist, gallery, timeline, wedding } from '../data'
 import { useDday } from '../hooks/useDday'
 import { useSharedState } from '../hooks/useSharedState'
 import { useShotUrls } from '../hooks/useShotUrls'
-import type { OurShot } from '../types'
+import { useUserEmail } from '../hooks/useUserEmail'
+import type { DailyNote, OurShot } from '../types'
 import { currentMonthKey, formatDateKo, formatMonthKo } from '../lib/date'
 import { isItemDone, progressOf, type DoneState } from '../lib/progress'
 import { Card } from '../components/Card'
@@ -60,6 +63,11 @@ export function Home() {
             {checklist.filter((c) => isItemDone(c, doneState)).length}개 완료
           </p>
         </Card>
+      </FadeUp>
+
+      {/* 오늘의 한마디 */}
+      <FadeUp delay={130}>
+        <DailyNotes />
       </FadeUp>
 
       {/* 이번 달 할 일 */}
@@ -193,5 +201,74 @@ export function Home() {
         </section>
       </FadeUp>
     </div>
+  )
+}
+
+/** 서로에게 남기는 짧은 메시지 — 쌓이면 준비 기간의 교환일기 */
+function DailyNotes() {
+  const email = useUserEmail()
+  const [notes, setNotes] = useSharedState<DailyNote[]>('daily-notes', [])
+  const [text, setText] = useState('')
+  const recent = notes.slice(0, 4)
+
+  const send = () => {
+    if (!text.trim() || !email) return
+    setNotes((prev) => [
+      {
+        id: crypto.randomUUID(),
+        author: email,
+        text: text.trim(),
+        date: format(new Date(), 'yyyy-MM-dd'),
+      },
+      ...prev,
+    ])
+    setText('')
+  }
+
+  return (
+    <Card className="p-8">
+      <h2 className="mb-4 flex items-center gap-2 text-lg font-semibold">
+        ✍️ 오늘의 한마디
+      </h2>
+      {recent.length > 0 && (
+        <ul className="mb-5 space-y-3">
+          {recent.map((note) => {
+            const mine = note.author === email
+            return (
+              <li key={note.id} className={`flex ${mine ? 'justify-end' : 'justify-start'}`}>
+                <div
+                  className={`max-w-[80%] rounded-2xl px-4 py-2.5 text-sm leading-relaxed ${
+                    mine ? 'rounded-br-md bg-blush-100' : 'rounded-bl-md bg-beige-100'
+                  }`}
+                >
+                  <p>{note.text}</p>
+                  <p className="mt-1 text-[10px] text-muted">
+                    {mine ? '나' : '상대'} · {note.date}
+                  </p>
+                </div>
+              </li>
+            )
+          })}
+        </ul>
+      )}
+      <div className="flex items-center gap-2">
+        <input
+          value={text}
+          onChange={(e) => setText(e.target.value)}
+          onKeyDown={(e) => e.key === 'Enter' && send()}
+          placeholder="상대에게 한마디 남기기…"
+          className="min-w-0 flex-1 rounded-full border border-beige-200 bg-beige-50/50 px-4 py-2.5 text-sm outline-none placeholder:text-muted/60 focus:border-blush-200"
+        />
+        <button
+          type="button"
+          onClick={send}
+          disabled={!text.trim()}
+          aria-label="보내기"
+          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-blush-400 text-white transition-transform hover:scale-105 disabled:opacity-40"
+        >
+          <Send size={16} />
+        </button>
+      </div>
+    </Card>
   )
 }

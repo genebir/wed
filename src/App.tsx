@@ -7,6 +7,7 @@ import { Gallery } from './pages/Gallery'
 import { SnapPlan } from './pages/SnapPlan'
 import { Budget } from './pages/Budget'
 import { Vendors } from './pages/Vendors'
+import { Us } from './pages/Us'
 
 export function App() {
   return (
@@ -19,6 +20,7 @@ export function App() {
         <Route path="snap-plan" element={<SnapPlan />} />
         <Route path="budget" element={<Budget />} />
         <Route path="vendors" element={<Vendors />} />
+        <Route path="us" element={<Us />} />
       </Route>
     </Routes>
   )
