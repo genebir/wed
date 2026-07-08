@@ -1,15 +1,21 @@
--- 우리 컷 업로드용 비공개 스토리지 버킷 + 정책 (로그인 사용자 전용)
--- Supabase 대시보드 → SQL Editor에서 한 번 실행.
-
-insert into storage.buckets (id, name, public)
-values ('shots', 'shots', false)
-on conflict (id) do nothing;
-
-create policy "shots auth select" on storage.objects
-  for select to authenticated using (bucket_id = 'shots');
-
-create policy "shots auth insert" on storage.objects
-  for insert to authenticated with check (bucket_id = 'shots');
-
-create policy "shots auth delete" on storage.objects
-  for delete to authenticated using (bucket_id = 'shots');
+-- ⚠️ 이 파일은 참고용 기록이다 — SQL Editor에서 직접 실행하면 실패한다.
+-- 최근 Supabase는 storage 스키마 직접 수정(버킷 insert, objects 정책 생성)을
+-- postgres 롤에 허용하지 않으므로, 아래 내용은 대시보드 UI로 설정한다:
+--
+-- 1) Storage → New bucket
+--    - Name: shots
+--    - Public bucket: OFF (비공개)
+--
+-- 2) Storage → shots → Policies → New policy → "For full customization"
+--    - Policy name: shots authenticated
+--    - Allowed operation: SELECT, INSERT, DELETE 모두 체크
+--    - Target roles: authenticated
+--    - USING / WITH CHECK: bucket_id = 'shots'
+--
+-- (아래는 UI가 내부적으로 만드는 것과 동등한 정책)
+-- create policy "shots authenticated" on storage.objects
+--   for select to authenticated using (bucket_id = 'shots');
+-- create policy "shots authenticated" on storage.objects
+--   for insert to authenticated with check (bucket_id = 'shots');
+-- create policy "shots authenticated" on storage.objects
+--   for delete to authenticated using (bucket_id = 'shots');
