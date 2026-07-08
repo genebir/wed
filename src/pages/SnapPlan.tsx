@@ -18,6 +18,8 @@ import { Lightbox } from '../components/Lightbox'
 import { GalleryImage } from '../components/GalleryImage'
 import type { GalleryItem, SnapShot } from '../types'
 
+const REGIONS = ['서울', '수도권 근교', '강원', '충청', '전라', '경상', '제주']
+
 export function SnapPlan() {
   const [gearState, setGearState] = useSharedState<Record<string, boolean>>(
     'snap-gear-state',
@@ -40,37 +42,62 @@ export function SnapPlan() {
         </p>
       </FadeUp>
 
-      {/* 장소 후보 */}
+      {/* 장소 후보 — 지역별 */}
       <FadeUp delay={80}>
         <section>
-          <h2 className="mb-5 flex items-center gap-2 text-xl font-bold tracking-tight">
+          <h2 className="mb-2 flex items-center gap-2 text-xl font-bold tracking-tight">
             <MapPin size={20} className="text-blush-400" /> 장소 후보
+            <span className="text-sm font-normal text-muted">{snapPlan.locations.length}곳</span>
           </h2>
-          <div className="grid gap-4 md:grid-cols-2">
-            {snapPlan.locations.map((loc) => (
-              <Card key={loc.id} className="p-6">
-                <div className="mb-2 flex items-center justify-between gap-3">
-                  <h3 className="font-semibold">{loc.name}</h3>
-                  <span
-                    className={`shrink-0 rounded-full px-2.5 py-1 text-xs ${
-                      loc.permitRequired
-                        ? 'bg-blush-100 text-blush-400'
-                        : 'bg-beige-100 text-muted'
-                    }`}
-                  >
-                    {loc.permitRequired ? '촬영 허가 필요' : '허가 불필요'}
+          <p className="mb-6 text-sm text-muted">
+            🤫 뱃지는 인적 드문 스팟 — 단둘이 여유롭게 찍기 좋아요.
+          </p>
+          {REGIONS.map((region) => {
+            const locs = snapPlan.locations.filter((l) => l.region === region)
+            if (locs.length === 0) return null
+            return (
+              <div key={region} className="mb-8">
+                <h3 className="mb-3 flex items-center gap-2 text-sm font-semibold text-muted">
+                  {region}
+                  <span className="rounded-full bg-beige-100 px-2 py-0.5 text-xs">
+                    {locs.length}
                   </span>
+                </h3>
+                <div className="grid gap-4 md:grid-cols-2">
+                  {locs.map((loc) => (
+                    <Card key={loc.id} className="p-6">
+                      <div className="mb-2 flex items-start justify-between gap-3">
+                        <h4 className="font-semibold leading-snug">{loc.name}</h4>
+                        <div className="flex shrink-0 gap-1.5">
+                          {loc.quietness === '한적' && (
+                            <span className="rounded-full bg-[#0ca30c]/10 px-2.5 py-1 text-xs text-[#006300]">
+                              🤫 한적
+                            </span>
+                          )}
+                          {loc.permitRequired && (
+                            <span className="rounded-full bg-blush-100 px-2.5 py-1 text-xs text-blush-400">
+                              허가·문의 필요
+                            </span>
+                          )}
+                        </div>
+                      </div>
+                      {loc.address && <p className="text-sm text-muted">{loc.address}</p>}
+                      {loc.bestSeason && (
+                        <p className="mt-1.5 text-sm text-muted">🗓 추천 시기: {loc.bestSeason}</p>
+                      )}
+                      {loc.goldenHourNote && (
+                        <p className="mt-1.5 flex items-start gap-1.5 text-sm text-muted">
+                          <Sunset size={14} className="mt-0.5 shrink-0 text-blush-400" />
+                          {loc.goldenHourNote}
+                        </p>
+                      )}
+                      {loc.memo && <p className="mt-2 text-sm leading-relaxed text-muted">{loc.memo}</p>}
+                    </Card>
+                  ))}
                 </div>
-                {loc.address && <p className="text-sm text-muted">{loc.address}</p>}
-                {loc.goldenHourNote && (
-                  <p className="mt-2 flex items-center gap-1.5 text-sm text-muted">
-                    <Sunset size={14} className="shrink-0 text-blush-400" /> {loc.goldenHourNote}
-                  </p>
-                )}
-                {loc.memo && <p className="mt-2 text-sm text-muted">{loc.memo}</p>}
-              </Card>
-            ))}
-          </div>
+              </div>
+            )
+          })}
           <p className="mt-3 text-xs text-muted">
             장소 추가는 <code>src/data/snapPlan.json</code>의 <code>locations</code>에 한 줄.
           </p>

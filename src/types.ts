@@ -78,10 +78,16 @@ export interface Vendor {
 export interface SnapLocation {
   id: string
   name: string
+  /** 서울 / 수도권 근교 / 강원 / 충청 / 전라 / 경상 / 제주 */
+  region: string
   address?: string
   permitRequired?: boolean
   goldenHourNote?: string
   memo?: string
+  /** 인적 드문 정도 */
+  quietness?: '한적' | '보통' | '붐빔'
+  /** 촬영 추천 시기 */
+  bestSeason?: string
 }
 
 export interface SnapGearItem {

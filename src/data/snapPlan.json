@@ -3,91 +3,355 @@
     {
       "id": "loc001",
       "name": "여의도·반포 한강공원",
+      "region": "서울",
       "address": "서울 영등포구 여의동로 330 일대",
       "permitRequired": false,
+      "quietness": "보통",
       "goldenHourNote": "서향 강변 — 일몰 1시간 전 역광 실루엣이 베스트",
-      "memo": "개인 비상업 촬영은 허가 불필요 (업체 동반 상업촬영만 한강사업본부 예약제). 주말 저녁은 인파 — 평일 추천"
+      "memo": "개인 비상업 촬영 허가 불필요. 주말 저녁 인파 — 평일 추천"
     },
     {
       "id": "loc002",
       "name": "노들섬",
+      "region": "서울",
       "address": "서울 용산구 양녕로 445",
       "permitRequired": false,
+      "quietness": "보통",
       "goldenHourNote": "한강대교 남단 방향 노을 스팟, 잔디마당 서향",
       "memo": "일몰 명소. 잔디마당·글라스하우스·계단 등 배경 다양, 9호선 노들역 도보"
     },
     {
       "id": "loc003",
       "name": "하늘공원 (억새)",
+      "region": "서울",
       "address": "서울 마포구 하늘공원로 95",
       "permitRequired": false,
+      "quietness": "붐빔",
+      "bestSeason": "10월 중순",
       "goldenHourNote": "억새 역광은 일몰 1~2시간 전이 절정",
-      "memo": "10월 중순 서울억새축제 시기에 억새 만개 — 2026-10 촬영 일정과 딱 맞음. 인파 피하려면 축제 직전 평일. 오르막은 맹꽁이차 이용 가능"
+      "memo": "서울억새축제 시기 억새 만개 — 2026-10 촬영과 딱. 축제 직전 평일 이른 시간이 그나마 한적"
     },
     {
       "id": "loc004",
       "name": "서울숲",
+      "region": "서울",
       "address": "서울 성동구 뚝섬로 273",
       "permitRequired": false,
+      "quietness": "보통",
+      "bestSeason": "10월 말~11월 초 (은행)",
       "goldenHourNote": "은행나무길·거울연못, 늦은 오후 사선광",
-      "memo": "정책브리핑 추천 셀프웨딩 명소. 개인 셀프는 자유, 대형 장비·상업촬영은 공원 문의(02-460-2901)"
+      "memo": "정책브리핑 추천 명소. 개인 셀프는 자유, 대형 장비는 공원 문의(02-460-2901)"
     },
     {
       "id": "loc005",
       "name": "올림픽공원 나홀로나무·들꽃마루",
+      "region": "서울",
       "address": "서울 송파구 올림픽로 424",
       "permitRequired": false,
+      "quietness": "보통",
+      "bestSeason": "9~10월 (핑크뮬리·댑싸리)",
       "goldenHourNote": "넓은 잔디 서향 — 골든아워 롱샷",
-      "memo": "가을 들꽃마루 핑크뮬리·댑싸리. 나홀로나무 앞은 대기줄 생길 수 있음"
+      "memo": "나홀로나무 앞은 대기줄 생길 수 있음 — 개장 직후가 한적"
     },
     {
       "id": "loc006",
       "name": "남산골한옥마을",
+      "region": "서울",
       "address": "서울 중구 퇴계로34길 28",
       "permitRequired": false,
+      "quietness": "보통",
       "goldenHourNote": "한옥 처마 그늘 + 오후 사선광",
-      "memo": "무료 입장, 한복 무드와 찰떡. 혼잡 시간 피해 오전 일찍 추천"
+      "memo": "무료 입장, 한복 무드와 찰떡. 오전 일찍이 한적"
     },
     {
       "id": "loc007",
       "name": "덕수궁 돌담길·정동길",
+      "region": "서울",
       "address": "서울 중구 정동길 일대",
       "permitRequired": false,
+      "quietness": "보통",
+      "bestSeason": "11월 초 (단풍)",
       "goldenHourNote": "가로수 단풍, 늦은 오후 골목으로 떨어지는 빛",
-      "memo": "도심 골목 무드. 단풍 절정은 11월 초 — 10월 보완 컷 후보"
+      "memo": "도심 골목 무드. 주말 낮은 붐빔 — 평일 아침 추천"
     },
     {
       "id": "loc008",
       "name": "국립중앙박물관 거울못·계단",
+      "region": "서울",
       "address": "서울 용산구 서빙고로 137",
       "permitRequired": false,
+      "quietness": "한적",
       "goldenHourNote": "미니멀 건축 배경 — 흐린 날도 OK",
-      "memo": "우천 대체 플랜 겸용(실내 전시동). 상업촬영·대형 장비는 허가 대상이니 셀프 소규모로"
+      "memo": "우천 대체 플랜 겸용(실내 전시동). 평일 오전은 꽤 한적. 대형 장비는 허가 대상"
     },
     {
       "id": "loc009",
       "name": "선유도공원",
+      "region": "서울",
       "address": "서울 영등포구 선유로 343",
       "permitRequired": false,
+      "quietness": "한적",
       "goldenHourNote": "온실·콘크리트 구조물 — 시네마틱 무드",
-      "memo": "이끼·식물 + 콘크리트 질감. 흐린 날 오히려 무드 좋음"
+      "memo": "이끼·식물 + 콘크리트 질감. 흐린 날 오히려 무드 좋고 평일엔 조용한 편"
     },
     {
       "id": "loc010",
       "name": "창덕궁 후원",
+      "region": "서울",
       "address": "서울 종로구 율곡로 99",
       "permitRequired": true,
+      "quietness": "보통",
+      "bestSeason": "11월 (단풍)",
       "goldenHourNote": "고궁 가을 단풍",
-      "memo": "후원은 시간제 예약 관람 + 촬영허가(궁능유적본부) 필요 — 제약이 많아 참고용 후보"
+      "memo": "시간제 예약 관람 + 촬영허가(궁능유적본부) 필요 — 제약 많아 참고용"
+    },
+    {
+      "id": "loc011",
+      "name": "부암동 백사실계곡·산모퉁이길",
+      "region": "서울",
+      "address": "서울 종로구 부암동 일대",
+      "permitRequired": false,
+      "quietness": "한적",
+      "goldenHourNote": "숲길 사이 사선광 — 오후 중반",
+      "memo": "도심 속 비밀 계곡. 관광객 거의 없어 조용한 필름 무드. 카페 산모퉁이 근처 골목도 좋음"
+    },
+    {
+      "id": "loc012",
+      "name": "양평 두물머리",
+      "region": "수도권 근교",
+      "address": "경기 양평군 양서면 두물머리길",
+      "permitRequired": false,
+      "quietness": "보통",
+      "bestSeason": "가을 새벽 (물안개)",
+      "goldenHourNote": "일출 물안개가 시그니처 — 해 뜨기 30분 전 도착",
+      "memo": "400년 느티나무 + 강 반영. 주말 낮은 붐빔, 평일 새벽은 완전 한적"
+    },
+    {
+      "id": "loc013",
+      "name": "시흥 갯골생태공원",
+      "region": "수도권 근교",
+      "address": "경기 시흥시 동서로 287",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "9~10월 (갈대·칠면초)",
+      "goldenHourNote": "갈대밭 역광 + 흔들전망대 실루엣",
+      "memo": "내만 갯골 습지 — 넓고 사람 적음. 붉은 칠면초 군락이 가을 포인트"
+    },
+    {
+      "id": "loc014",
+      "name": "인천 소래습지생태공원",
+      "region": "수도권 근교",
+      "address": "인천 남동구 소래로154번길 77",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "가을 (갈대)",
+      "goldenHourNote": "풍차 3기 + 갈대 실루엣, 서향 일몰",
+      "memo": "풍차 배경이 이국적. 평일엔 산책객 정도라 촬영 여유로움"
+    },
+    {
+      "id": "loc015",
+      "name": "파주 벽초지수목원",
+      "region": "수도권 근교",
+      "address": "경기 파주시 광탄면 부흥로 242",
+      "permitRequired": true,
+      "quietness": "보통",
+      "goldenHourNote": "유럽식 정원 — 오후 사선광",
+      "memo": "유럽풍 조형 정원, 웨딩업체 촬영 명소. 유료 입장 + 스냅 촬영은 사전 문의 필요"
+    },
+    {
+      "id": "loc016",
+      "name": "포천 국립수목원 (광릉숲)",
+      "region": "수도권 근교",
+      "address": "경기 포천시 소흘읍 광릉수목원로 415",
+      "permitRequired": true,
+      "quietness": "한적",
+      "goldenHourNote": "전나무 숲길 — 정오 전후 나무 사이 빛내림",
+      "memo": "예약제 입장이라 늘 한적. 삼각대 등 촬영은 촬영허가 안내 확인 필요"
+    },
+    {
+      "id": "loc017",
+      "name": "인천 왕산·마시안 해변",
+      "region": "수도권 근교",
+      "address": "인천 중구 용유서로 일대",
+      "permitRequired": false,
+      "quietness": "한적",
+      "goldenHourNote": "서해 일몰 + 물 빠진 갯벌 반영샷",
+      "memo": "영종도 서쪽 — 을왕리보다 조용. 간조 시간 맞추면 거울 반영 컷 가능 (물때 확인)"
+    },
+    {
+      "id": "loc018",
+      "name": "평창 대관령 하늘목장·삼양목장",
+      "region": "강원",
+      "address": "강원 평창군 대관령면 꽃밭양지길 458-23",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "9~10월 (초원+억새)",
+      "goldenHourNote": "능선 위 풍력발전기 실루엣 — 늦은 오후",
+      "memo": "정책브리핑 추천. 광활한 초원이라 평일엔 프레임에 사람 없음. 입장료 있음, 방목 시간 확인"
+    },
+    {
+      "id": "loc019",
+      "name": "강릉 안반데기",
+      "region": "강원",
+      "address": "강원 강릉시 왕산면 안반데기길",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "8월 말~9월 초 (배추 절정)",
+      "goldenHourNote": "새벽 운해 + 일출, 밤엔 은하수 스팟",
+      "memo": "해발 1,100m 고랭지 배추밭 — 인적 드문 끝판왕. 수확 시작 전 시기 확인, 차량 필수"
+    },
+    {
+      "id": "loc020",
+      "name": "고성 아야진·청간정 해변",
+      "region": "강원",
+      "address": "강원 고성군 토성면 아야진해변길",
+      "permitRequired": false,
+      "quietness": "한적",
+      "goldenHourNote": "동해라 일출이 메인 — 새벽 블루아워→일출",
+      "memo": "속초 위쪽이라 관광객 적고 물색 맑음. 바위+등대 배경, 여름 지나면 더 조용"
+    },
+    {
+      "id": "loc021",
+      "name": "당진 아미미술관",
+      "region": "충청",
+      "address": "충남 당진시 순성면 남부로 753-4",
+      "permitRequired": false,
+      "quietness": "한적",
+      "goldenHourNote": "교실 창문 자연광 — 낮 시간대",
+      "memo": "폐교 리모델링 미술관(정책브리핑 추천). 실내+야외 다 되는 우천 대체 가능 스팟. 입장료, 평일 한적 (041-353-1555)"
+    },
+    {
+      "id": "loc022",
+      "name": "서천 신성리 갈대밭",
+      "region": "충청",
+      "address": "충남 서천군 한산면 신성리",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "10~11월 (갈대)",
+      "goldenHourNote": "금강변 갈대 역광 — 일몰 전 1시간",
+      "memo": "축구장 몇 개 규모의 갈대밭 — 갈대 사이 들어가면 완전 단둘. JSA 촬영지로 유명"
+    },
+    {
+      "id": "loc023",
+      "name": "고창 학원농장 메밀밭",
+      "region": "전라",
+      "address": "전북 고창군 공음면 학원농장길 158-6",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "9월 초~중순 (메밀꽃)",
+      "goldenHourNote": "하얀 메밀꽃밭 + 늦은 오후 역광",
+      "memo": "정책브리핑 추천 — 도깨비 촬영지. 9월 촬영 일정과 시기 맞음. 봄엔 청보리 (063-564-9897)"
+    },
+    {
+      "id": "loc024",
+      "name": "담양 관방제림·메타세쿼이아길",
+      "region": "전라",
+      "address": "전남 담양군 담양읍 객사리 일원",
+      "permitRequired": false,
+      "quietness": "보통",
+      "goldenHourNote": "나무 터널 사이 빛내림 — 오전 or 늦은 오후",
+      "memo": "정책브리핑 추천. 메타세쿼이아길은 유료·유명하니 이른 아침, 관방제림 쪽이 더 한적"
+    },
+    {
+      "id": "loc025",
+      "name": "순천만 갈대숲",
+      "region": "전라",
+      "address": "전남 순천시 순천만길 513-25",
+      "permitRequired": false,
+      "quietness": "보통",
+      "bestSeason": "10~11월",
+      "goldenHourNote": "S자 물길 일몰은 용산전망대(왕복 1시간 등산)",
+      "memo": "정책브리핑이 \"가을이 가장 아름다운 곳\"으로 꼽은 스팟. 데크길 컷은 개장 직후가 한적"
+    },
+    {
+      "id": "loc026",
+      "name": "경산 반곡지",
+      "region": "경상",
+      "address": "경북 경산시 남산면 반곡리",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "새벽 무풍 시간대",
+      "goldenHourNote": "왕버들 물반영 — 바람 없는 이른 아침",
+      "memo": "정책브리핑 추천 — 저수지 반영샷 성지. 봄 복사꽃이 유명하지만 가을 새벽 반영도 훌륭, 평일 새벽엔 무인"
+    },
+    {
+      "id": "loc027",
+      "name": "대구 남평문씨본리세거지",
+      "region": "경상",
+      "address": "대구 달성군 화원읍 인흥3길 16",
+      "permitRequired": false,
+      "quietness": "한적",
+      "goldenHourNote": "흙담 골목 사선광 — 늦은 오후",
+      "memo": "정책브리핑 추천. 고택 흙담길이 관광지화 덜 돼 조용함. 한복 무드 최고"
+    },
+    {
+      "id": "loc028",
+      "name": "부산 문화공감 수정 (정란각)",
+      "region": "경상",
+      "address": "부산 동구 홍곡로 75",
+      "permitRequired": true,
+      "quietness": "한적",
+      "goldenHourNote": "적산가옥 실내 — 창살 빛 들어오는 낮",
+      "memo": "정책브리핑 추천 — 아날로그 무드 일본식 가옥. 촬영은 사전 문의 필수, 실내라 우천 대체 가능"
+    },
+    {
+      "id": "loc029",
+      "name": "제주 금악리 왕따나무",
+      "region": "제주",
+      "address": "제주 제주시 한림읍 금악리 산30-8",
+      "permitRequired": false,
+      "quietness": "한적",
+      "goldenHourNote": "초원 한가운데 나무 실루엣 — 일몰 직전",
+      "memo": "정책브리핑 추천. 벌판에 나무 한 그루 — 미니멀 원거리 컷의 정석, 오가는 사람 거의 없음"
+    },
+    {
+      "id": "loc030",
+      "name": "제주 아부오름",
+      "region": "제주",
+      "address": "제주 제주시 구좌읍 송당리",
+      "permitRequired": false,
+      "quietness": "한적",
+      "bestSeason": "10~11월 (억새)",
+      "goldenHourNote": "분화구 능선 실루엣 — 골든아워",
+      "memo": "오르기 쉬운 오름(15분) + 분화구 안 삼나무 원형 숲. 이른 아침이면 전세 낸 느낌. 오름별 출입통제 여부는 방문 전 확인"
+    },
+    {
+      "id": "loc031",
+      "name": "제주 동백포레스트·동백마을",
+      "region": "제주",
+      "address": "제주 서귀포시 남원읍 한신로531번길 22-1",
+      "permitRequired": false,
+      "quietness": "보통",
+      "bestSeason": "11월 말~1월 (동백)",
+      "goldenHourNote": "붉은 동백 + 낮의 부드러운 빛",
+      "memo": "정책브리핑 추천. 촬영 시즌(9~10월)보단 겨울 제주 여행 겸 보완 컷 후보"
     }
   ],
   "gear": [
-    { "id": "gear001", "name": "카메라 + 렌즈" },
-    { "id": "gear002", "name": "삼각대" },
-    { "id": "gear003", "name": "릴리즈 또는 인터벌 촬영 설정" },
-    { "id": "gear004", "name": "반사판" },
-    { "id": "gear005", "name": "예비 배터리" },
-    { "id": "gear006", "name": "예비 SD카드" }
+    {
+      "id": "gear001",
+      "name": "카메라 + 렌즈"
+    },
+    {
+      "id": "gear002",
+      "name": "삼각대"
+    },
+    {
+      "id": "gear003",
+      "name": "릴리즈 또는 인터벌 촬영 설정"
+    },
+    {
+      "id": "gear004",
+      "name": "반사판"
+    },
+    {
+      "id": "gear005",
+      "name": "예비 배터리"
+    },
+    {
+      "id": "gear006",
+      "name": "예비 SD카드"
+    }
   ],
   "shots": [
     {
